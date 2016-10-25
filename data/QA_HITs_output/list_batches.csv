@@ -1,0 +1,7 @@
+batch_type,filename
+passed,QA_HITs_output/passed_batch_results.csv
+participated,QA_HITs_output/participated_batch_results.csv
+all,QA_HITs_output/all_batch_results.csv
+"automatic aligner",QA_HITs_output/HITs_input_30_pairs_batch_results.csv
+victoria,QA_HITs_output/self_batch_results.csv
+annotator,QA_HITs_output/annotator_batch_results.csv

@@ -1,0 +1,4422 @@
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379]
+[1, 4, 6, 7, 8, 10, 11, 17, 19, 24, 25, 28, 29, 30, 31, 32, 33, 35, 36, 39, 40, 43, 45, 46, 47, 49, 54, 56, 58, 62, 63, 70, 72, 76, 77, 81, 82, 83, 84, 90, 92, 93, 96, 97, 98, 100, 103, 107, 108, 109, 113, 114, 116, 120, 121, 124, 125, 126, 129, 130, 131, 132, 133, 134, 136, 137, 139, 140, 141, 142, 143, 144, 145, 148, 149, 153, 156, 158, 159, 160, 161, 162, 169, 171, 173, 176, 177, 179, 180, 181, 182, 183, 186, 187, 188, 189, 190, 191, 192, 193, 195, 196, 198, 201, 202, 204, 206, 207, 210, 213, 214, 219, 220, 221, 224, 227, 229, 234, 236, 237, 238, 240, 243, 244, 246, 247, 250, 253, 254, 255, 257, 258, 259, 260, 261, 265, 268, 269, 270, 271, 272, 276, 278, 282, 283, 285, 291, 292, 293, 294, 295, 296, 298, 300, 305, 307, 310, 312, 313, 315, 319, 322, 323, 324, 329, 330, 332, 337, 340, 341, 342, 343, 344, 345, 349, 350, 351, 352, 353, 361, 363, 364, 365, 367, 370, 371, 372, 375, 376, 379]
+news-common:2143
+seen_double_aligned_pairs: 0
+both pairs exist
+randomly choose C
+
+news-common:723
+seen_double_aligned_pairs: 1
+both pairs exist
+randomly choose A
+
+news-common:1629
+seen_double_aligned_pairs: 2
+both pairs exist
+randomly choose C
+
+news-common:510
+seen_double_aligned_pairs: 3
+both pairs exist
+randomly choose C
+
+news-common:943
+seen_double_aligned_pairs: 4
+both pairs exist
+randomly choose A
+
+news-common:2214
+seen_double_aligned_pairs: 5
+both pairs exist
+randomly choose C
+
+news-common:1696
+seen_double_aligned_pairs: 6
+both pairs exist
+randomly choose A
+
+news-common:2001
+seen_double_aligned_pairs: 7
+both pairs exist
+randomly choose A
+
+news-common:2127
+seen_double_aligned_pairs: 8
+both pairs exist
+randomly choose A
+
+news-common:442
+seen_double_aligned_pairs: 9
+both pairs exist
+randomly choose C
+
+news-common:2718
+seen_double_aligned_pairs: 10
+both pairs exist
+randomly choose A
+
+news-common:1296
+seen_double_aligned_pairs: 11
+both pairs exist
+randomly choose A
+
+news-common:1411
+seen_double_aligned_pairs: 12
+both pairs exist
+randomly choose C
+
+news-common:2006
+seen_double_aligned_pairs: 13
+both pairs exist
+randomly choose C
+
+news-common:963
+seen_double_aligned_pairs: 14
+both pairs exist
+randomly choose C
+
+news-common:1486
+seen_double_aligned_pairs: 15
+both pairs exist
+randomly choose C
+
+news-common:2988
+seen_double_aligned_pairs: 16
+both pairs exist
+randomly choose C
+
+news-common:3006
+seen_double_aligned_pairs: 17
+both pairs exist
+randomly choose A
+
+news-common:2951
+seen_double_aligned_pairs: 18
+both pairs exist
+randomly choose C
+
+news-C:2651
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1251
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2572
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:958
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2705
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1259
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:104
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2190
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:556
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1036
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2058
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1468
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:95
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:659
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:772
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2746
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1211
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1429
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:631
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1554
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:523
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:429
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2128
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:322
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2711
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:852
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:936
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2035
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2168
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:178
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1268
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2719
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:79
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:298
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1347
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:264
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1017
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2341
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1489
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:626
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:326
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:478
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1537
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1278
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1376
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2099
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1318
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:546
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:369
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2619
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2141
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1010
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2672
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2291
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2150
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1576
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2493
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1110
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1893
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:707
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1756
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2565
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:50
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1451
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:402
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1772
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1945
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:362
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1315
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1729
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2162
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1006
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2489
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2409
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2540
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:578
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2466
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1878
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:380
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1564
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1173
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2317
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1778
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:33
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:109
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1379
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2702
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:579
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1471
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1290
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1675
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1484
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:275
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1152
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2472
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:351
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:1139
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:765
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2766
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3799
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3728
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3971
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3261
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3747
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3015
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:4065
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3629
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2886
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:4011
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:4045
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3316
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3137
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3879
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:4066
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:2985
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3649
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3371
+seen_double_aligned_pairs: 19
+only C exists
+
+news-C:3518
+seen_double_aligned_pairs: 19
+only C exists
+
+mtc-trial:666
+seen_double_aligned_pairs: 19
+both pairs exist
+randomly choose A
+
+mtc-trial:512
+seen_double_aligned_pairs: 20
+both pairs exist
+randomly choose C
+
+mtc-trial:597
+seen_double_aligned_pairs: 21
+both pairs exist
+randomly choose C
+
+mtc-trial:656
+seen_double_aligned_pairs: 22
+both pairs exist
+randomly choose C
+
+mtc-trial:681
+seen_double_aligned_pairs: 23
+both pairs exist
+randomly choose C
+
+mtc-trial:644
+seen_double_aligned_pairs: 24
+both pairs exist
+randomly choose A
+
+mtc-trial:588
+seen_double_aligned_pairs: 25
+both pairs exist
+randomly choose A
+
+mtc-trial:529
+seen_double_aligned_pairs: 26
+both pairs exist
+randomly choose C
+
+mtc-trial:594
+seen_double_aligned_pairs: 27
+both pairs exist
+randomly choose C
+
+mtc-trial:668
+seen_double_aligned_pairs: 28
+both pairs exist
+randomly choose A
+
+mtc-trial:561
+seen_double_aligned_pairs: 29
+both pairs exist
+randomly choose A
+
+mtc-trial:658
+seen_double_aligned_pairs: 30
+both pairs exist
+randomly choose A
+
+mtc-trial:615
+seen_double_aligned_pairs: 31
+both pairs exist
+randomly choose A
+
+mtc-trial:548
+seen_double_aligned_pairs: 32
+both pairs exist
+randomly choose A
+
+mtc-trial:642
+seen_double_aligned_pairs: 33
+both pairs exist
+randomly choose A
+
+mtc-trial:619
+seen_double_aligned_pairs: 34
+both pairs exist
+randomly choose C
+
+mtc-trial:501
+seen_double_aligned_pairs: 35
+both pairs exist
+randomly choose A
+
+mtc-trial:575
+seen_double_aligned_pairs: 36
+both pairs exist
+randomly choose A
+
+mtc-trial:629
+seen_double_aligned_pairs: 37
+both pairs exist
+randomly choose C
+
+mtc-trial:589
+seen_double_aligned_pairs: 38
+both pairs exist
+randomly choose C
+
+mtc-trial:637
+seen_double_aligned_pairs: 39
+both pairs exist
+randomly choose A
+
+mtc-trial:546
+seen_double_aligned_pairs: 40
+both pairs exist
+randomly choose A
+
+mtc-trial:664
+seen_double_aligned_pairs: 41
+both pairs exist
+randomly choose C
+
+mtc-trial:672
+seen_double_aligned_pairs: 42
+both pairs exist
+randomly choose C
+
+mtc-trial:643
+seen_double_aligned_pairs: 43
+both pairs exist
+randomly choose A
+
+mtc-trial:645
+seen_double_aligned_pairs: 44
+both pairs exist
+randomly choose C
+
+mtc-trial:636
+seen_double_aligned_pairs: 45
+both pairs exist
+randomly choose A
+
+mtc-trial:540
+seen_double_aligned_pairs: 46
+both pairs exist
+randomly choose A
+
+mtc-trial:631
+seen_double_aligned_pairs: 47
+both pairs exist
+randomly choose A
+
+mtc-trial:596
+seen_double_aligned_pairs: 48
+both pairs exist
+randomly choose C
+
+mtc-trial:533
+seen_double_aligned_pairs: 49
+both pairs exist
+randomly choose A
+
+mtc-trial:587
+seen_double_aligned_pairs: 50
+both pairs exist
+randomly choose C
+
+mtc-trial:504
+seen_double_aligned_pairs: 51
+both pairs exist
+randomly choose C
+
+mtc-trial:584
+seen_double_aligned_pairs: 52
+both pairs exist
+randomly choose C
+
+mtc-trial:650
+seen_double_aligned_pairs: 53
+both pairs exist
+randomly choose C
+
+mtc-trial:653
+seen_double_aligned_pairs: 54
+both pairs exist
+randomly choose A
+
+mtc-trial:617
+seen_double_aligned_pairs: 55
+both pairs exist
+randomly choose C
+
+mtc-trial:522
+seen_double_aligned_pairs: 56
+both pairs exist
+randomly choose A
+
+mtc-trial:599
+seen_double_aligned_pairs: 57
+both pairs exist
+randomly choose C
+
+mtc-trial:694
+seen_double_aligned_pairs: 58
+both pairs exist
+randomly choose A
+
+mtc-trial:693
+seen_double_aligned_pairs: 59
+both pairs exist
+randomly choose C
+
+mtc-trial:676
+seen_double_aligned_pairs: 60
+both pairs exist
+randomly choose C
+
+mtc-trial:641
+seen_double_aligned_pairs: 61
+both pairs exist
+randomly choose C
+
+mtc-trial:648
+seen_double_aligned_pairs: 62
+both pairs exist
+randomly choose A
+
+novels-common:288
+seen_double_aligned_pairs: 63
+both pairs exist
+randomly choose A
+
+novels-common:285
+seen_double_aligned_pairs: 64
+both pairs exist
+randomly choose C
+
+novels-common:1098
+seen_double_aligned_pairs: 65
+both pairs exist
+randomly choose C
+
+novels-common:967
+seen_double_aligned_pairs: 66
+both pairs exist
+randomly choose C
+
+novels-common:561
+seen_double_aligned_pairs: 67
+both pairs exist
+randomly choose C
+
+novels-common:336
+seen_double_aligned_pairs: 68
+both pairs exist
+randomly choose C
+
+novels-common:195
+seen_double_aligned_pairs: 69
+both pairs exist
+randomly choose C
+
+novels-common:281
+seen_double_aligned_pairs: 70
+both pairs exist
+randomly choose A
+
+novels-common:756
+seen_double_aligned_pairs: 71
+both pairs exist
+randomly choose C
+
+novels-common:51
+seen_double_aligned_pairs: 72
+both pairs exist
+randomly choose A
+
+mtc-C:287
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:352
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:163
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:340
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:414
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:207
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:199
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:545
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:323
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:483
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:341
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:71
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:482
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:15
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:249
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:104
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:180
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:452
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:65
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:613
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:85
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:124
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:38
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:165
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:115
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:137
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:209
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:210
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:204
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:246
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:279
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:429
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:52
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:227
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:608
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:160
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:125
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:319
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:305
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:471
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:467
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:157
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:162
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:441
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:100
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:24
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:72
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:393
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:92
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:663
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:41
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:57
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:245
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:175
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:281
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:147
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:238
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:392
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:178
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:444
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:138
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:592
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:218
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:66
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:344
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:3
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:291
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:377
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:158
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:12
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:295
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:403
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:304
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:288
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:153
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:237
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:626
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:1
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:76
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:265
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:317
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:235
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:212
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:107
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:532
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:356
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:155
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:686
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:275
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:358
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:26
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:476
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:272
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:35
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:385
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:193
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-C:363
+seen_double_aligned_pairs: 73
+only C exists
+
+mtc-A:146
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:425
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:556
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:161
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:70
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:400
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:183
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:436
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:426
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:662
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:286
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:498
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:296
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:612
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:432
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:262
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:170
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:87
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:236
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:370
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:355
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:348
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:220
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:552
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:477
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:346
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:391
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:80
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:607
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:116
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:47
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:242
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:91
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:131
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:273
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:491
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:469
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:562
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:21
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:609
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:388
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:406
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:310
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:74
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:240
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:455
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:223
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:325
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:143
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:447
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:135
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:225
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:121
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:75
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:142
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:229
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:256
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:604
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:46
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:366
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:493
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:98
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:254
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:413
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:460
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:164
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:129
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:387
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:389
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:167
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:351
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:118
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:197
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:45
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:195
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:417
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:90
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:473
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:152
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:126
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:51
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:34
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:252
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:82
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:234
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:182
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:404
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:168
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:484
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:11
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:293
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:224
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:418
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:515
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:190
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:255
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:233
+seen_double_aligned_pairs: 73
+only A exists
+
+mtc-A:362
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:520
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:711
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:182
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:522
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:975
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:81
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1132
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:745
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:578
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1027
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1223
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:542
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:310
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:606
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:186
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:682
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:329
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:921
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:817
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:69
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:757
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:511
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:283
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:810
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1148
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:872
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:441
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:544
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:765
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1180
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:198
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:300
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:208
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:623
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:187
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:625
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:648
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1159
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1110
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:463
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1021
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:437
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:33
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:731
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:415
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:894
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:697
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:579
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:38
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:254
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:413
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:214
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:294
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:391
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:760
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:305
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1120
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1024
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:712
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1191
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:877
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:75
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:173
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:31
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:34
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:559
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:869
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:635
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:569
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:673
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:880
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:106
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:878
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:361
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:794
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:433
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:337
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:150
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:156
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:86
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:194
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:32
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:120
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:507
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:360
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:973
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:513
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:302
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:227
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:279
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:17
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1249
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:784
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:375
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:998
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:392
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1142
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:502
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:100
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-A:1051
+seen_double_aligned_pairs: 73
+only A exists
+
+novels-C:694
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:145
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1123
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:676
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:546
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:500
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1164
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:216
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:856
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:992
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:961
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:107
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:399
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1135
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:895
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:853
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1162
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1060
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:276
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:317
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:153
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:449
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:421
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:61
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:593
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1186
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1232
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:523
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1076
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:171
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:563
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:319
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1048
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:994
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:489
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:366
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1143
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:379
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:80
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:527
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:972
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:695
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:469
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:303
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:978
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:858
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1207
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:580
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1212
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:871
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:799
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1064
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:24
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:886
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:6
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:775
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:622
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:822
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:587
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:638
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:144
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1170
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:5
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:947
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:890
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:338
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:608
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:918
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:636
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:325
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:104
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1015
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:462
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:240
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:717
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:899
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:577
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:827
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:630
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1000
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:350
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:237
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:53
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1038
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:133
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:505
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:466
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:92
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:66
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:964
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1147
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1195
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:169
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:63
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:911
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:417
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:943
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:409
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:1171
+seen_double_aligned_pairs: 73
+only C exists
+
+novels-C:617
+seen_double_aligned_pairs: 73
+only C exists
+
+news-A:1325
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2076
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1415
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:206
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:120
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1003
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:253
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:500
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1212
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2067
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1324
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:248
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1231
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:137
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:133
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:56
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2527
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1052
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:581
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:58
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:490
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1054
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1470
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2192
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:747
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:277
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:601
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2090
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1615
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1569
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1527
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:461
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1373
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:692
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1330
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:554
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:376
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2334
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1724
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:498
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2429
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1975
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:278
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:300
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1341
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1546
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1623
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:232
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:233
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1016
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2015
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1410
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1718
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2173
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:61
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:902
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:966
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1029
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1027
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1797
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2421
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:791
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2351
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2056
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1143
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2602
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1328
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2167
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1024
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2113
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:485
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:342
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:598
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:866
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1721
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1701
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:52
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:672
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1404
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:883
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2543
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:874
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1042
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2400
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1498
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2101
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:717
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1657
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2728
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1333
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1950
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2566
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:488
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2140
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:758
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:1533
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:330
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:242
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3689
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3148
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3617
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3390
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3435
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3214
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3070
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3074
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3643
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3237
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3826
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:4049
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3906
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3528
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3484
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2994
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3384
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3350
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:3492
+seen_double_aligned_pairs: 73
+only A exists
+
+news-A:2751
+seen_double_aligned_pairs: 73
+only A exists
+
+news-common:2716
+seen_double_aligned_pairs: 73
+both pairs exist
+randomly choose C
+
+news-common:1775
+seen_double_aligned_pairs: 74
+both pairs exist
+randomly choose C
+
+news-common:1617
+seen_double_aligned_pairs: 75
+both pairs exist
+randomly choose C
+
+news-common:372
+seen_double_aligned_pairs: 76
+both pairs exist
+randomly choose A
+
+news-common:782
+seen_double_aligned_pairs: 77
+both pairs exist
+randomly choose A
+
+news-common:1072
+seen_double_aligned_pairs: 78
+both pairs exist
+randomly choose C
+
+news-common:838
+seen_double_aligned_pairs: 79
+both pairs exist
+randomly choose C
+
+news-common:1650
+seen_double_aligned_pairs: 80
+both pairs exist
+randomly choose C
+
+news-common:2181
+seen_double_aligned_pairs: 81
+both pairs exist
+randomly choose A
+
+news-common:593
+seen_double_aligned_pairs: 82
+both pairs exist
+randomly choose A
+
+news-common:470
+seen_double_aligned_pairs: 83
+both pairs exist
+randomly choose A
+
+news-common:2021
+seen_double_aligned_pairs: 84
+both pairs exist
+randomly choose A
+
+news-common:2560
+seen_double_aligned_pairs: 85
+both pairs exist
+randomly choose C
+
+news-common:2748
+seen_double_aligned_pairs: 86
+both pairs exist
+randomly choose C
+
+news-common:2308
+seen_double_aligned_pairs: 87
+both pairs exist
+randomly choose C
+
+news-common:2043
+seen_double_aligned_pairs: 88
+both pairs exist
+randomly choose C
+
+news-common:792
+seen_double_aligned_pairs: 89
+both pairs exist
+randomly choose C
+
+news-common:619
+seen_double_aligned_pairs: 90
+both pairs exist
+randomly choose A
+
+news-common:1987
+seen_double_aligned_pairs: 91
+both pairs exist
+randomly choose C
+
+news-common:1980
+seen_double_aligned_pairs: 92
+both pairs exist
+randomly choose A
+
+news-common:916
+seen_double_aligned_pairs: 93
+both pairs exist
+randomly choose A
+
+news-common:1795
+seen_double_aligned_pairs: 94
+both pairs exist
+randomly choose C
+
+news-common:1998
+seen_double_aligned_pairs: 95
+both pairs exist
+randomly choose C
+
+news-common:319
+seen_double_aligned_pairs: 96
+both pairs exist
+randomly choose A
+
+news-common:1388
+seen_double_aligned_pairs: 97
+both pairs exist
+randomly choose A
+
+news-common:2054
+seen_double_aligned_pairs: 98
+both pairs exist
+randomly choose A
+
+news-common:1298
+seen_double_aligned_pairs: 99
+both pairs exist
+randomly choose C
+
+news-common:2306
+seen_double_aligned_pairs: 100
+both pairs exist
+randomly choose A
+
+news-common:2435
+seen_double_aligned_pairs: 101
+both pairs exist
+randomly choose C
+
+news-common:1242
+seen_double_aligned_pairs: 102
+both pairs exist
+randomly choose C
+
+news-common:2276
+seen_double_aligned_pairs: 103
+both pairs exist
+randomly choose A
+
+news-common:132
+seen_double_aligned_pairs: 104
+both pairs exist
+randomly choose C
+
+news-common:1686
+seen_double_aligned_pairs: 105
+both pairs exist
+randomly choose C
+
+news-common:2735
+seen_double_aligned_pairs: 106
+both pairs exist
+randomly choose C
+
+news-common:1099
+seen_double_aligned_pairs: 107
+both pairs exist
+randomly choose A
+
+news-common:2586
+seen_double_aligned_pairs: 108
+both pairs exist
+randomly choose A
+
+news-common:1548
+seen_double_aligned_pairs: 109
+both pairs exist
+randomly choose A
+
+news-common:869
+seen_double_aligned_pairs: 110
+both pairs exist
+randomly choose C
+
+news-common:1312
+seen_double_aligned_pairs: 111
+both pairs exist
+randomly choose C
+
+news-common:599
+seen_double_aligned_pairs: 112
+both pairs exist
+randomly choose C
+
+news-common:755
+seen_double_aligned_pairs: 113
+both pairs exist
+randomly choose A
+
+news-common:1730
+seen_double_aligned_pairs: 114
+both pairs exist
+randomly choose A
+
+news-common:2176
+seen_double_aligned_pairs: 115
+both pairs exist
+randomly choose C
+
+news-common:748
+seen_double_aligned_pairs: 116
+both pairs exist
+randomly choose A
+
+news-common:942
+seen_double_aligned_pairs: 117
+both pairs exist
+randomly choose C
+
+news-common:441
+seen_double_aligned_pairs: 118
+both pairs exist
+randomly choose C
+
+news-common:1443
+seen_double_aligned_pairs: 119
+both pairs exist
+randomly choose C
+
+news-common:2039
+seen_double_aligned_pairs: 120
+both pairs exist
+randomly choose A
+
+news-common:749
+seen_double_aligned_pairs: 121
+both pairs exist
+randomly choose A
+
+news-common:2730
+seen_double_aligned_pairs: 122
+both pairs exist
+randomly choose C
+
+news-common:882
+seen_double_aligned_pairs: 123
+both pairs exist
+randomly choose C
+
+news-common:1887
+seen_double_aligned_pairs: 124
+both pairs exist
+randomly choose A
+
+news-common:1126
+seen_double_aligned_pairs: 125
+both pairs exist
+randomly choose A
+
+news-common:1381
+seen_double_aligned_pairs: 126
+both pairs exist
+randomly choose A
+
+news-common:1895
+seen_double_aligned_pairs: 127
+both pairs exist
+randomly choose C
+
+news-common:2
+seen_double_aligned_pairs: 128
+both pairs exist
+randomly choose C
+
+news-common:2524
+seen_double_aligned_pairs: 129
+both pairs exist
+randomly choose A
+
+news-common:2204
+seen_double_aligned_pairs: 130
+both pairs exist
+randomly choose A
+
+news-common:428
+seen_double_aligned_pairs: 131
+both pairs exist
+randomly choose A
+
+news-common:1874
+seen_double_aligned_pairs: 132
+both pairs exist
+randomly choose A
+
+news-common:1766
+seen_double_aligned_pairs: 133
+both pairs exist
+randomly choose A
+
+news-common:937
+seen_double_aligned_pairs: 134
+both pairs exist
+randomly choose A
+
+news-common:829
+seen_double_aligned_pairs: 135
+both pairs exist
+randomly choose C
+
+news-common:161
+seen_double_aligned_pairs: 136
+both pairs exist
+randomly choose A
+
+news-common:2066
+seen_double_aligned_pairs: 137
+both pairs exist
+randomly choose A
+
+news-common:1160
+seen_double_aligned_pairs: 138
+both pairs exist
+randomly choose C
+
+news-common:2253
+seen_double_aligned_pairs: 139
+both pairs exist
+randomly choose A
+
+news-common:935
+seen_double_aligned_pairs: 140
+both pairs exist
+randomly choose A
+
+news-common:1237
+seen_double_aligned_pairs: 141
+both pairs exist
+randomly choose A
+
+news-common:1248
+seen_double_aligned_pairs: 142
+both pairs exist
+randomly choose A
+
+news-common:2569
+seen_double_aligned_pairs: 143
+both pairs exist
+randomly choose A
+
+news-common:1938
+seen_double_aligned_pairs: 144
+both pairs exist
+randomly choose A
+
+news-common:2654
+seen_double_aligned_pairs: 145
+both pairs exist
+randomly choose A
+
+news-common:7
+seen_double_aligned_pairs: 146
+both pairs exist
+randomly choose C
+
+news-common:2251
+seen_double_aligned_pairs: 147
+both pairs exist
+randomly choose C
+
+news-common:2558
+seen_double_aligned_pairs: 148
+both pairs exist
+randomly choose A
+
+news-common:2612
+seen_double_aligned_pairs: 149
+both pairs exist
+randomly choose A
+
+news-common:780
+seen_double_aligned_pairs: 150
+both pairs exist
+randomly choose C
+
+news-common:1440
+seen_double_aligned_pairs: 151
+both pairs exist
+randomly choose C
+
+news-common:1520
+seen_double_aligned_pairs: 152
+both pairs exist
+randomly choose C
+
+news-common:978
+seen_double_aligned_pairs: 153
+both pairs exist
+randomly choose A
+
+news-common:2011
+seen_double_aligned_pairs: 154
+both pairs exist
+randomly choose C
+
+news-common:435
+seen_double_aligned_pairs: 155
+both pairs exist
+randomly choose C
+
+news-common:4
+seen_double_aligned_pairs: 156
+both pairs exist
+randomly choose A
+
+news-common:3544
+seen_double_aligned_pairs: 157
+both pairs exist
+randomly choose C
+
+news-common:4064
+seen_double_aligned_pairs: 158
+both pairs exist
+randomly choose A
+
+news-common:4030
+seen_double_aligned_pairs: 159
+both pairs exist
+randomly choose A
+
+news-common:3291
+seen_double_aligned_pairs: 160
+both pairs exist
+randomly choose A
+
+news-common:2829
+seen_double_aligned_pairs: 161
+both pairs exist
+randomly choose A
+
+news-common:2802
+seen_double_aligned_pairs: 162
+both pairs exist
+randomly choose A
+
+news-common:3446
+seen_double_aligned_pairs: 163
+both pairs exist
+randomly choose C
+
+news-common:3766
+seen_double_aligned_pairs: 164
+both pairs exist
+randomly choose C
+
+news-common:3622
+seen_double_aligned_pairs: 165
+both pairs exist
+randomly choose C
+
+news-common:3929
+seen_double_aligned_pairs: 166
+both pairs exist
+randomly choose C
+
+news-common:3613
+seen_double_aligned_pairs: 167
+both pairs exist
+randomly choose C
+
+news-common:4012
+seen_double_aligned_pairs: 168
+both pairs exist
+randomly choose C
+
+news-common:3332
+seen_double_aligned_pairs: 169
+both pairs exist
+randomly choose A
+
+news-common:3681
+seen_double_aligned_pairs: 170
+both pairs exist
+randomly choose C
+
+news-common:4002
+seen_double_aligned_pairs: 171
+both pairs exist
+randomly choose A
+
+news-common:3666
+seen_double_aligned_pairs: 172
+both pairs exist
+randomly choose C
+
+news-common:3923
+seen_double_aligned_pairs: 173
+both pairs exist
+randomly choose A
+
+news-common:3764
+seen_double_aligned_pairs: 174
+both pairs exist
+randomly choose C
+
+news-common:3247
+seen_double_aligned_pairs: 175
+both pairs exist
+randomly choose C
+
+news-common:3550
+seen_double_aligned_pairs: 176
+both pairs exist
+randomly choose A
+
+news-common:3956
+seen_double_aligned_pairs: 177
+both pairs exist
+randomly choose A
+
+news-common:2915
+seen_double_aligned_pairs: 178
+both pairs exist
+randomly choose C
+
+news-common:3710
+seen_double_aligned_pairs: 179
+both pairs exist
+randomly choose A
+
+news-common:3075
+seen_double_aligned_pairs: 180
+both pairs exist
+randomly choose A
+
+news-common:3087
+seen_double_aligned_pairs: 181
+both pairs exist
+randomly choose A
+
+news-common:3535
+seen_double_aligned_pairs: 182
+both pairs exist
+randomly choose A
+
+news-common:3147
+seen_double_aligned_pairs: 183
+both pairs exist
+randomly choose A
+
+mtc-trial:582
+seen_double_aligned_pairs: 184
+both pairs exist
+randomly choose C
+
+mtc-trial:622
+seen_double_aligned_pairs: 185
+both pairs exist
+randomly choose C
+
+mtc-trial:576
+seen_double_aligned_pairs: 186
+both pairs exist
+randomly choose A
+
+mtc-trial:670
+seen_double_aligned_pairs: 187
+both pairs exist
+randomly choose A
+
+mtc-trial:581
+seen_double_aligned_pairs: 188
+both pairs exist
+randomly choose A
+
+novels-common:1001
+seen_double_aligned_pairs: 189
+both pairs exist
+randomly choose A
+
+novels-common:825
+seen_double_aligned_pairs: 190
+both pairs exist
+randomly choose A
+
+novels-common:49
+seen_double_aligned_pairs: 191
+both pairs exist
+randomly choose A
+
+novels-common:529
+seen_double_aligned_pairs: 192
+both pairs exist
+randomly choose A
+
+novels-common:814
+seen_double_aligned_pairs: 193
+both pairs exist
+randomly choose A
+
+novels-common:218
+seen_double_aligned_pairs: 194
+both pairs exist
+randomly choose C
+
+novels-common:941
+seen_double_aligned_pairs: 195
+both pairs exist
+randomly choose A
+
+novels-common:538
+seen_double_aligned_pairs: 196
+both pairs exist
+randomly choose A
+
+novels-common:915
+seen_double_aligned_pairs: 197
+both pairs exist
+randomly choose C
+
+novels-common:68
+seen_double_aligned_pairs: 198
+both pairs exist
+randomly choose A
+
+novels-common:767
+seen_double_aligned_pairs: 199
+both pairs exist
+randomly choose C
+
+novels-common:273
+seen_double_aligned_pairs: 200
+both pairs exist
+randomly choose C
+
+novels-common:1226
+seen_double_aligned_pairs: 201
+both pairs exist
+randomly choose A
+
+novels-common:1108
+seen_double_aligned_pairs: 202
+both pairs exist
+randomly choose A
+
+novels-common:541
+seen_double_aligned_pairs: 203
+both pairs exist
+randomly choose C
+
+novels-common:318
+seen_double_aligned_pairs: 204
+both pairs exist
+randomly choose A
+
+novels-common:185
+seen_double_aligned_pairs: 205
+both pairs exist
+randomly choose C
+
+novels-common:626
+seen_double_aligned_pairs: 206
+both pairs exist
+randomly choose A
+
+novels-common:602
+seen_double_aligned_pairs: 207
+both pairs exist
+randomly choose A
+
+novels-common:313
+seen_double_aligned_pairs: 208
+both pairs exist
+randomly choose C
+
+novels-common:327
+seen_double_aligned_pairs: 209
+both pairs exist
+randomly choose C
+
+novels-common:1101
+seen_double_aligned_pairs: 210
+both pairs exist
+randomly choose A
+
+novels-common:904
+seen_double_aligned_pairs: 211
+both pairs exist
+randomly choose C
+
+novels-common:1172
+seen_double_aligned_pairs: 212
+both pairs exist
+randomly choose C
+
+novels-common:298
+seen_double_aligned_pairs: 213
+both pairs exist
+randomly choose A
+
+novels-common:728
+seen_double_aligned_pairs: 214
+both pairs exist
+randomly choose A
+
+novels-common:423
+seen_double_aligned_pairs: 215
+both pairs exist
+randomly choose C
+
+novels-common:324
+seen_double_aligned_pairs: 216
+both pairs exist
+randomly choose C
+
+novels-common:140
+seen_double_aligned_pairs: 217
+both pairs exist
+randomly choose C
+
+novels-common:1006
+seen_double_aligned_pairs: 218
+both pairs exist
+randomly choose C
+
+novels-common:264
+seen_double_aligned_pairs: 219
+both pairs exist
+randomly choose A
+
+novels-common:771
+seen_double_aligned_pairs: 220
+both pairs exist
+randomly choose A
+
+novels-common:155
+seen_double_aligned_pairs: 221
+both pairs exist
+randomly choose A
+
+novels-common:1179
+seen_double_aligned_pairs: 222
+both pairs exist
+randomly choose C
+
+novels-common:365
+seen_double_aligned_pairs: 223
+both pairs exist
+randomly choose C
+
+novels-common:977
+seen_double_aligned_pairs: 224
+both pairs exist
+randomly choose A
+
+novels-common:591
+seen_double_aligned_pairs: 225
+both pairs exist
+randomly choose C
+
+novels-common:210
+seen_double_aligned_pairs: 226
+both pairs exist
+randomly choose C
+
+novels-common:1088
+seen_double_aligned_pairs: 227
+both pairs exist
+randomly choose A
+
+novels-common:811
+seen_double_aligned_pairs: 228
+both pairs exist
+randomly choose C
+
+novels-common:1022
+seen_double_aligned_pairs: 229
+both pairs exist
+randomly choose A
+
+novels-common:451
+seen_double_aligned_pairs: 230
+both pairs exist
+randomly choose C
+
+novels-common:770
+seen_double_aligned_pairs: 231
+both pairs exist
+randomly choose C
+
+novels-common:958
+seen_double_aligned_pairs: 232
+both pairs exist
+randomly choose C
+
+novels-common:624
+seen_double_aligned_pairs: 233
+both pairs exist
+randomly choose C
+
+novels-common:920
+seen_double_aligned_pairs: 234
+both pairs exist
+randomly choose A
+
+novels-common:77
+seen_double_aligned_pairs: 235
+both pairs exist
+randomly choose C
+
+novels-common:1235
+seen_double_aligned_pairs: 236
+both pairs exist
+randomly choose A
+
+novels-common:651
+seen_double_aligned_pairs: 237
+both pairs exist
+randomly choose A
+
+novels-common:584
+seen_double_aligned_pairs: 238
+both pairs exist
+randomly choose A
+
+novels-common:850
+seen_double_aligned_pairs: 239
+both pairs exist
+randomly choose C
+
+novels-common:657
+seen_double_aligned_pairs: 240
+both pairs exist
+randomly choose A
+
+novels-common:567
+seen_double_aligned_pairs: 241
+both pairs exist
+randomly choose C
+
+novels-common:662
+seen_double_aligned_pairs: 242
+both pairs exist
+randomly choose C
+
+novels-common:664
+seen_double_aligned_pairs: 243
+both pairs exist
+randomly choose A
+
+novels-common:1145
+seen_double_aligned_pairs: 244
+both pairs exist
+randomly choose A
+
+novels-common:404
+seen_double_aligned_pairs: 245
+both pairs exist
+randomly choose C
+
+novels-common:733
+seen_double_aligned_pairs: 246
+both pairs exist
+randomly choose A
+
+novels-common:1252
+seen_double_aligned_pairs: 247
+both pairs exist
+randomly choose A
+
+novels-common:293
+seen_double_aligned_pairs: 248
+both pairs exist
+randomly choose C
+
+novels-common:128
+seen_double_aligned_pairs: 249
+both pairs exist
+randomly choose C
+
+novels-common:857
+seen_double_aligned_pairs: 250
+both pairs exist
+randomly choose A
+
+novels-common:209
+seen_double_aligned_pairs: 251
+both pairs exist
+randomly choose C
+
+novels-common:1139
+seen_double_aligned_pairs: 252
+both pairs exist
+randomly choose C
+
+novels-common:696
+seen_double_aligned_pairs: 253
+both pairs exist
+randomly choose A
+
+novels-common:448
+seen_double_aligned_pairs: 254
+both pairs exist
+randomly choose A
+
+novels-common:864
+seen_double_aligned_pairs: 255
+both pairs exist
+randomly choose A
+
+novels-common:689
+seen_double_aligned_pairs: 256
+both pairs exist
+randomly choose C
+
+novels-common:453
+seen_double_aligned_pairs: 257
+both pairs exist
+randomly choose A
+
+novels-common:1133
+seen_double_aligned_pairs: 258
+both pairs exist
+randomly choose A
+
+novels-common:290
+seen_double_aligned_pairs: 259
+both pairs exist
+randomly choose A
+
+novels-common:590
+seen_double_aligned_pairs: 260
+both pairs exist
+randomly choose A
+
+novels-common:942
+seen_double_aligned_pairs: 261
+both pairs exist
+randomly choose A
+
+novels-common:1158
+seen_double_aligned_pairs: 262
+both pairs exist
+randomly choose C
+
+novels-common:1124
+seen_double_aligned_pairs: 263
+both pairs exist
+randomly choose C
+
+novels-common:55
+seen_double_aligned_pairs: 264
+both pairs exist
+randomly choose C
+
+novels-common:779
+seen_double_aligned_pairs: 265
+both pairs exist
+randomly choose A
+
+novels-common:1155
+seen_double_aligned_pairs: 266
+both pairs exist
+randomly choose C
+
+novels-common:458
+seen_double_aligned_pairs: 267
+both pairs exist
+randomly choose C
+
+novels-common:403
+seen_double_aligned_pairs: 268
+both pairs exist
+randomly choose A
+
+novels-common:530
+seen_double_aligned_pairs: 269
+both pairs exist
+randomly choose A
+
+novels-common:863
+seen_double_aligned_pairs: 270
+both pairs exist
+randomly choose A
+
+novels-common:670
+seen_double_aligned_pairs: 271
+both pairs exist
+randomly choose A
+
+novels-common:965
+seen_double_aligned_pairs: 272
+both pairs exist
+randomly choose A
+
+novels-common:1086
+seen_double_aligned_pairs: 273
+both pairs exist
+randomly choose C
+
+novels-common:190
+seen_double_aligned_pairs: 274
+both pairs exist
+randomly choose C
+
+novels-common:215
+seen_double_aligned_pairs: 275
+both pairs exist
+randomly choose C
+
+novels-common:713
+seen_double_aligned_pairs: 276
+both pairs exist
+randomly choose A
+
+novels-common:1026
+seen_double_aligned_pairs: 277
+both pairs exist
+randomly choose C
+
+mtc-common:632
+seen_double_aligned_pairs: 278
+both pairs exist
+randomly choose A
+
+mtc-common:578
+seen_double_aligned_pairs: 279
+both pairs exist
+randomly choose C
+
+mtc-common:564
+seen_double_aligned_pairs: 280
+both pairs exist
+randomly choose C
+
+mtc-common:595
+seen_double_aligned_pairs: 281
+both pairs exist
+randomly choose C
+
+mtc-common:511
+seen_double_aligned_pairs: 282
+both pairs exist
+randomly choose A
+
+mtc-common:675
+seen_double_aligned_pairs: 283
+both pairs exist
+randomly choose A
+
+mtc-common:566
+seen_double_aligned_pairs: 284
+both pairs exist
+randomly choose C
+
+mtc-common:505
+seen_double_aligned_pairs: 285
+both pairs exist
+randomly choose A
+
+mtc-common:657
+seen_double_aligned_pairs: 286
+both pairs exist
+randomly choose C
+
+mtc-common:560
+seen_double_aligned_pairs: 287
+both pairs exist
+randomly choose C
+
+mtc-common:628
+seen_double_aligned_pairs: 288
+both pairs exist
+randomly choose C
+
+mtc-common:553
+seen_double_aligned_pairs: 289
+both pairs exist
+randomly choose C
+
+mtc-common:539
+seen_double_aligned_pairs: 290
+both pairs exist
+randomly choose C
+
+mtc-common:655
+seen_double_aligned_pairs: 291
+both pairs exist
+randomly choose A
+
+mtc-common:638
+seen_double_aligned_pairs: 292
+both pairs exist
+randomly choose A
+
+mtc-common:525
+seen_double_aligned_pairs: 293
+both pairs exist
+randomly choose A
+
+mtc-common:654
+seen_double_aligned_pairs: 294
+both pairs exist
+randomly choose A
+
+mtc-common:586
+seen_double_aligned_pairs: 295
+both pairs exist
+randomly choose A
+
+mtc-common:602
+seen_double_aligned_pairs: 296
+both pairs exist
+randomly choose A
+
+mtc-common:528
+seen_double_aligned_pairs: 297
+both pairs exist
+randomly choose C
+
+mtc-common:690
+seen_double_aligned_pairs: 298
+both pairs exist
+randomly choose A
+
+mtc-common:696
+seen_double_aligned_pairs: 299
+both pairs exist
+randomly choose C
+
+mtc-common:691
+seen_double_aligned_pairs: 300
+both pairs exist
+randomly choose A
+
+mtc-common:614
+seen_double_aligned_pairs: 301
+both pairs exist
+randomly choose C
+
+mtc-common:598
+seen_double_aligned_pairs: 302
+both pairs exist
+randomly choose C
+
+mtc-common:698
+seen_double_aligned_pairs: 303
+both pairs exist
+randomly choose C
+
+mtc-common:557
+seen_double_aligned_pairs: 304
+both pairs exist
+randomly choose C
+
+mtc-common:682
+seen_double_aligned_pairs: 305
+both pairs exist
+randomly choose A
+
+mtc-common:574
+seen_double_aligned_pairs: 306
+both pairs exist
+randomly choose C
+
+mtc-common:678
+seen_double_aligned_pairs: 307
+both pairs exist
+randomly choose A
+
+mtc-common:527
+seen_double_aligned_pairs: 308
+both pairs exist
+randomly choose C
+
+mtc-common:541
+seen_double_aligned_pairs: 309
+both pairs exist
+randomly choose C
+
+mtc-common:568
+seen_double_aligned_pairs: 310
+both pairs exist
+randomly choose A
+
+mtc-common:516
+seen_double_aligned_pairs: 311
+both pairs exist
+randomly choose C
+
+mtc-common:542
+seen_double_aligned_pairs: 312
+both pairs exist
+randomly choose A
+
+mtc-common:523
+seen_double_aligned_pairs: 313
+both pairs exist
+randomly choose A
+
+mtc-common:524
+seen_double_aligned_pairs: 314
+both pairs exist
+randomly choose C
+
+mtc-common:647
+seen_double_aligned_pairs: 315
+both pairs exist
+randomly choose A
+
+mtc-common:651
+seen_double_aligned_pairs: 316
+both pairs exist
+randomly choose C
+
+mtc-common:625
+seen_double_aligned_pairs: 317
+both pairs exist
+randomly choose C
+
+mtc-common:500
+seen_double_aligned_pairs: 318
+both pairs exist
+randomly choose C
+
+mtc-common:526
+seen_double_aligned_pairs: 319
+both pairs exist
+randomly choose A
+
+mtc-common:618
+seen_double_aligned_pairs: 320
+both pairs exist
+randomly choose C
+
+mtc-common:667
+seen_double_aligned_pairs: 321
+both pairs exist
+randomly choose C
+
+mtc-common:507
+seen_double_aligned_pairs: 322
+both pairs exist
+randomly choose A
+
+mtc-common:521
+seen_double_aligned_pairs: 323
+both pairs exist
+randomly choose A
+
+mtc-common:627
+seen_double_aligned_pairs: 324
+both pairs exist
+randomly choose A
+
+mtc-common:630
+seen_double_aligned_pairs: 325
+both pairs exist
+randomly choose C
+
+mtc-common:509
+seen_double_aligned_pairs: 326
+both pairs exist
+randomly choose C
+
+mtc-common:569
+seen_double_aligned_pairs: 327
+both pairs exist
+randomly choose C
+
+mtc-common:687
+seen_double_aligned_pairs: 328
+both pairs exist
+randomly choose C
+
+mtc-common:571
+seen_double_aligned_pairs: 329
+both pairs exist
+randomly choose A
+
+mtc-common:659
+seen_double_aligned_pairs: 330
+both pairs exist
+randomly choose A
+
+mtc-common:570
+seen_double_aligned_pairs: 331
+both pairs exist
+randomly choose C
+
+mtc-common:601
+seen_double_aligned_pairs: 332
+both pairs exist
+randomly choose A
+
+mtc-common:563
+seen_double_aligned_pairs: 333
+both pairs exist
+randomly choose C
+
+mtc-common:508
+seen_double_aligned_pairs: 334
+both pairs exist
+randomly choose C
+
+mtc-common:684
+seen_double_aligned_pairs: 335
+both pairs exist
+randomly choose C
+
+mtc-common:621
+seen_double_aligned_pairs: 336
+both pairs exist
+randomly choose C
+
+mtc-common:616
+seen_double_aligned_pairs: 337
+both pairs exist
+randomly choose A
+
+mtc-common:649
+seen_double_aligned_pairs: 338
+both pairs exist
+randomly choose C
+
+mtc-common:513
+seen_double_aligned_pairs: 339
+both pairs exist
+randomly choose C
+
+mtc-common:559
+seen_double_aligned_pairs: 340
+both pairs exist
+randomly choose A
+
+mtc-common:665
+seen_double_aligned_pairs: 341
+both pairs exist
+randomly choose A
+
+mtc-common:640
+seen_double_aligned_pairs: 342
+both pairs exist
+randomly choose A
+
+mtc-common:530
+seen_double_aligned_pairs: 343
+both pairs exist
+randomly choose A
+
+mtc-common:579
+seen_double_aligned_pairs: 344
+both pairs exist
+randomly choose A
+
+mtc-common:671
+seen_double_aligned_pairs: 345
+both pairs exist
+randomly choose A
+
+mtc-common:591
+seen_double_aligned_pairs: 346
+both pairs exist
+randomly choose C
+
+mtc-common:514
+seen_double_aligned_pairs: 347
+both pairs exist
+randomly choose C
+
+mtc-common:699
+seen_double_aligned_pairs: 348
+both pairs exist
+randomly choose C
+
+mtc-common:635
+seen_double_aligned_pairs: 349
+both pairs exist
+randomly choose A
+
+mtc-common:510
+seen_double_aligned_pairs: 350
+both pairs exist
+randomly choose A
+
+mtc-common:517
+seen_double_aligned_pairs: 351
+both pairs exist
+randomly choose A
+
+mtc-common:634
+seen_double_aligned_pairs: 352
+both pairs exist
+randomly choose A
+
+mtc-common:688
+seen_double_aligned_pairs: 353
+both pairs exist
+randomly choose A
+
+mtc-common:652
+seen_double_aligned_pairs: 354
+both pairs exist
+randomly choose C
+
+mtc-common:600
+seen_double_aligned_pairs: 355
+both pairs exist
+randomly choose C
+
+mtc-common:679
+seen_double_aligned_pairs: 356
+both pairs exist
+randomly choose C
+
+mtc-common:520
+seen_double_aligned_pairs: 357
+both pairs exist
+randomly choose C
+
+mtc-common:593
+seen_double_aligned_pairs: 358
+both pairs exist
+randomly choose C
+
+mtc-common:547
+seen_double_aligned_pairs: 359
+both pairs exist
+randomly choose C
+
+mtc-common:605
+seen_double_aligned_pairs: 360
+both pairs exist
+randomly choose C
+
+mtc-common:535
+seen_double_aligned_pairs: 361
+both pairs exist
+randomly choose A
+
+mtc-common:503
+seen_double_aligned_pairs: 362
+both pairs exist
+randomly choose C
+
+mtc-common:610
+seen_double_aligned_pairs: 363
+both pairs exist
+randomly choose A
+
+mtc-common:680
+seen_double_aligned_pairs: 364
+both pairs exist
+randomly choose A
+
+mtc-common:536
+seen_double_aligned_pairs: 365
+both pairs exist
+randomly choose A
+
+mtc-common:620
+seen_double_aligned_pairs: 366
+both pairs exist
+randomly choose C
+
+mtc-common:543
+seen_double_aligned_pairs: 367
+both pairs exist
+randomly choose A
+
+mtc-common:537
+seen_double_aligned_pairs: 368
+both pairs exist
+randomly choose C
+
+mtc-common:565
+seen_double_aligned_pairs: 369
+both pairs exist
+randomly choose C
+
+mtc-common:580
+seen_double_aligned_pairs: 370
+both pairs exist
+randomly choose A
+
+mtc-common:646
+seen_double_aligned_pairs: 371
+both pairs exist
+randomly choose A
+
+mtc-common:660
+seen_double_aligned_pairs: 372
+both pairs exist
+randomly choose A
+
+mtc-common:633
+seen_double_aligned_pairs: 373
+both pairs exist
+randomly choose C
+
+mtc-common:669
+seen_double_aligned_pairs: 374
+both pairs exist
+randomly choose C
+
+mtc-common:549
+seen_double_aligned_pairs: 375
+both pairs exist
+randomly choose A
+
+mtc-common:502
+seen_double_aligned_pairs: 376
+both pairs exist
+randomly choose A
+
+mtc-common:531
+seen_double_aligned_pairs: 377
+both pairs exist
+randomly choose C
+
+num a: 189
+num c: 189

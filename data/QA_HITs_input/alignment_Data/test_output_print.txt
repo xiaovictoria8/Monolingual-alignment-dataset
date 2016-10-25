@@ -1,0 +1,1225 @@
+1
+13-17 6-10 7-11 8-12 9-13 11-15 12-16 0-5 1-6 5-9 4-8 2-1 
+[['.', '.'], ['with', 'with'], ['Random', 'Random'], ['House', 'House'], ['to', 'to'], ['two', 'two'], ['books', 'books'], ['she', 'she'], ['has', 'has'], ['contract', 'deal'], ['a', 'a'], ['also', 'also']]
+
+2
+28-23 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 21-22 
+[['.', '.'], ['the', 'the'], ['losses', 'losses'], ['occurred', 'occurred'], ['overnight', 'overnight'], ['in', 'in'], ['Willow', 'Willow'], ['Canyon', 'Canyon'], [',', ','], ['one', 'one'], ['of', 'of'], ['three', 'three'], ['areas', 'areas'], ['in', 'in'], ['the', 'the'], ['Santa', 'Santa'], ['Catalina', 'Catalina'], ['Mountains', 'Mountains'], ['threatened', 'threatened'], ['by', 'by'], ['the', 'the'], ['fire', 'fire']]
+
+3
+31-33 6-8 7-9 8-10 9-11 10-12 11-13 12-14 13-15 14-16 15-17 16-18 17-19 18-20 19-21 20-22 21-23 22-24 23-25 24-26 25-27 26-28 27-29 28-30 29-31 30-32 0-5 3-3 
+[['.', '.'], ['end', 'end'], ['the', 'the'], ["''", "''"], ['armed', 'armed'], ['intefadeh', 'intefadeh'], ["''", "''"], [',', ','], ['renounced', 'renounced'], ["''", "''"], ['terrorism', 'terrorism'], ['against', 'against'], ['the', 'the'], ['Israelis', 'Israelis'], ['wherever', 'wherever'], ['they', 'they'], ['might', 'might'], ['be', 'be'], ["''", "''"], ['and', 'and'], ['alluded', 'alluded'], ['to', 'to'], ['the', 'the'], ['disarming', 'disarming'], ['of', 'of'], ['militants', 'militants'], ['Abbas', 'Abbas'], ['summit', 'summit']]
+
+4
+17-19 9-11 10-12 11-13 12-14 13-15 14-16 15-17 16-18 0-0 1-1 2-2 3-3 5-6 
+[['.', '.'], [',', ','], ['includes', 'includes'], ['19', '19'], ['international', 'international'], ['power', 'power'], ['and', 'and'], ['pipeline', 'pipeline'], ['holdings', 'holdings'], ['the', 'the'], ['second', 'second'], ['company', 'company'], [',', ','], ['dubbed', 'called']]
+
+5
+18-19 0-0 1-1 2-2 3-16 4-17 12-8 9-7 17-12 
+[['.', '.'], ['according', 'according'], ['to', 'to'], ['the', 'the'], ['2000', '2000'], ['census', 'census'], ['population', 'population'], ['Hispanic', 'Hispanic'], ['percent', 'percent']]
+
+6
+14-12 10-8 11-9 12-10 13-11 7-3 8-4 9-5 4-7 5-2 
+[['.', '.'], ['on', 'on'], ['$', '$'], ['100,000', '100,000'], ['bail', 'bail'], ['Camden', 'Camden'], ['County', 'County'], ['jail', 'jail'], ['Sunday', 'Sunday'], ['in', 'in']]
+
+7
+18-22 4-5 5-6 6-7 7-8 8-9 9-10 2-2 3-3 10-15 11-16 1-1 0-0 14-21 13-11 12-17 12-13 
+[['.', '.'], ['to', 'to'], ['$', '$'], ['817', '817'], ['million', 'million'], [',', ','], ['the', 'the'], ['26', '26'], ['percent', 'percent'], ['South', 'South'], ['San', 'San'], ['jumped', 'rose'], ['revenue', 'revenue'], ['said', 'said'], ['company', 'company'], ['Francisco-based', 'Francisco'], ['Francisco-based', 'based']]
+
+8
+13-17 9-13 10-14 11-15 12-16 3-4 4-5 5-6 1-9 2-10 7-12 8-12 0-0 6-11 
+[['.', '.'], ['program', 'program'], ['for', 'for'], ['the', 'the'], ['poor', 'poor'], ['federal', 'federal'], ['and', 'and'], ['state', 'state'], ['is', 'is'], ['the', 'the'], ['health', 'health-insurance'], ['insurance', 'health-insurance'], ['Medicaid', 'Medicaid'], ['government', 'government']]
+
+9
+24-23 6-4 7-5 8-6 9-7 10-8 11-9 12-10 13-11 14-12 15-13 16-14 17-15 18-16 19-17 20-18 21-19 22-20 23-21 5-1 
+[['.', '.'], [':', ':'], ["''", "''"], ['I', 'I'], ['still', 'still'], ['want', 'want'], ['to', 'to'], ['be', 'be'], ['the', 'the'], ['candidate', 'candidate'], ['for', 'for'], ['guys', 'guys'], ['with', 'with'], ['Confederate', 'Confederate'], ['flags', 'flags'], ['in', 'in'], ['their', 'their'], ['pickup', 'pickup'], ['trucks', 'trucks'], ['said', 'told']]
+
+10
+21-15 8-2 9-3 10-4 11-5 12-6 13-7 14-8 15-9 16-10 17-11 18-12 19-13 20-14 2-1 
+[['.', '.'], ['would', 'would'], ['stop', 'stop'], ['the', 'the'], ['extradition', 'extradition'], ['process', 'process'], ['and', 'and'], ['could', 'could'], ['take', 'take'], ['several', 'several'], ['months', 'months'], [',', ','], ['Rork', 'Rork'], ['said', 'said'], ['appeals', 'appeal']]
+
+11
+17-18 11-8 12-9 13-10 14-11 15-12 16-13 7-3 8-4 9-5 10-6 0-0 1-1 2-2 
+[['.', '.'], ['murder', 'murder'], ['and', 'and'], ['ordered', 'ordered'], ['held', 'held'], ['without', 'without'], ['bail', 'bail'], ['on', 'on'], ['three', 'three'], ['counts', 'counts'], ['of', 'of'], ['she', 'she'], ['was', 'was'], ['arraigned', 'arraigned']]
+
+12
+31-27 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22 22-23 23-24 0-0 1-1 2-2 3-3 9-10 10-11 11-12 12-13 6-7 7-8 27-25 28-26 4-5 
+[['.', '.'], ['along', 'along'], ['with', 'with'], ['Galardi', 'Galardi'], ['Enterprises', 'Enterprises'], [',', ','], ['an', 'an'], ['office', 'office'], ['atop', 'atop'], ['a', 'a'], ['bar', 'bar'], ['in', 'in'], ['Las', 'Las'], ['Vegas', 'Vegas'], [',', ','], ['Cheetah', 'Cheetah'], ["'s", "'s"], ['and', 'and'], ['Jaguars', 'Jaguars'], ['two', 'two'], ['clubs', 'clubs'], ['in', 'in'], ['downtown', 'downtown'], ['agents', 'agents']]
+
+13
+29-26 4-5 5-6 6-7 7-8 8-9 9-10 10-11 19-15 20-16 21-17 22-18 23-19 25-22 26-23 27-24 28-25 0-0 1-1 2-2 3-3 18-14 13-13 
+[['.', '.'], ['Healey', 'Healey'], [',', ','], ['who', 'who'], ['is', 'is'], ['a', 'a'], ['criminologist', 'criminologist'], [',', ','], ['here', 'here'], ['and', 'and'], ['across', 'across'], ['the', 'the'], ['country', 'country'], ['wariness', 'wariness'], ['toward', 'toward'], ['capital', 'capital'], ['punishment', 'punishment'], ['in', 'in'], ['an', 'an'], ['interview', 'interview'], [',', ','], ['legislators', 'lawmakers'], ['much', 'many']]
+
+14
+17-14 7-9 8-10 9-11 10-12 3-6 4-7 5-8 2-1 6-9 8-9 9-9 10-9 11-9 12-9 6-11 7-11 8-11 11-11 12-11 13-13 
+[['.', '.'], ['Centers', 'Centers'], ['for', 'for'], ['Disease', 'Disease'], ['Control', 'Control'], ['Department', 'department'], ['is', 'is'], ['following', 'following'], ['Health', 'health'], ['National', 'Centers'], ['for', 'Centers'], ['Disease', 'Centers'], ['Control', 'Centers'], ['and', 'Centers'], ['Prevention', 'Centers'], ['National', 'Disease'], ['Centers', 'Disease'], ['for', 'Disease'], ['and', 'Disease'], ['Prevention', 'Disease'], ['protocol', 'protocol']]
+
+15
+13-11 2-2 3-3 4-4 12-10 0-0 6-6 
+[['.', '.'], ['among', 'among'], ['the', 'the'], ['bottom', 'bottom'], ['measures', 'measures'], ['Mississippi', 'Mississippi'], ['states', 'states']]
+
+16
+24-21 10-7 11-8 12-9 13-10 14-11 15-12 16-13 17-14 2-2 3-3 4-4 5-5 6-6 18-16 19-17 20-18 1-1 0-0 23-20 
+[['.', '.'], ['holding', 'holding'], ['the', 'the'], ['guitar', 'guitar'], ['appeared', 'appeared'], ['in', 'in'], ['the', 'the'], ['National', 'National'], ['Enquirer', 'Enquirer'], ['of', 'of'], ['the', 'the'], ['doctor', 'doctor'], ["'s", "'s"], ['son', 'son'], ['two', 'two'], ['weeks', 'weeks'], ['after', 'after'], ['photograph', 'picture'], ['a', 'a'], ['death', 'died']]
+
+17
+28-25 11-10 12-11 13-12 14-13 7-7 8-8 17-16 18-17 20-19 21-20 23-14 27-5 15-15 10-9 
+[['.', '.'], ['expected', 'expected'], ['to', 'to'], ['plead', 'plead'], ['guilty', 'guilty'], ['Robert', 'Robert'], ['Korkuc', 'Korkuc'], ['federal', 'federal'], ['court', 'court'], ['Long', 'Long'], ['Island', 'Island'], ['Thursday', 'Thursday'], ['reports', 'announced'], ['in', 'in'], ['is', 'was']]
+
+18
+29-30 22-23 23-24 24-25 25-26 26-27 27-28 28-29 13-12 14-13 15-14 16-15 17-16 18-17 6-7 7-8 8-9 9-10 10-11 0-0 1-1 2-2 3-3 19-20 20-21 21-22 4-5 5-4 
+[['.', '.'], ['to', 'to'], ['pump', 'pump'], ['up', 'up'], ['Rite', 'Rite'], ['Aid', 'Aid'], ["'s", "'s"], ['earnings', 'earnings'], [',', ','], ['and', 'and'], ['was', 'was'], ['intimately', 'intimately'], ['involved', 'involved'], ['in', 'in'], ['from', 'from'], ['1995', '1995'], ['until', 'until'], ['his', 'his'], ['departure', 'departure'], ['Mr.', 'Mr.'], ['Bergonzi', 'Bergonzi'], ['was', 'was'], ['the', 'the'], ['the', 'the'], ['alleged', 'alleged'], ['scheme', 'schemes'], ['finance', 'financial'], ['chief', 'chief']]
+
+19
+22-21 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 0-0 1-1 2-2 3-3 4-4 5-5 21-20 19-19 20-19 6-6 
+[['.', '.'], ['served', 'served'], ['four', 'four'], ['months', 'months'], ['in', 'in'], ['prison', 'prison'], ['on', 'on'], ['misdemeanor', 'misdemeanor'], ['assault', 'assault'], ['and', 'and'], ['Josephine', 'Josephine'], ['Burke', 'Burke'], [',', ','], ['who', 'who'], ['ran', 'ran'], ['the', 'the'], ['charges', 'charges'], ['child', 'child-neglect'], ['neglect', 'child-neglect'], ['unlicensed', 'illegal']]
+
+20
+13-17 3-0 4-1 5-2 7-7 8-8 9-9 10-11 11-12 6-10 0-5 
+[['.', '.'], ['Kroger', 'Kroger'], ["'s", "'s"], ['Ralphs', 'Ralphs'], ['locked', 'locked'], ['out', 'out'], ['their', 'their'], ['workers', 'workers'], ['in', 'in'], ['stores', 'grocery'], ['Albertson', 'Albertsons']]
+
+21
+27-24 11-10 12-11 13-12 14-13 15-14 16-15 17-16 18-17 19-18 20-19 21-20 22-21 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 26-23 24-22 
+[['.', '.'], [',', ','], ['said', 'said'], ['he', 'he'], ['hoped', 'hoped'], ['Congress', 'Congress'], ['would', 'would'], ['finish', 'finish'], ['work', 'work'], ['on', 'on'], ['the', 'the'], ['legislation', 'legislation'], ['by', 'by'], ['the', 'the'], ['Senate', 'Senate'], ['majority', 'majority'], ['leader', 'leader'], [',', ','], ['Bill', 'Bill'], ['Frist', 'Frist'], [',', ','], ['September', 'September'], ['end', 'late']]
+
+22
+22-16 19-0 20-1 21-2 3-6 4-7 9-9 10-10 12-12 13-13 15-14 16-15 2-4 0-5 17-8 11-11 
+[['.', '.'], ['Mr', 'Mr'], ['Truss', 'Truss'], ['said', 'said'], ['no', 'no'], ['apologies', 'apologies'], ['the', 'the'], ['negotiations', 'negotiations'], ['been', 'been'], ['undertaken', 'undertaken'], ['in', 'in'], ['secret', 'secret'], ['make', 'made'], ["''", "''"], ["''", "''"], ['have', 'had']]
+
+23
+22-26 2-6 3-7 4-8 5-9 6-10 7-11 8-12 9-13 10-14 11-15 12-16 13-17 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 1-5 
+[['.', '.'], ['one', 'one'], ['of', 'of'], ['several', 'several'], ['negotiating', 'negotiating'], ['items', 'items'], ['where', 'where'], ['Canada', 'Canada'], ['appears', 'appears'], ['to', 'to'], ['have', 'have'], ['caved', 'caved'], ['in', 'in'], ['to', 'to'], ['U.S.', 'U.S.'], ['demands', 'demands'], ['and', 'and'], ['accepted', 'accepted'], ['less', 'less'], ['favourable', 'favourable'], ['terms', 'terms'], ["'s", 'is']]
+
+24
+23-20 4-2 5-3 6-4 7-5 8-6 9-7 10-8 11-9 12-10 13-11 14-12 21-18 22-19 17-13 18-14 2-1 
+[['.', '.'], ['the', 'the'], ['case', 'case'], ['against', 'against'], ['Gary', 'Gary'], ['Lee', 'Lee'], ['Sampson', 'Sampson'], [',', ','], ['including', 'including'], ['the', 'the'], ['capital', 'capital'], ['charges', 'charges'], ['in', 'in'], ['September', 'September'], [',', ','], ['will', 'will'], ['means', 'means']]
+
+25
+24-24 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-20 20-21 23-19 
+[['.', '.'], ["''", "''"], ['we', 'we'], ['are', 'are'], ['very', 'very'], ['pleased', 'pleased'], ['that', 'that'], ['the', 'the'], ['court', 'court'], ['dismissed', 'dismissed'], ['the', 'the'], ['vast', 'vast'], ['majority', 'majority'], ['of', 'of'], ['the', 'the'], ['plaintiff', 'plaintiff'], ["'s", "'s"], ['claims', 'claims'], ["''", "''"], [',', ','], ['Coke', 'Coke'], ['spokeswoman', 'spokesman'], ['said', 'said']]
+
+26
+15-20 8-9 9-10 10-11 0-0 1-1 2-3 3-4 4-6 5-7 11-15 12-16 14-19 13-17 13-18 7-14 6-8 
+[['.', '.'], ['number', 'number'], ['to', 'to'], ['call', 'call'], ['federal', 'federal'], ['officials', 'officials'], ['gave', 'gave'], ['the', 'the'], ['DPS', 'DPS'], ['officer', 'officer'], ['to', 'to'], ['initiate', 'initiate'], ['procedures', 'procedures'], ['lost-aircraft', 'lost'], ['lost-aircraft', 'aircraft'], ['FAA', 'FAA'], ['an', 'a']]
+
+27
+21-25 4-5 5-6 6-7 7-8 18-22 19-23 20-24 0-0 1-1 10-16 10-14 10-15 13-17 15-19 17-21 2-2 8-9 
+[['.', '.'], ['an', 'an'], ['insanity', 'insanity'], ['defense', 'defense'], [',', ','], ['right', 'right'], ['from', 'from'], ['wrong', 'wrong'], ['Malvo', 'Malvo'], ["'s", "'s"], ['Muhammad', 'Muhammad'], ['Muhammad', 'John'], ['Muhammad', 'Allen'], ['left', 'left'], ['unable', 'incapable'], ['tell', 'knowing'], ['attorneys', 'lawyers'], ['arguing', 'saying']]
+
+28
+18-14 7-8 8-9 9-10 10-11 11-12 12-13 5-1 6-2 17-4 4-0 
+[['.', '.'], ['to', 'to'], ['attend', 'attend'], ['her', 'her'], ['father', 'father'], ["'s", "'s"], ['funeral', 'funeral'], ['later', 'later'], [',', ','], ['denied', 'refused'], ['decades', 'years']]
+
+29
+15-15 10-10 11-11 12-12 13-13 14-14 7-6 8-7 9-8 2-4 3-5 4-0 8-9 9-9 0-7 0-9 1-3 6-1 
+[['.', '.'], ['headquarters', 'headquarters'], ['in', 'in'], ['Milpitas', 'Milpitas'], [',', ','], ['Calif.', 'Calif.'], ['to', 'to'], ['Palm', 'Palm'], ['Solutions', 'Solutions'], ['to', 'to'], ['move', 'move'], ['Handspring', 'Handspring'], ['Palm', 'Group'], ['Solutions', 'Group'], ['Palm', 'Palm'], ['Palm', 'Group'], ['expects', 'expected'], ['employees', 'employees']]
+
+30
+27-26 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 17-20 18-21 19-22 20-23 21-24 22-25 14-16 15-17 13-14 13-15 
+[['.', '.'], ['Charles', 'Charles'], ['Howell', 'Howell'], ['III', 'III'], ['picked', 'picked'], ['up', 'up'], ['some', 'some'], ['local', 'local'], ['knowledge', 'knowledge'], ['a', 'a'], ['year', 'year'], ['ago', 'ago'], ['that', 'that'], ['provided', 'provided'], ['opening', 'opening'], ['round', 'round'], ['of', 'of'], ['the', 'the'], ['Memorial', 'Memorial'], ['Tournament', 'Tournament'], ['insight', 'insight'], ['in', 'in'], ['much-needed', 'much'], ['much-needed', 'needed']]
+
+31
+26-23 7-0 8-1 9-2 10-3 11-4 12-5 13-6 14-7 15-8 16-9 17-10 21-16 22-17 23-18 24-19 25-20 20-14 18-11 
+[['.', '.'], ['Brigitte', 'Brigitte'], ["'s", "'s"], ['maternal', 'maternal'], ['aunt', 'aunt'], ['said', 'said'], ['his', 'his'], ['family', 'family'], ['was', 'was'], ['unaware', 'unaware'], ['he', 'he'], ['had', 'had'], ['or', 'or'], ['that', 'that'], ['he', 'he'], ['had', 'had'], ['remarried', 'remarried'], ['prison', 'prison'], ['was', 'been']]
+
+32
+24-23 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 16-20 17-21 18-22 20-15 21-16 15-19 22-17 14-18 
+[['.', '.'], ['one', 'one'], ['of', 'of'], ['the', 'the'], ['features', 'features'], ['is', 'is'], ['the', 'the'], ['ability', 'ability'], ['to', 'to'], ['delete', 'delete'], ['data', 'data'], ['on', 'on'], ['a', 'a'], ['handheld', 'handheld'], ['device', 'device'], ['down', 'down'], ['the', 'the'], ['device', 'device'], ['a', 'a'], ['user', 'user'], ['lock', 'locks'], ['lose', 'loses'], ['or', 'or']]
+
+33
+21-22 5-6 6-7 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 4-5 3-4 1-2 
+[['.', '.'], ['the', 'the'], ['life', 'life'], ['of', 'of'], ['a', 'a'], ['playboy', 'playboy'], [':', ':'], ['smoking', 'smoking'], ['pot', 'pot'], [',', ','], ['chasing', 'chasing'], ['women', 'women'], ['and', 'and'], ['living', 'living'], ['fast', 'fast'], ['and', 'and'], ['loose', 'loose'], ['lived', 'living'], ['occasionally', 'occasionally'], ['admits', 'admitted']]
+
+34
+16-15 10-10 11-11 12-12 13-13 14-14 5-3 6-4 8-9 7-8 
+[['.', '.'], ['propaganda', 'propaganda'], ['of', 'of'], ['an', 'an'], ['alien', 'alien'], ['ideology', 'ideology'], ['the', 'the'], ['Beatles', 'Beatles'], ['considered', 'considered'], ['were', 'was']]
+
+35
+14-15 0-0 1-1 2-2 12-13 13-14 3-9 4-10 8-3 6-7 5-6 10-12 7-8 
+[['.', '.'], ['the', 'the'], ['value', 'value'], ['of', 'of'], ['in', 'in'], ['February', 'February'], ['the', 'the'], ['deal', 'deal'], ['BP', 'BP'], ['increased', 'risen'], ['has', 'has'], ['announced', 'announced'], ['since', 'since']]
+
+36
+23-26 0-12 1-13 2-14 3-15 4-16 5-17 6-18 7-19 8-20 9-21 10-22 11-7 12-8 13-9 14-10 16-0 17-1 18-2 19-3 21-4 22-5 
+[['.', '.'], ['another', 'another'], ['million', 'million'], ['barrels', 'barrels'], [',', ','], ['bought', 'bought'], ['by', 'by'], ['Spanish', 'Spanish'], ['refiner', 'refiner'], ['Cepsa', 'Cepsa'], ['SA', 'SA'], [',', ','], ['was', 'was'], ['to', 'to'], ['be', 'be'], ['loaded', 'loaded'], ['a', 'a'], ['Spanish', 'Spanish'], ['tanker', 'tanker'], [',', ','], ['Sandra', 'Sandra'], ['Tapias', 'Tapias']]
+
+37
+22-24 0-0 1-1 2-2 3-3 14-16 15-17 16-18 17-19 19-21 20-22 21-23 5-7 6-8 4-6 9-14 10-15 18-20 13-11 
+[['.', '.'], ['Quattrone', 'Quattrone'], ['is', 'is'], ['accused', 'accused'], ['of', 'of'], ['to', 'to'], ['destroy', 'destroy'], ['files', 'files'], ['on', 'on'], ['investment', 'investment'], ['banking', 'banking'], ['deals', 'deals'], ['justice', 'justice'], ['by', 'by'], ['obstructing', 'obstruct'], ['encourage', 'encouraged'], ['co-workers', 'co-workers'], ['lucrative', 'profitable'], ['e-mail', 'e-mail']]
+
+38
+22-32 10-20 11-21 12-22 13-23 14-24 15-25 16-26 17-27 18-28 19-29 20-30 21-31 0-4 1-5 2-6 3-7 4-8 5-9 6-2 7-3 9-18 
+[['.', '.'], ['human', 'human'], ['spaceflight', 'spaceflight'], ['had', 'had'], ['become', 'become'], ['a', 'a'], ['place', 'place'], ['where', 'where'], ['dissent', 'dissent'], ['was', 'was'], ['not', 'not'], ['welcome', 'welcome'], ["''", "''"], ['John', 'John'], ['Logsdon', 'Logsdon'], [',', ','], ['a', 'a'], ['board', 'board'], ['member', 'member'], [',', ','], ['said', 'said'], ["''", "''"]]
+
+39
+28-25 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 13-13 14-14 15-16 16-17 12-12 24-20 19-21 
+[['.', '.'], ["''", "''"], ['the', 'the'], ['United', 'United'], ['States', 'States'], ['welcomes', 'welcomes'], ['a', 'a'], ['greater', 'greater'], ['NATO', 'NATO'], ['role', 'role'], ['in', 'in'], ['Iraq', 'Iraq'], ["'s", "'s"], ["''", "''"], [',', ','], ['Powell', 'Powell'], ['said', 'said'], ['stabilisation', 'stabilization'], ['remarks', 'speech'], ['to', 'to']]
+
+40
+18-23 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 0-0 1-1 2-2 3-3 4-4 5-5 6-7 
+[['.', '.'], ['complied', 'complied'], ['with', 'with'], [',', ','], ['we', 'we'], ['would', 'would'], ["n't", "n't"], ['have', 'have'], ['had', 'had'], ['a', 'a'], ['problem', 'problem'], ["''", "''"], ["''", "''"], ['if', 'if'], ['the', 'the'], ['voluntary', 'voluntary'], ['reliability', 'reliability'], ['standards', 'standards'], ['were', 'been']]
+
+41
+22-18 10-8 11-9 12-10 13-11 14-12 15-13 16-14 17-15 18-16 19-17 0-0 1-1 2-2 3-3 7-4 8-5 20-6 21-7 
+[['.', '.'], [',', ','], ['fridges', 'fridges'], ['and', 'and'], ['air', 'air'], ['conditioners', 'conditioners'], ['have', 'have'], ['stuttered', 'stuttered'], ['to', 'to'], ['a', 'a'], ['halt', 'halt'], ['as', 'as'], ['temperatures', 'temperatures'], ['soar', 'soar'], ['above', 'above'], ['120', '120'], ['Fahrenheit', 'Fahrenheit'], ['in', 'in'], ['Basra', 'Basra']]
+
+42
+10-10 4-1 5-2 6-3 7-4 9-6 
+[['.', '.'], ['people', 'people'], ['were', 'were'], ['killed', 'killed'], ['and', 'and'], ['injured', 'injured']]
+
+43
+22-20 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 1-1 18-18 16-16 
+[['.', '.'], ['to', 'to'], ['provide', 'provide'], ['them', 'them'], ['with', 'with'], ['choices', 'choices'], ['to', 'to'], ['help', 'help'], ['them', 'them'], ['run', 'run'], ['Linux', 'Linux'], ['in', 'in'], ['a', 'a'], ['legal', 'legal'], ['and', 'and'], ['intends', 'intend'], ['way', 'way'], ['fully', 'fully-paid']]
+
+44
+30-29 0-0 1-1 2-2 3-3 4-4 5-5 6-6 8-8 9-9 10-10 11-11 12-12 13-13 14-14 19-17 20-18 21-19 22-20 23-21 24-22 25-23 7-7 29-28 
+[['.', '.'], ['three', 'three'], ['such', 'such'], ['vigilante-style', 'vigilante-style'], ['attacks', 'attacks'], ['forced', 'forced'], ['the', 'the'], ['hacker', 'hacker'], [',', ','], ['who', 'who'], ['identified', 'identified'], ['himself', 'himself'], ['only', 'only'], ['as', 'as'], ["''", "''"], ["''", "''"], [',', ','], ['to', 'to'], ['extend', 'extend'], ['the', 'the'], ['contest', 'contest'], ['until', 'until'], ['organizer', 'organiser'], ['Sunday', 'today']]
+
+45
+27-27 5-5 6-6 7-7 8-8 9-9 10-10 18-18 19-19 20-20 21-21 22-22 23-23 12-12 13-13 14-14 15-15 16-16 25-25 26-26 1-1 0-0 3-3 4-4 
+[['.', '.'], ['been', 'been'], ['made', 'made'], ['about', 'about'], ['how', 'how'], ['many', 'many'], ['troops', 'troops'], ['come', 'come'], ['from', 'from'], [',', ','], ['or', 'or'], ['where', 'where'], ['they', 'they'], ['be', 'be'], ['moved', 'moved'], [',', ','], ['where', 'where'], ['they', 'they'], ['end', 'end'], ['up', 'up'], ['said', 'added'], ['they', 'they'], ['decisions', 'decisions'], ['had', 'have']]
+
+46
+28-28 15-11 16-12 17-13 18-14 19-15 20-16 21-17 22-18 23-19 11-8 12-9 13-10 2-2 3-3 5-21 6-22 10-4 4-20 8-24 1-1 0-0 9-25 
+[['.', '.'], ['domestic', 'domestic'], ['flights', 'flights'], ['by', 'by'], ['the', 'the'], ['end', 'end'], ['of', 'of'], ['the', 'the'], ['year', 'year'], [',', ','], ['e-mail', 'e-mail'], ['on', 'on'], ['all', 'all'], ['plans', 'plans'], ['to', 'to'], ['the', 'the'], ['first', 'first'], ['offer', 'offer'], ['become', 'becoming'], ['airline', 'carrier'], ['Airlines', 'Airways'], ['United', 'United'], ['to', 'to']]
+
+47
+25-19 0-0 1-1 2-2 3-3 4-4 16-15 17-16 18-17 19-18 12-11 13-12 14-13 6-6 7-7 9-9 10-10 
+[['.', '.'], ['vaccine', 'vaccine'], ['makers', 'makers'], ['have', 'have'], ['been', 'been'], ['thrust', 'thrust'], ['fears', 'fears'], ['of', 'of'], ['biological', 'biological'], ['attacks', 'attacks'], ['encourage', 'encourage'], ['wider', 'wider'], ['vaccination', 'vaccination'], ['the', 'the'], ['limelight', 'limelight'], ['government', 'government'], ['programmes', 'programs']]
+
+48
+12-15 7-10 8-11 9-12 10-13 11-14 0-0 1-1 2-2 6-4 4-3 
+[['.', '.'], ['the', 'the'], ['Annals', 'Annals'], ['of', 'of'], ['Internal', 'Internal'], ['Medicine', 'Medicine'], ['the', 'the'], ['findings', 'findings'], ['are', 'are'], ['in', 'in'], ['published', 'published']]
+
+49
+30-27 17-14 18-15 19-16 20-17 21-18 22-19 23-20 24-21 25-22 26-23 0-0 1-1 2-2 3-3 4-4 12-9 13-10 14-11 15-12 28-25 29-26 9-7 7-6 6-8 11-5 
+[['.', '.'], ['plans', 'plans'], ['to', 'to'], ['limit', 'limit'], ['the', 'the'], ['amount', 'amount'], ['of', 'of'], ['any', 'any'], ['single', 'single'], ['book', 'book'], ['a', 'a'], ['but', 'but'], ['to', 'to'], ['see', 'see'], ['those', 'those'], ['pages', 'pages'], ['to', 'to'], ['register', 'register'], [',', ','], ['and', 'and'], ['can', 'can'], ['view', 'view'], ['required', 'require'], ['would', 'would'], ['users', 'users'], ['Amazon', 'Amazon']]
+
+50
+8-11 0-7 1-8 2-9 3-10 6-0 7-1 
+[['.', '.'], ['the', 'the'], ['Fox', 'Fox'], ['movie', 'Movie'], ['channel', 'Channel'], ['Charlie', 'Charlie'], ['Chan', 'Chan']]
+
+51
+18-13 6-4 7-5 8-6 9-7 14-8 15-9 16-10 17-12 0-0 5-2 
+[['.', '.'], ['count', 'count'], ['of', 'of'], ['intentionally', 'intentionally'], ['causing', 'causing'], ['damage', 'damage'], ['to', 'to'], ['a', 'a'], ['computer', 'computer'], ['Parson', 'Parson'], ['one', 'one']]
+
+52
+27-29 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 26-28 20-17 22-27 21-26 
+[['.', '.'], ["''", "''"], ['the', 'the'], ['numbers', 'numbers'], ['are', 'are'], ['starting', 'starting'], ['to', 'to'], ['change', 'change'], ['very', 'very'], [',', ','], ['very', 'very'], ['quickly', 'quickly'], ["''", "''"], [',', ','], ['Dr.', 'Dr.'], ['Julie', 'Julie'], ['Gerberding', 'Gerberding'], [',', ','], ['Thursday', 'Thursday'], ['director', 'director'], ['told', 'said'], [',', ',']]
+
+53
+24-23 4-5 5-6 6-7 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 22-21 23-22 
+[['.', '.'], ["'s", "'s"], ['eyes', 'eyes'], ['filled', 'filled'], ['with', 'with'], ['tears', 'tears'], ['when', 'when'], ['she', 'she'], ['told', 'told'], ['him', 'him'], ['he', 'he'], ['would', 'would'], ['have', 'have'], ['to', 'to'], ['confess', 'confess'], ['to', 'to'], ['as', 'as'], ['well', 'well']]
+
+54
+25-29 14-18 15-19 16-20 17-21 18-22 19-23 20-24 21-25 22-26 23-27 24-28 5-8 6-9 7-10 8-11 9-12 10-13 11-14 12-15 13-16 1-7 0-5 4-3 3-2 
+[['.', '.'], ['but', 'but'], ['lessened', 'lessened'], ['the', 'the'], ['standards', 'standards'], ['of', 'of'], ['protection', 'protection'], ['guaranteed', 'guaranteed'], ['to', 'to'], ['women', 'women'], ['by', 'by'], ['Roe', 'Roe'], ['reaffirmed', 'reaffirmed'], ['the', 'the'], ['basic', 'basic'], ['findings', 'findings'], ['of', 'of'], ['Roe', 'Roe'], ['protecting', 'protecting'], ['abortion', 'abortion'], ['choice', 'choice'], ['court', 'Court'], ['the', 'the'], ['decision', 'case'], ['1992', '1992']]
+
+55
+22-19 18-15 19-16 20-17 21-18 1-0 2-1 3-2 13-11 14-12 15-13 6-5 7-6 10-8 11-9 16-14 8-7 
+[['.', '.'], ['spokeswoman', 'spokeswoman'], ['Ellen', 'Ellen'], ['Borakove', 'Borakove'], ['said', 'said'], ['investigators', 'investigators'], ['matched', 'matched'], ['the', 'the'], ['morning', 'morning'], [',', ','], ['medical', 'medical'], ['teeth', 'teeth'], ['to', 'to'], ['dental', 'dental'], ['records', 'records'], ['examiner', 'examiners'], ['Aronov', 'Aronovs']]
+
+56
+23-20 17-12 18-13 19-14 20-15 21-16 22-17 2-3 1-2 3-4 9-8 13-19 15-10 6-6 
+[['.', '.'], ['on', 'on'], ['the', 'the'], ['New', 'New'], ['York', 'York'], ['Stock', 'Stock'], ['Exchange', 'Exchange'], ['rose', 'jumped'], ['stock', 'shares'], ['$', '$'], ['percent', 'percent'], ['Friday', 'Friday'], ['$', '$'], ['or', 'or']]
+
+57
+13-17 0-6 1-7 2-8 3-9 4-10 5-11 6-12 7-13 8-14 9-0 10-1 11-2 12-16 
+[['.', '.'], ['Charles', 'Charles'], ['O.', 'O.'], ['Prince', 'Prince'], [',', ','], ['53', '53'], [',', ','], ['was', 'was'], ['named', 'named'], ['as', 'as'], ['Mr.', 'Mr.'], ['Weill', 'Weill'], ["'s", "'s"], ['successor', 'successor']]
+
+58
+17-20 14-17 15-18 16-19 0-6 1-7 12-16 10-10 13-15 
+[['.', '.'], ['limited', 'limited'], ['circumstances', 'circumstances'], ["''", "''"], ['justices', 'justices'], ['said', 'said'], ["''", "''"], ['drugs', 'drugs'], ['in', 'in']]
+
+59
+26-25 0-0 1-1 2-2 3-3 6-6 7-7 8-8 10-11 11-12 25-24 9-9 12-13 5-5 23-21 20-16 13-14 14-15 
+[['.', '.'], ['a', 'a'], ['member', 'member'], ['of', 'of'], ['the', 'the'], ['So', 'So'], ['Solid', 'Solid'], ['Crew', 'Crew'], ['a', 'a'], ['loaded', 'loaded'], ['yesterday', 'yesterday'], ['dumped', 'threw'], ['pistol', 'gun'], ['collective', 'group'], ['court', 'Court'], ['police', 'police'], ['in', 'during'], ['an', 'a']]
+
+60
+19-20 13-14 14-15 15-16 1-1 2-2 10-12 11-13 18-19 
+[['.', '.'], ['it', 'it'], ['has', 'has'], ['been', 'been'], ['Wednesday', 'Wednesday'], [',', ','], ['to', 'to'], ['Earth', 'Earth'], ['years', 'years']]
+
+61
+13-13 6-7 7-8 8-9 9-10 10-11 11-12 4-2 3-0 5-5 
+[['.', '.'], ['client', 'client'], ['and', 'and'], ['administrative', 'administrative'], ['versions', 'versions'], ['of', 'of'], ['Office', 'Office'], ['patches', 'patches'], ['separate', 'separate'], ['for', 'for']]
+
+62
+14-21 5-10 6-11 7-12 8-13 9-14 10-15 11-16 3-7 4-8 13-20 0-0 1-4 
+[['.', '.'], ['food', 'food'], [',', ','], ['toys', 'toys'], ['and', 'and'], ['other', 'other'], ['things', 'things'], ['into', 'into'], ['had', 'had'], ['dragged', 'dragged'], ['bedroom', 'bedroom'], ['Lee', 'Lee'], ['said', 'said']]
+
+63
+19-20 9-0 10-1 11-2 12-3 13-4 14-5 15-6 16-7 17-10 18-11 16-8 1-13 6-16 
+[['.', '.'], ['Computer', 'Computer'], ['Associates', 'Associates'], [',', ','], ['EMC', 'EMC'], [',', ','], ['IBM', 'IBM'], [',', ','], ['Sun', 'Sun'], ['and', 'and'], ['Veritas', 'Veritas'], ['Sun', 'Microsystems'], ['addition', 'also'], ['backing', 'support']]
+
+64
+12-18 3-1 4-2 6-12 7-13 11-17 8-14 9-16 
+[['.', '.'], ['jurors', 'jurors'], ['were', 'were'], ['asked', 'asked'], ['to', 'to'], ['questionnaire', 'questionnaire'], ['complete', 'fill'], ['a', 'a']]
+
+65
+23-24 4-0 5-1 6-2 7-3 8-4 9-5 10-6 11-7 12-8 13-9 14-10 16-12 17-13 18-14 21-16 22-17 15-11 19-21 20-22 
+[['.', '.'], ['the', 'the'], ['Episcopal', 'Episcopal'], ['Church', 'Church'], [',', ','], ['with', 'with'], ['2.3', '2.3'], ['million', 'million'], ['members', 'members'], [',', ','], ['is', 'is'], ['the', 'the'], ['branch', 'branch'], ['of', 'of'], ['the', 'the'], ['Anglican', 'Anglican'], ['Communion', 'Communion'], ['U.S.', 'American'], ['77', '77'], ['million-member', 'million']]
+
+66
+20-16 6-6 7-7 8-8 9-9 10-10 2-2 3-3 4-4 18-14 19-15 5-5 1-1 
+[['.', '.'], ['his', 'his'], ['military', 'military'], ['pension', 'pension'], ['to', 'to'], ['charity', 'charity'], ['said', 'said'], ['he', 'he'], ['would', 'would'], ['at', 'at'], ['Yarralumla', 'Yarralumla'], ['donate', 'give'], ['Jeffrey', 'Jeffery']]
+
+67
+11-12 1-0 2-1 4-2 5-6 
+[['.', '.'], ['Grassley', 'Grassley'], ['and', 'and'], ['Baucus', 'Baucus'], ['rejected', 'rejected']]
+
+68
+24-27 11-14 12-15 13-16 14-17 15-18 16-19 17-20 18-21 19-22 20-23 21-24 22-25 23-26 4-8 5-9 6-10 7-11 8-12 9-13 1-6 
+[['.', '.'], ['Dec.', 'Dec.'], ['21', '21'], ['explosions', 'explosions'], ['near', 'near'], ['his', 'his'], ['house', 'house'], [',', ','], ['according', 'according'], ['to', 'to'], ['Italian', 'Italian'], ['news', 'news'], ['agency', 'agency'], ['ANSA', 'ANSA'], ['anarchist', 'anarchist'], ['group', 'group'], ['that', 'that'], ['claimed', 'claimed'], ['responsibility', 'responsibility'], ['for', 'for'], ['suspect', 'suspect']]
+
+69
+23-16 13-6 14-7 15-8 16-9 17-10 18-11 19-12 20-13 21-14 22-15 10-4 11-5 
+[['.', '.'], ['the', 'the'], ['conditions', 'conditions'], ['are', 'are'], ['such', 'such'], ['that', 'that'], ['they', 'they'], ['can', 'can'], ['attack', 'attack'], ['us', 'us'], ['there', 'there'], ['feel', 'feel'], ['like', 'like']]
+
+70
+34-31 10-10 11-11 12-12 13-13 14-14 15-15 3-0 4-1 5-2 6-3 31-28 32-29 33-30 7-7 8-8 16-17 20-23 30-4 17-18 
+[['.', '.'], ["''", "''"], ['significant', 'significant'], ['problems', 'problems'], ["''", "''"], ['in', 'in'], ['the', 'the'], ['the', 'the'], ['Justice', 'Justice'], ['Department', 'Department'], ["'s", "'s"], ['after', 'after'], ['the', 'the'], ['attacks', 'attacks'], ['inspector', 'inspector'], ['general', 'general'], ['government', 'administration'], ['foreigners', 'foreigners'], ['department', 'office'], ["'s", "'s"]]
+
+71
+23-19 0-0 1-1 2-2 3-3 4-4 5-5 6-6 9-8 10-9 11-10 12-11 13-12 14-13 20-16 21-17 19-15 18-14 22-18 
+[['.', '.'], ['Sanchez', 'Sanchez'], ['de', 'de'], ['Lozada', 'Lozada'], ['promised', 'promised'], ['a', 'a'], ['referendum', 'referendum'], ['on', 'on'], ['gas', 'gas'], ['project', 'project'], [',', ','], ['a', 'a'], ['reform', 'reform'], ['of', 'of'], ['and', 'and'], ['constitutional', 'constitutional'], ['law', 'laws'], ['energy', 'energy'], ['reforms', 'changes']]
+
+72
+14-19 10-15 11-16 12-17 13-18 4-4 5-5 6-6 7-7 1-1 2-2 8-10 9-11 
+[['.', '.'], ['did', 'did'], ['not', 'not'], ['exchange', 'exchange'], ['words', 'words'], ['son-in-law', 'son-in-law'], ['and', 'and'], ['his', 'his'], ['relatives', 'relatives'], ['looked', 'looked'], ['at', 'at'], [',', ','], ['but', 'but']]
+
+73
+24-28 5-6 6-7 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 20-24 21-25 22-26 23-27 0-0 1-1 2-2 19-20 3-5 
+[['.', '.'], ['for', 'for'], ['Zimbabwe', 'Zimbabwe'], ['to', 'to'], ['have', 'have'], ['the', 'the'], ['opportunity', 'opportunity'], ['to', 'to'], ['rejoin', 'rejoin'], ['the', 'the'], ['54-member', '54-member'], ['body', 'body'], ['before', 'before'], ['the', 'the'], ['next', 'next'], ['meeting', 'meeting'], ['in', 'in'], ['two', 'two'], ['years', 'years'], ['among', 'among'], ['the', 'the'], ['proposals', 'proposals'], ['CHOGM', 'Commonwealth'], ['is', 'is']]
+
+74
+24-28 8-2 9-3 10-4 11-5 12-6 13-7 14-8 15-9 16-10 17-11 18-12 19-13 20-14 21-15 22-16 23-17 0-24 1-25 2-26 3-27 
+[['.', '.'], ["'s", "'s"], ['daughters', 'daughters'], ['had', 'had'], ['British', 'British'], ['schools', 'schools'], ['and', 'and'], ['hospitals', 'hospitals'], ['in', 'in'], ['mind', 'mind'], ['when', 'when'], ['they', 'they'], ['decided', 'decided'], ['to', 'to'], ['ask', 'ask'], ['for', 'for'], ['asylum', 'asylum'], ['he', 'he'], ['told', 'told'], ['the', 'The'], ['Sun', 'Sun']]
+
+75
+20-18 13-11 14-12 15-13 16-14 17-15 18-16 19-17 0-0 1-1 2-2 3-5 4-6 5-7 7-8 8-9 10-4 
+[['.', '.'], ['received', 'received'], ['from', 'from'], ['electronics', 'electronics'], ['manufacturers', 'manufacturers'], ['and', 'and'], ['computer', 'computer'], ['makers', 'makers'], ['Hester', 'Hester'], ['said', 'said'], ['Sanmina', 'Sanmina'], ['was', 'was'], ['the', 'the'], ['best', 'best'], ['among', 'among'], ['several', 'several'], ['offers', 'offer']]
+
+76
+17-18 4-3 5-4 6-5 7-6 8-7 9-8 15-16 16-17 0-0 1-1 13-14 12-12 10-9 
+[['.', '.'], ['the', 'the'], ['courtroom', 'courtroom'], ['for', 'for'], ['about', 'about'], ['two', 'two'], ['minutes', 'minutes'], ['identify', 'identify'], ['him', 'him'], ['Malvo', 'Malvo'], ['was', 'was'], ['witness', 'witness'], ['a', 'a'], ['Monday', 'yesterday']]
+
+77
+19-16 13-10 14-11 15-12 16-13 17-14 18-15 4-2 5-3 12-9 6-5 2-0 11-8 
+[['.', '.'], ['21', '21'], ['percent', 'percent'], ['to', 'to'], ['$', '$'], ['107.6', '107.6'], ['million', 'million'], [',', ','], ['a', 'a'], ['decreased', 'fell'], ['measure', 'measure'], ['license', 'license'], [',', ',']]
+
+78
+30-25 10-4 11-5 12-6 13-7 14-8 15-9 16-10 17-11 18-12 19-13 20-14 21-15 22-16 23-17 24-18 25-19 26-20 28-23 29-24 27-21 27-22 
+[['.', '.'], ['a', 'a'], ['15-year', '15-year'], ['veteran', 'veteran'], ['with', 'with'], ['a', 'a'], ['growing', 'growing'], ['workload', 'workload'], ['and', 'and'], ['slightly', 'slightly'], ['eroding', 'eroding'], ['interest', 'interest'], ['in', 'in'], ['staying', 'staying'], ['in', 'in'], ['teaching', 'teaching'], [',', ','], ['the', 'the'], ['portrait', 'portrait'], ['shows', 'shows'], ['work-force', 'work'], ['work-force', 'force']]
+
+79
+18-16 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 14-14 17-15 
+[['.', '.'], ['Gov.', 'Gov.'], ['Don', 'Don'], ['Carcieri', 'Carcieri'], ['said', 'said'], ['the', 'the'], ['ruling', 'ruling'], ['shows', 'shows'], ['that', 'that'], ['state', 'state'], ['taxation', 'taxation'], ['laws', 'laws'], ['apply', 'apply'], ['tribe', 'tribal'], ['activities', 'activity']]
+
+80
+19-28 11-20 12-21 13-22 14-23 15-24 16-25 17-26 18-27 6-14 7-15 8-16 9-17 10-18 3-8 
+[['.', '.'], ['and', 'and'], ['she', 'she'], ['attended', 'attended'], ['a', 'a'], ['reception', 'reception'], ['and', 'and'], ['a', 'a'], ['ball', 'ball'], ['was', 'was'], ['declared', 'declared'], ['a', 'a'], ['public', 'public'], ['holiday', 'holiday'], ['21', '21']]
+
+81
+16-14 6-6 7-7 8-8 9-9 14-12 15-13 3-3 11-11 13-10 
+[['.', '.'], ['collaborate', 'collaborate'], ['on', 'on'], ['the', 'the'], ['design', 'design'], ['memory', 'memory'], ['technologies', 'technologies'], ['announced', 'said'], ['future', 'future'], ['of', 'of']]
+
+82
+16-13 9-7 10-8 11-9 12-10 13-11 0-0 1-1 6-6 8-5 14-12 5-4 4-3 
+[['.', '.'], ['of', 'of'], ['plus', 'plus'], ['or', 'or'], ['minus', 'minus'], ['6.1', '6.1'], ['the', 'the'], ['Democratic', 'Democratic'], ['margin', 'margin'], ['error', 'error'], ['percentage', 'percent'], ['a', 'an'], ['have', 'has']]
+
+83
+29-24 19-14 20-15 21-16 22-17 23-18 24-19 25-20 26-21 27-22 28-23 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 1-0 2-1 3-2 4-3 
+[['.', '.'], [',', ','], ['is', 'is'], ['Zelimkhan', 'Zelimkhan'], ['Yandarbiev', 'Yandarbiev'], [',', ','], ['the', 'the'], ['former', 'former'], ['president', 'president'], ['of', 'of'], ['Chechnya', 'Chechnya'], ['to', 'to'], ['the', 'the'], ['list', 'list'], [',', ','], ['which', 'which'], ['to', 'to'], ['date', 'date'], ['includes', 'includes'], ['the', 'the'], ['most', 'most'], ['recent', 'recent'], ['additions', 'addition']]
+
+84
+9-11 7-9 8-10 4-6 5-7 1-1 1-2 3-3 0-0 
+[['.', '.'], ['Supreme', 'Supreme'], ['Court', 'court'], ['to', 'to'], ['the', 'the'], ['DVD-CCA', 'DVD'], ['DVD-CCA', 'CCA'], ['appealed', 'appealed'], ['the', 'the']]
+
+85
+28-28 18-16 19-17 20-18 21-19 22-20 23-21 24-22 25-23 26-24 27-25 11-9 12-10 13-11 14-12 15-13 16-14 9-4 10-5 17-15 
+[['.', '.'], ['system', 'system'], ['and', 'and'], ['protect', 'protect'], ['key', 'key'], ['institutions', 'institutions'], ['such', 'such'], ['as', 'as'], ['the', 'the'], ['Finance', 'Finance'], ['Ministry', 'Ministry'], ['police', 'police'], [',', ','], ['strengthen', 'strengthen'], ['the', 'the'], ['courts', 'courts'], ['and', 'and'], ['reform', 'reform'], ['the', 'the'], ['prison', 'prisons']]
+
+86
+17-15 0-0 1-1 2-2 3-3 6-7 7-8 10-14 12-12 
+[['.', '.'], ['analysts', 'analysts'], ['have', 'have'], ['estimated', 'estimated'], ['that', 'that'], ['could', 'could'], ['fetch', 'fetch'], ['billion', 'billion'], ['$', '$']]
+
+87
+24-30 1-11 2-12 3-13 4-14 5-15 6-16 7-17 8-18 9-19 10-20 11-21 12-22 13-23 14-24 15-25 16-26 18-29 0-0 
+[['.', '.'], ['the', 'the'], ['public', 'public'], ['is', 'is'], ['understandably', 'understandably'], ['losing', 'losing'], ['patience', 'patience'], ['with', 'with'], ['these', 'these'], ['unwanted', 'unwanted'], ['phone', 'phone'], ['calls', 'calls'], [',', ','], ['unwanted', 'unwanted'], ['intrusions', 'intrusions'], ["''", "''"], [',', ','], ['said', 'said'], ["''", "''"]]
+
+88
+12-9 7-6 8-7 9-8 1-2 2-3 3-5 
+[['.', '.'], ['before', 'before'], ['August', 'August'], ['8', '8'], ['would', 'would'], ['now', 'now'], ['take', 'held']]
+
+89
+25-24 19-15 20-16 21-17 22-18 23-19 24-20 4-3 5-4 6-5 7-6 8-7 0-0 1-1 2-2 10-10 11-11 13-14 
+[['.', '.'], ['on', 'on'], ['the', 'the'], ['New', 'New'], ['York', 'York'], ['Stock', 'Stock'], ['Exchange', 'Exchange'], [',', ','], ['Europe', 'Europe'], ["'s", "'s"], ['second', 'second'], ['biggest', 'biggest'], ['shares', 'shares'], ['of', 'of'], ['AstraZeneca', 'AstraZeneca'], [',', ','], ['rose', 'rose'], ['percent', 'cent']]
+
+90
+16-13 3-0 4-1 5-2 6-3 7-4 8-5 9-6 10-7 0-11 1-12 2-9 
+[['.', '.'], ['a', 'a'], ['widely', 'widely'], ['praised', 'praised'], ['film', 'film'], ['of', 'of'], ['the', 'the'], ['same', 'same'], ['name', 'name'], ['Wim', 'Wim'], ['Wenders', 'Wenders'], ['directed', 'directed']]
+
+91
+16-11 8-3 9-4 10-5 11-6 12-7 13-8 
+[['.', '.'], ['suspended', 'suspended'], ['Alabama', 'Alabama'], ['Chief', 'chief'], ['Justice', 'Justice'], ['Roy', 'Roy'], ['Moore', 'Moore']]
+
+92
+14-11 9-0 10-1 11-2 12-3 
+[['.', '.'], ['Enron', 'Enron'], ['spokesman', 'spokesman'], ['Eric', 'Eric'], ['Thode', 'Thode']]
+
+93
+16-12 7-5 8-6 9-7 4-2 5-3 0-1 
+[['.', '.'], ['percent', 'percent'], ['of', 'of'], ['the', 'the'], ['accounted', 'accounted'], ['for', 'for'], ['fatalities', 'fatalities']]
+
+94
+10-12 4-5 5-6 6-7 7-8 1-11 3-4 
+[['.', '.'], ['known', 'known'], ['as', 'as'], ['the', 'the'], ['NASCAR', 'NASCAR'], ['series', 'Series'], ['be', 'was']]
+
+95
+19-17 13-11 14-12 15-13 16-14 17-15 18-16 10-9 11-10 7-5 
+[['.', '.'], ['Internet', 'Internet'], ['Connection', 'Connection'], ['Firewall', 'Firewall'], ['-LRB-', '-LRB-'], ['ICF', 'ICF'], ['-RRB-', '-RRB-'], ['as', 'as'], ['the', 'the'], ['Windows', 'Windows']]
+
+96
+23-18 19-14 20-15 21-16 22-17 12-10 13-11 14-12 15-13 3-6 4-7 10-8 6-9 8-4 
+[['.', '.'], ['in', 'in'], ['the', 'the'], ['United', 'United'], ['States', 'States'], ['from', 'from'], ['selling', 'selling'], ['the', 'the'], ['BlackBerry', 'BlackBerry'], ['an', 'an'], ['injunction', 'injunction'], ['prevented', 'preventing'], ['RIM', 'RIM'], ['would', 'would']]
+
+97
+18-15 5-12 6-13 7-14 3-0 4-2 3-1 4-1 2-11 
+[['.', '.'], ['chief', 'chief'], ['operating', 'operating'], ['officer', 'officer'], ['Robert', 'Robert'], ['Willumstad', 'Willumstad'], ['Robert', 'B.'], ['Willumstad', 'B.'], ['named', 'named']]
+
+98
+29-28 15-20 16-21 17-22 18-23 19-24 20-25 3-8 4-9 5-10 6-11 7-12 10-14 11-15 13-17 14-18 1-7 9-27 28-3 23-0 
+[['.', '.'], ['share', 'share'], [',', ','], ['on', 'on'], ['revenue', 'revenue'], ['of', 'of'], ['$', '$'], ['a', 'a'], ['net', 'net'], ['loss', 'loss'], ['of', 'of'], ['$', '$'], [',', ','], ['or', 'or'], ['cents', 'cents'], ['per', 'per'], ['compares', 'reported'], ['million', 'million'], ['quarter', 'quarter'], ['in', 'in']]
+
+99
+19-19 14-9 15-10 16-11 17-12 18-13 2-2 3-3 13-8 4-7 0-0 
+[['.', '.'], ['to', 'to'], ['keep', 'keep'], ['their', 'their'], ['stores', 'stores'], ['open', 'open'], ['chains', 'chains'], ['have', 'have'], ['employees', 'workers'], ['replaced', 'replacement'], ['the', 'the']]
+
+100
+28-20 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 23-15 24-16 25-17 26-18 27-19 14-13 
+[['.', '.'], ["''", "''"], ['that', 'that'], ['obligation', 'obligation'], ['to', 'to'], ['pay', 'pay'], ['rent', 'rent'], ['continues', 'continues'], ['unabated', 'unabated'], ['notwithstanding', 'notwithstanding'], ['the', 'the'], ['heinous', 'heinous'], ['attacks', 'attacks'], ['of', 'of'], ["''", "''"], [',', ','], ['the', 'the'], ['suit', 'suit'], ['says', 'says'], ['11', '11']]
+
+101
+26-21 13-11 14-12 15-13 16-14 17-15 18-16 19-17 20-18 21-19 22-20 8-7 9-8 12-10 
+[['.', '.'], ["''", "''"], [',', ','], ['delegation', 'delegation'], ['leader', 'leader'], ['Bob', 'Bob'], ['Weatherall', 'Weatherall'], ['told', 'told'], ['Reuters', 'Reuters'], ['by', 'by'], ['telephone', 'telephone'], ['the', 'the'], ['healing', 'healing'], ['begin', 'commence']]
+
+102
+10-8 1-2 2-3 4-0 0-1 9-6 
+[['.', '.'], ['Michael', 'Michael'], ['Powell', 'Powell'], ['FCC', 'FCC'], ['Chairman', 'chief'], ['hearing', 'hearing']]
+
+103
+17-20 4-3 5-4 6-5 7-6 8-7 12-11 13-12 14-13 15-14 16-19 2-1 11-2 
+[['.', '.'], ['a', 'a'], ["''", "''"], ['self-healing', 'self-healing'], ["''", "''"], ['option', 'option'], ['continuous', 'continuous'], ['access', 'access'], ['to', 'to'], ['critical', 'critical'], ['applications', 'applications'], ['also', 'also'], ['provide', 'offers']]
+
+104
+15-16 0-5 1-6 2-7 3-8 4-9 5-10 6-11 12-4 
+[['.', '.'], ['making', 'making'], ['jokes', 'jokes'], ['about', 'about'], ['a', 'a'], ['mistake', 'mistake'], ['like', 'like'], ['that', 'that'], ['good', 'happy']]
+
+105
+22-19 0-0 1-1 2-2 3-3 4-4 6-7 7-8 19-15 20-16 5-6 10-11 
+[['.', '.'], ['Ross', 'Ross'], ['Garber', 'Garber'], [',', ','], ['Rowland', 'Rowland'], ["'s", "'s"], [',', ','], ['said', 'said'], ['on', 'on'], ['the', 'the'], ['lawyer', 'counsel'], ['would', 'would']]
+
+106
+27-26 7-8 8-9 9-10 10-11 11-12 12-13 13-14 22-21 23-22 24-23 25-24 1-0 2-1 3-2 18-18 19-19 
+[['.', '.'], [':', ':'], ['QCOM', 'QCOM'], ['-', '-'], ['news', 'news'], ['-', '-'], ['people', 'people'], ['-RRB-', '-rrb-'], ['percent', 'percent'], [',', ','], ['to', 'to'], ['$', '$'], ['telecom', 'Telecom'], ['equipment', 'equipment'], ['maker', 'maker'], [',', ','], ['or', 'or']]
+
+107
+13-14 9-9 10-10 11-11 12-12 6-7 7-8 
+[['.', '.'], ['coach', 'Coach'], ['Gregg', 'Gregg'], ['Popovich', 'Popovich'], ['said', 'said'], ["''", "''"], [',', ',']]
+
+108
+17-12 4-3 5-4 6-5 7-6 8-7 9-8 11-9 12-10 
+[['.', '.'], ['on', 'on'], ['death', 'death'], ['row', 'row'], ['longer', 'longer'], ['than', 'than'], ['anyone', 'anyone'], ['in', 'in'], ['the', 'the']]
+
+109
+29-20 1-0 2-1 3-2 4-3 5-4 6-5 7-6 8-7 9-8 10-9 11-10 12-11 24-15 25-16 26-17 27-18 28-19 
+[['.', '.'], ['Adora', 'Adora'], ['Obi', 'Obi'], ['Nweze', 'Nweze'], [',', ','], ['the', 'the'], ['NAACP', 'NAACP'], ['state', 'state'], ['president', 'president'], [',', ','], ['said', 'said'], ['the', 'the'], ['state', 'state'], ['consider', 'consider'], ['the', 'the'], ['possibility', 'possibility'], ['of', 'of'], ['murder', 'murder']]
+
+110
+19-18 8-5 9-6 10-7 17-16 18-17 4-8 5-9 13-15 
+[['.', '.'], ['University', 'University'], ['of', 'of'], ['Arizona', 'Arizona'], ['Phoenix', 'Phoenix'], ['mission', 'mission'], ['planetary', 'planetary'], ['scientist', 'scientist'], ['the', 'the']]
+
+111
+13-17 0-0 1-1 2-2 3-3 4-4 12-8 7-10 
+[['.', '.'], ['Ernst', 'Ernst'], ['&', '&'], ['Young', 'Young'], ['has', 'has'], ['denied', 'denied'], ['allegations', 'claims'], ['and', 'and']]
+
+112
+33-33 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 30-30 31-31 32-32 
+[['.', '.'], ['last', 'last'], ['year', 'year'], ['the', 'the'], ['freezing', 'freezing'], ['winter', 'winter'], ['in', 'in'], ['Chicago', 'Chicago'], ['was', 'was'], ['much', 'much'], ['warmer', 'warmer'], ['than', 'than'], ['in', 'in'], ['previous', 'previous'], ['years', 'years'], [',', ','], ['snow', 'snow'], ['fall', 'fall'], ['was', 'was'], ['also', 'also'], ['much', 'much'], ['less', 'less'], [',', ','], ['it', 'it'], ["'s", "'s"], ['predicted', 'predicted'], ['the', 'the'], ['next', 'next'], ['winter', 'winter'], ['will', 'will'], ['be', 'be'], ['much', 'much'], ['the', 'the'], ['same', 'same']]
+
+113
+25-26 3-18 4-19 5-20 6-21 19-7 20-8 21-9 0-15 1-16 8-22 9-23 15-3 16-4 18-12 17-5 2-17 14-2 10-24 24-14 
+[['.', '.'], ['of', 'of'], ['the', 'the'], ['immigrants', 'immigrants'], ['and', 'and'], ['the', 'the'], ['government', 'government'], ['to', 'to'], ['for', 'for'], ['the', 'the'], ['Australia', 'Australia'], ["'s", "'s"], ['Association', 'Association'], ['has', 'has'], ['to', 'to'], ['appealed', 'called'], ['benefit', 'sake'], ['Immigrant', 'Immigrants'], ['economy', 'economic'], ['problem', 'problem']]
+
+114
+26-25 0-0 1-1 2-2 3-3 4-4 15-18 16-19 17-20 11-10 12-11 6-5 8-7 13-12 9-8 22-22 19-14 20-21 7-6 23-23 
+[['.', '.'], ['in', 'in'], ['recent', 'recent'], ['years', 'years'], [',', ','], ['China', 'China'], ['international', 'international'], ['competitive', 'competitive'], ['bidding', 'bidding'], ['international', 'international'], ['financial', 'financial'], ['started', 'began'], ['utilize', 'use'], ['organizations', 'institutions'], ['loans', 'loans'], ['area', 'field'], ['purchasing', 'purchase'], ['in', 'in'], ['to', 'to'], ['of', 'of']]
+
+115
+32-36 0-0 1-1 2-2 13-26 14-27 15-28 25-9 26-10 29-19 30-20 31-35 20-34 17-31 19-33 6-6 23-8 9-22 16-30 7-7 8-21 
+[['.', '.'], ["''", "''"], ['we', 'we'], ['want', 'want'], ['the', 'the'], ['democratically-elected', 'democratically-elected'], ['government', 'government'], ['will', 'will'], ['not', 'not'], ['remain', 'remain'], ['silent', 'silent'], ["''", "''"], ['means', 'methods'], ['undemocratic', 'non-democratic'], ['illegal', 'illegal'], ['know', 'known'], ['Malaysian', 'Malaysians'], ['someone', 'somebody'], ['through', 'through'], ['that', 'that'], ['when', 'when']]
+
+116
+12-14 7-9 8-10 9-11 10-12 11-13 0-5 4-8 5-1 1-6 
+[['.', '.'], ['will', 'will'], ['be', 'be'], ['held', 'held'], ['this', 'this'], ['afternoon', 'afternoon'], ['women', 'woman'], ['diving', 'diving'], ['preliminary', 'first'], ["'s", "'s"]]
+
+117
+24-26 15-18 16-19 17-20 18-21 19-22 3-3 4-4 5-5 7-6 8-7 9-10 10-11 23-25 6-8 20-24 22-23 0-0 14-15 
+[['.', '.'], ['several', 'several'], ['days', 'days'], ['without', 'without'], ['renewing', 'renewing'], ['our', 'our'], ['difficulty', 'difficulty'], ["''", "''"], [',', ','], ['Captain', 'Captain'], ['Nemo', 'Nemo'], [',', ','], ["''", "''"], ["''", "''"], ['continued', 'went'], ['provision', 'supply'], ['air', 'air'], ["''", "''"], ['remaining', 'staying']]
+
+118
+13-13 6-6 7-7 8-8 9-9 10-10 11-11 12-12 3-3 4-4 0-0 1-1 
+[['.', '.'], ['in', 'in'], ['a', 'a'], ['current', 'current'], ['of', 'of'], ['boiling', 'boiling'], ['water', 'water'], ["''", "''"], ['we', 'we'], ['are', 'are'], ["''", "''"], ['certainly', 'surely']]
+
+119
+32-32 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 11-10 12-11 13-12 4-2 5-3 18-18 17-15 15-14 28-30 31-28 30-27 33-31 10-9 0-0 
+[['.', '.'], ['with', 'with'], ['the', 'the'], ['speed', 'speed'], ['of', 'of'], ['an', 'an'], ['express', 'express'], ['train', 'train'], ['against', 'against'], ['such', 'such'], ['a', 'a'], ['mass', 'mass'], [',', ','], ['Ned', 'Ned'], ['hurled', 'launched'], ['if', 'if'], ['cause', 'inflict'], ['hull', 'hull'], ['vessel', 'ship'], ['a', 'a'], ["''", "''"], ['destruction', 'damage'], ["''", "''"]]
+
+120
+11-10 6-5 7-6 8-7 9-8 10-9 0-0 1-1 3-3 2-2 5-4 
+[['.', '.'], ['to', 'to'], ['open', 'open'], ['the', 'the'], ['hatches', 'hatches'], ["''", "''"], ["''", "''"], ['I', 'I'], ['given', 'given'], ['have', "'ve"], ['order', 'orders']]
+
+121
+23-26 14-14 15-15 16-16 17-17 18-18 6-6 7-7 8-8 9-9 2-2 3-3 4-4 19-22 20-23 21-24 12-12 11-11 
+[['?', '?'], ['the', 'the'], ['continent', 'continent'], ['?', '?'], ['who', 'who'], ['was', 'was'], ['to', 'to'], ['their', 'their'], ['address', 'address'], ['.', '.'], ['millions', 'millions'], ['had', 'had'], ['been', 'been'], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ["'s", "'s"], ['point', 'spot'], ['what', 'what']]
+
+122
+8-8 7-0 6-1 0-9 
+[['.', '!'], ["''", "''"], ['however', 'nevertheless'], ["''", "''"]]
+
+123
+15-13 0-0 1-1 2-2 3-3 6-8 7-9 8-10 9-11 11-4 12-5 13-6 14-12 4-7 
+[["''", "''"], ["''", "''"], ['how', 'how'], ['many', 'many'], ['men', 'men'], ['on', 'on'], ['board', 'board'], ['the', 'the'], ['Nautilus', 'Nautilus'], ['do', 'do'], ['you', 'you'], ['think', 'think'], ['?', '?'], ['are', 'are']]
+
+124
+3-6 2-5 0-0 
+[['.', '.'], ["''", "''"], ["''", "''"]]
+
+125
+39-40 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 21-22 22-23 23-24 24-25 25-26 26-27 27-28 28-29 32-33 33-34 34-35 35-36 36-37 37-38 38-39 2-2 3-3 4-4 5-5 6-6 7-7 8-9 9-10 10-11 11-13 1-1 0-0 30-32 29-30 31-31 
+[["''", "''"], [',', ','], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ['.', '.'], ['who', 'who'], ['could', 'could'], ['reach', 'reach'], ['you', 'you'], ['in', 'in'], ['the', 'the'], ['heart', 'heart'], ['of', 'of'], ['a', 'a'], ['volcano', 'volcano'], ['?', '?'], ['but', 'but'], ['see', 'see'], ['an', 'an'], ['opening', 'opening'], ['at', 'at'], ['its', 'its'], ['summit', 'summit'], ['?', '?'], ["''", "''"], [',', ','], ['I', 'I'], ['replied', 'replied'], [',', ','], ["''", "''"], ['you', 'you'], ['are', 'are'], ['in', 'in'], ['safety', 'safety'], ['certainly', 'indeed'], ["''", "''"], ['I', 'I'], ['did', 'do'], ['not', 'not']]
+
+126
+14-15 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 13-14 9-8 
+[['.', '.'], ['these', 'these'], ['orders', 'orders'], ['were', 'were'], ['executed', 'executed'], [',', ','], ['and', 'and'], ['the', 'the'], ['frigate', 'frigate'], ['light', 'light'], ['rapidly', 'swiftly']]
+
+127
+11-12 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 10-11 9-8 8-10 
+[['.', '.'], ["''", "''"], ['we', 'we'], ['are', 'are'], ['floating', 'floating'], ['on', 'on'], ['its', 'its'], ['surface', 'surface'], [',', ','], ["''", "''"], ['Ned', 'Ned'], ['friend', 'friend']]
+
+128
+21-25 4-4 5-5 6-6 15-19 16-20 17-21 10-13 11-14 20-24 8-8 7-7 3-3 2-2 0-0 12-18 18-22 
+[["''", "''"], ['.', '.'], ['an', 'an'], ['electric', 'electric'], [',', ','], ['and', 'and'], ['that', 'that'], ['.', '.'], ['I', 'I'], ['.', '.'], ['connects', 'connects'], ['thread', 'wire'], ['orders', 'command'], ['my', 'my'], ["''", "''"], ['telegraph', 'telegram'], ['is', "'s"]]
+
+129
+47-44 25-24 26-25 27-26 28-27 29-28 11-11 12-12 13-13 18-17 19-18 20-19 42-39 43-40 44-41 0-0 1-1 22-21 23-22 31-29 32-30 34-31 35-32 46-43 15-14 6-6 10-9 17-16 21-20 37-36 16-15 9-8 24-23 
+[['.', '.'], ['better', 'better'], ['to', 'to'], ['perish', 'perish'], ['with', 'with'], ['it', 'it'], [',', ','], ['it', 'it'], ['will', 'will'], ['.', '.'], ['in', 'in'], ['any', 'any'], ['we', 'we'], ['can', 'can'], ['not', 'not'], ["''", "''"], ['I', 'I'], [',', ','], ['it', 'it'], ['than', 'than'], ['be', 'be'], ['accomplices', 'accomplices'], ['in', 'in'], ["''", "''"], ['sunk', 'sink'], ['but', 'but'], ['is', "'s"], ['night', 'nightfall'], ['case', 'event'], ['retaliation', 'revenge'], ['before', 'before'], ['it', 'it'], ['is', "'s"]]
+
+130
+10-10 7-7 8-8 9-9 5-6 3-4 0-0 
+[['.', '.'], ['I', 'I'], ['said', 'said'], ['resolutely', 'resolutely'], ["''", "''"], ['try', 'trying'], ["''", "''"]]
+
+131
+13-13 0-0 1-1 2-2 3-3 4-4 5-5 6-6 10-10 11-11 12-12 8-9 
+[['.', '.'], ['ten', 'ten'], ['of', 'of'], ['his', 'his'], ['companions', 'companions'], ['followed', 'followed'], ['him', 'him'], ['.', '.'], ['the', 'the'], ['same', 'same'], ['fate', 'fate'], ['met', 'met']]
+
+132
+36-37 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 22-22 23-23 24-24 25-25 26-26 27-27 32-33 33-34 34-35 35-36 29-29 30-30 28-28 1-1 31-32 0-0 20-20 21-21 
+[['.', '.'], ['day', 'day'], ['passed', 'passed'], ['without', 'without'], ['my', 'my'], ['being', 'being'], ['honored', 'honored'], ['by', 'by'], ['a', 'a'], ['visit', 'visit'], ['from', 'from'], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ['.', '.'], ['the', 'the'], ['panels', 'panels'], ['open', 'open'], ['.', '.'], ['perhaps', 'perhaps'], ['they', 'they'], ['did', 'did'], ['not', 'not'], ['of', 'of'], ['these', 'these'], ['beautiful', 'beautiful'], ['things', 'things'], ['us', 'us'], ['to', 'to'], ['wish', 'want'], ['whole', 'entire'], ['tire', 'tired'], ['the', 'the'], ['did', 'did'], ['not', "n't"]]
+
+133
+14-22 2-2 3-3 4-4 9-16 10-17 11-18 12-20 13-21 12-19 0-0 5-5 6-6 
+[["''", "''"], ['well', 'well'], [',', ','], ['my', 'my'], ['you', 'you'], [',', ','], ['Mr.', 'Mr.'], ['Land', 'Land'], ['?', '?'], ['Land', 'Ned'], ["''", "''"], ['brave', 'gallant'], ['boy', 'lad']]
+
+134
+13-14 5-6 6-7 7-8 8-9 9-10 10-11 4-3 11-13 3-5 2-4 12-12 0-0 
+[['.', '.'], ['in', 'in'], ['the', 'the'], ['same', 'same'], ['oyster', 'oyster'], ['?', '?'], ["''", "''"], ['found', 'find'], ['asked', 'asked'], ['pearls', 'pearls'], ['many', 'several'], ['Conseil', 'Conseil'], ["''", "''"]]
+
+135
+44-44 1-1 2-2 3-3 4-4 5-5 6-6 7-7 40-40 41-41 42-42 43-43 19-17 20-18 21-19 22-20 10-10 11-11 12-12 29-29 30-30 31-31 15-16 36-36 37-37 34-34 35-35 23-21 27-28 38-38 
+[['.', '.'], ['midnight', 'midnight'], ['the', 'the'], ['sea', 'sea'], ['suddenly', 'suddenly'], ['resumed', 'resumed'], ['its', 'its'], ['usual', 'usual'], ['of', 'of'], ['an', 'an'], ['aurora', 'aurora'], ['borealis', 'borealis'], ['the', 'the'], ['horizon', 'horizon'], [',', ','], ['the', 'the'], ['but', 'but'], ['behind', 'behind'], ['us', 'us'], ['and', 'and'], ['for', 'for'], ['a', 'a'], ['to', 'to'], ['with', 'with'], ['the', 'the'], ['seemed', 'seemed'], ['impregnated', 'imbued'], ['sky', 'skies'], ['waves', 'waves'], ['vague', 'hazy']]
+
+136
+15-42 8-33 9-34 10-35 0-23 1-24 3-26 4-27 7-30 2-25 6-32 12-41 14-43 
+[['.', '!'], [';', ';'], ['well', 'well'], [',', ','], ["''", "''"], ['you', 'you'], ['to', 'to'], ['see', 'see'], ['Ned', 'Ned'], ['wished', 'wanted'], ['friend', 'friend'], ['see', 'see'], ["''", "''"]]
+
+137
+16-16 11-10 12-11 14-12 15-13 7-14 0-0 8-15 
+[['.', '.'], ['?', '?'], ["''", "''"], ['Ned', 'Ned'], ['Land', 'Land'], ['going', 'went'], ["''", "''"], ['on', 'on']]
+
+138
+10-14 0-0 1-1 3-8 4-9 9-13 8-12 
+[["''", "''"], ["''", "''"], ['yes', 'yes'], ['but', 'but'], ['what', 'what'], ['?', '?'], ['done', 'do']]
+
+139
+9-11 0-0 1-1 2-2 3-3 4-4 5-7 6-8 7-9 8-10 
+[['.', '.'], ["''", "''"], ['they', 'they'], ['will', 'will'], ['be', 'be'], ['useless', 'useless'], ["''", "''"], [',', ','], ['he', 'he'], ['replied', 'replied']]
+
+140
+16-18 6-5 7-6 8-7 9-8 14-16 15-17 0-0 1-1 10-14 5-4 
+[["''", "''"], [',', ','], ['Ned', 'Ned'], [',', ','], ['since', 'since'], ['now', 'now'], ['?', '?'], ["''", "''"], ['what', 'what'], ['flight', 'escape'], ['done', 'do']]
+
+141
+6-5 3-2 4-3 5-4 0-0 1-1 
+[['.', '.'], [',', ','], ['Professor', 'Professor'], ["''", "''"], ["''", "''"], ['ask', 'ask']]
+
+142
+34-37 26-27 27-28 28-29 3-5 4-6 9-12 10-13 22-23 23-24 30-31 31-32 33-36 6-7 32-34 2-3 1-4 0-0 7-11 13-16 24-26 25-25 
+[["''", "''"], ['see', 'see'], ['a', 'a'], ['mass', 'mass'], ["''", "''"], [',', ','], ['there', 'there'], [',', ','], ['!', '!'], ['do', 'do'], ['seems', 'seems'], ['to', 'to'], ['?', '?'], ['Ned', 'Ned'], ['move', 'moving'], ['well', 'good'], ['look', 'look'], ["''", "''"], ["''", "''"], ['starboard', 'starboard'], ['you', 'you'], ['not', 'not']]
+
+143
+34-37 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 18-17 19-18 20-19 21-20 22-21 29-33 30-34 31-35 13-13 14-14 17-23 33-36 23-24 24-25 15-15 
+[['.', '.'], ["''", "''"], ['it', 'it'], ['remains', 'remains'], ['to', 'to'], ['be', 'be'], ['seen', 'seen'], ["''", "''"], [',', ','], ['I', 'I'], ['said', 'said'], [',', ','], ["''", "''"], ['game', 'game'], [',', ','], ['and', 'and'], ['if', 'if'], ['the', 'the'], ['hunt', 'hunt'], ['the', 'the'], ['hunter', 'hunter'], ['these', 'these'], ['forests', 'forests'], ['of', 'of'], ["''", "''"], ['game', 'game'], ['is', 'are'], ['are', 'do']]
+
+144
+7-7 0-0 1-1 2-2 3-3 4-4 5-5 6-6 
+[['.', '.'], ['Captain', 'Captain'], ['Nemo', 'Nemo'], [',', ','], ['commander', 'commander'], ['of', 'of'], ['the', 'the'], ['Nautilus', 'Nautilus']]
+
+145
+7-6 8-7 9-8 10-9 11-10 12-11 28-22 29-23 30-24 31-25 32-26 33-27 14-13 15-14 16-15 36-29 37-30 40-35 41-36 21-18 20-17 38-31 4-3 
+[['me', 'me'], ['.', '.'], ['I', 'I'], ['clung', 'clung'], ['to', 'to'], ['it', 'it'], ['to', 'to'], ['the', 'the'], ['surface', 'surface'], ['of', 'of'], ['the', 'the'], ['water', 'water'], ['then', 'then'], ['I', 'I'], ['felt', 'felt'], ['my', 'my'], ['chest', 'chest'], ['I', 'I'], ['fainted', 'fainted'], ['drawn', 'pulled'], ['being', 'being'], ['collapsed', 'caved'], ['hard', 'hard']]
+
+146
+9-8 10-9 11-10 12-11 13-12 14-13 15-14 29-27 30-28 31-29 32-30 33-31 25-23 26-24 17-16 37-36 36-35 34-33 0-0 3-3 8-7 20-18 38-38 7-6 
+[['that', 'that'], ['the', 'the'], ['Nautilus', 'Nautilus'], ['is', 'is'], ['armed', 'armed'], ['with', 'with'], ['a', 'a'], ['of', 'of'], ['ice', 'ice'], [',', ','], ['which', 'which'], ['would', 'would'], ['diagonally', 'diagonally'], ['against', 'against'], ['spur', 'spur'], ['shocks', 'impact'], ['the', 'the'], ['open', 'open'], ["''", "''"], ['sir', 'sir'], ['forget', 'forgotten'], ['could', 'could'], ["''", "''"], ['you', 'you']]
+
+147
+32-41 22-31 23-32 24-33 25-34 26-35 27-36 28-37 29-38 30-39 31-40 7-13 8-14 9-15 10-16 0-0 1-1 5-10 6-11 21-30 3-3 2-2 13-18 16-22 
+[['.', '.'], ['the', 'the'], ['place', 'place'], ['of', 'of'], ['wind', 'wind'], [',', ','], ['water', 'water'], [',', ','], ['and', 'and'], ['steam', 'steam'], ["''", "''"], ['see', 'see'], [',', ','], ['Captain', 'Captain'], [',', ','], ["''", "''"], ['it', 'it'], ['and', 'and'], ['I', 'I'], ['takes', 'take'], ['marvelous', 'marvelous'], ['is', "'s"], ['right', 'right'], ['use', 'use']]
+
+148
+47-49 4-5 5-6 6-7 7-8 8-9 9-10 16-23 17-24 18-25 19-26 20-27 11-18 12-19 13-20 14-21 0-0 1-1 2-2 30-33 31-34 32-35 38-39 39-40 40-41 45-47 46-48 43-45 21-28 3-3 
+[['.', '.'], ['to', 'to'], ['tell', 'tell'], ['you', 'you'], ['is', 'is'], ['very', 'very'], ['simple', 'simple'], ['and', 'and'], ['before', 'before'], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ["'s", "'s"], ['we', 'we'], ['are', 'are'], ['in', 'in'], ['Europe', 'Europe'], ["''", "''"], ['what', 'what'], ['I', 'I'], ['the', 'the'], ['polar', 'polar'], ['seas', 'seas'], ['Oceania', 'Oceania'], [',', ','], ['I', 'I'], ['Nautilus', 'Nautilus'], ["''", "''"], ['leave', 'leave'], ['caprices', 'whims'], ['have', "'ve"]]
+
+149
+48-47 32-34 33-35 34-36 35-37 36-38 44-43 45-44 46-45 47-46 0-0 1-1 2-2 4-4 5-5 6-6 9-8 10-9 11-10 17-3 16-16 21-24 22-25 8-7 13-12 23-33 27-30 43-42 
+[['.', '.'], [',', ','], ['it', 'it'], ['seemed', 'seemed'], [',', ','], ['I', 'I'], ['made', 'made'], ['of', 'of'], ['riveted', 'riveted'], ['plates', 'plates'], ['well', 'well'], [',', ','], ['no', 'no'], ['the', 'the'], ['blackish', 'blackish'], ['back', 'back'], ['me', 'me'], ['was', 'was'], ['smooth', 'smooth'], ['.', '.'], ['scales', 'scales'], ['a', 'a'], ['metallic', 'metallic'], ['supported', 'supporting'], ['polished', 'polished'], ['sound', 'sounds'], ['incredible', 'incredible'], ['was', 'be']]
+
+150
+15-12 3-1 4-2 5-3 6-4 14-11 12-8 13-9 10-7 0-0 8-5 
+[['.', '.'], ['all', 'all'], ['the', 'the'], ['more', 'more'], ['reason', 'reason'], ["''", "''"], ['see', 'look'], ['him', 'him'], ['go', 'go'], ["''", "''"], ['you', 'you']]
+
+151
+42-41 4-4 5-5 6-6 7-7 8-8 9-9 10-10 38-37 39-38 40-39 41-40 21-21 22-22 23-23 24-24 27-27 28-28 29-29 33-34 34-35 12-16 
+[['.', '.'], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ['gave', 'gave'], ['the', 'the'], ['signal', 'signal'], ['to', 'to'], ['halt', 'halt'], ['stood', 'stood'], ['up', 'up'], ['like', 'like'], ['arrows', 'arrows'], [',', ','], ['and', 'and'], ['we', 'we'], ['stretched', 'stretched'], ['an', 'an'], ['arbor', 'arbor'], ['of', 'of'], ['long', 'long'], ['thin', 'thin'], ['I', 'I']]
+
+152
+29-29 5-6 6-7 8-8 9-9 13-14 14-15 16-18 17-19 25-24 26-25 28-28 7-10 11-12 23-23 0-0 4-21 
+[['.', '.'], ['?', '?'], ["''", "''"], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ['to', 'to'], ['destroy', 'destroy'], ['we', 'we'], ['have', 'have'], ['oil', 'oil'], ['on', 'on'], ["''", "''"], ['replied', 'replied'], ["''", "''"], ['whale', 'whale'], ["''", "''"], ['purpose', 'use']]
+
+153
+32-34 3-3 4-4 5-5 6-6 7-7 20-17 21-18 22-19 23-20 24-21 9-9 19-16 29-33 31-31 13-11 15-13 10-30 18-15 26-29 11-12 
+[['.', '.'], ['nothing', 'nothing'], ['is', 'is'], ['clear', 'clear'], ['to', 'to'], ['me', 'me'], [',', ','], ['and', 'and'], ['I', 'I'], ['must', 'must'], ['confine', 'limit'], ['I', 'I'], ['darkness', 'dark'], ['events', 'events'], ['dictate', 'dictation'], ['glimpse', 'glimpse'], ['light', 'glimmers'], ['catch', 'taking'], ['the', 'the'], ['to', 'to'], ['but', 'only']]
+
+154
+28-29 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 0-0 1-1 2-2 3-3 4-4 5-5 21-22 22-23 23-24 8-8 9-9 27-28 6-6 25-27 
+[['.', '.'], ['I', 'I'], ['will', 'will'], ['ask', 'ask'], ['your', 'your'], ['permission', 'permission'], [',', ','], ['sir', 'sir'], [',', ','], ['to', 'to'], ['address', 'address'], ["''", "''"], ['we', 'we'], ['accept', 'accept'], ["''", "''"], [',', ','], ['I', 'I'], ['question', 'question'], ['to', 'to'], ['you', 'you'], ["''", "''"], ['only', 'only'], ["''", "''"], ['answered', 'replied'], ['one', 'one']]
+
+155
+25-27 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 22-24 23-25 24-26 0-0 1-1 18-19 19-20 21-23 3-3 
+[['.', '.'], [',', ','], ['Captain', 'Captain'], ["''", "''"], [',', ','], ['I', 'I'], ['replied', 'replied'], [',', ','], ["''", "''"], ['that', 'that'], ['is', 'is'], ['not', 'not'], ['are', 'are'], ['full', 'full'], ["''", "''"], ["''", "''"], ['as', 'as'], [',', ','], ['because', 'because'], ['reservoirs', 'tanks'], ['suffocation', 'asphyxiation']]
+
+156
+7-9 4-6 5-7 
+[['.', '.'], ['left', 'left'], ['the', 'the']]
+
+157
+7-7 0-0 1-1 2-2 3-3 4-4 6-6 5-5 
+[['.', '.'], ["''", "''"], ['they', 'they'], ['are', 'are'], ['seals', 'seals'], ['and', 'and'], ["''", "''"], ['morses', 'walruses']]
+
+158
+43-39 26-26 27-27 28-28 29-29 30-30 11-10 12-11 13-12 14-13 2-3 3-4 4-5 6-7 7-8 42-38 21-22 5-6 8-9 20-20 19-19 16-15 17-16 24-24 34-34 0-0 15-14 40-37 1-2 18-17 
+[['.', '.'], [',', ','], ['a', 'a'], ['sort', 'sort'], ['of', 'of'], ['soft', 'soft'], ['exposed', 'exposed'], ['to', 'to'], ['the', 'the'], ['fire', 'fire'], ['minutes', 'minutes'], [',', ','], ['the', 'the'], ['of', 'of'], ['the', 'the'], ['artichoke', 'artichoke'], ['looked', 'appeared'], ['part', 'parts'], ['fruits', 'fruit'], ['interior', 'inside'], ['the', 'the'], ['completely', 'completely'], ['roasted', 'toasted'], ['white', 'white'], ['flavor', 'flavor'], ['after', 'after'], ['was', 'were'], ['of', 'of'], ['some', 'few'], ['.', '.']]
+
+159
+15-22 8-15 9-16 10-17 11-18 12-19 13-20 14-21 0-0 1-1 2-2 3-3 4-4 5-5 
+[["''", "''"], ['what', 'what'], ['have', 'have'], ['you', 'you'], ['to', 'to'], ['tell', 'tell'], ['us', 'us'], ['?', '?'], ["''", "''"], ['now', 'now'], [',', ','], ['Ned', 'Ned'], [',', ','], ['we', 'we']]
+
+160
+25-29 13-18 14-19 15-20 16-21 17-22 18-23 8-14 9-15 6-12 22-26 21-24 0-0 7-13 23-27 
+[["''", "''"], [',', ','], ['I', 'I'], ['do', 'do'], ['not', 'not'], ['know', 'know'], ['the', 'the'], ['never', 'never'], ['fished', 'fished'], ['I', 'I'], ['frequenting', 'frequent'], ['whale', 'whales'], ["''", "''"], ['have', "'ve"], ['them', 'them']]
+
+161
+21-22 7-8 8-9 9-10 10-11 11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20 20-21 3-4 4-5 5-6 0-0 1-1 
+[['.', '.'], ['in', 'in'], ['Scotland', 'Scotland'], [',', ','], ['Wales', 'Wales'], [',', ','], ['Ireland', 'Ireland'], [',', ','], ['Saxony', 'Saxony'], [',', ','], ['Bohemia', 'Bohemia'], [',', ','], ['and', 'and'], ['France', 'France'], ["''", "''"], ['mussels', 'mussels'], ['of', 'of'], ['certain', 'certain'], ["''", "''"], ['yes', 'yes']]
+
+162
+10-10 4-4 5-5 6-6 7-7 8-8 9-9 0-0 1-1 
+[["''", "''"], ['see', 'see'], ['your', 'your'], ['companions', 'companions'], ['at', 'at'], ['work', 'work'], ['?', '?'], ["''", "''"], ['and', 'and']]
+
+163
+32-19 0-0 1-1 2-2 3-3 5-5 6-6 8-8 21-15 18-16 10-13 33-18 7-10 
+[['!', '.'], ["''", "''"], ['often', 'often'], [',', ','], ['sir', 'sir'], ['but', 'but'], ['never', 'never'], ['whales', 'whale'], ['I', 'me'], ['dollars', '$'], ['sight', 'sighting'], ["''", "''"], ['such', 'this']]
+
+164
+21-17 0-0 1-1 2-2 3-3 12-9 13-10 14-11 15-12 7-5 8-6 18-14 19-15 17-13 10-8 
+[["''", "''"], ["''", "''"], ['yes', 'yes'], [',', ','], ['Ned', 'Ned'], ['even', 'even'], ['if', 'if'], ['the', 'the'], ['sea', 'sea'], ['we', 'we'], ['will', 'will'], ['us', 'us'], ['up', 'up'], ['swallow', 'swallows'], ['to-night', 'tonight']]
+
+165
+7-5 4-2 5-3 6-4 2-1 0-0 
+[['.', '.'], ['follow', 'follow'], ['me', 'me'], ["''", "''"], ['please', 'kindly'], ["''", "''"]]
+
+166
+16-23 4-11 5-12 6-13 8-15 9-16 10-17 0-0 1-1 15-22 13-20 14-21 12-19 11-18 
+[["''", "''"], ['it', 'it'], ['be', 'be'], ['convenient', 'convenient'], ['you', 'you'], ['to', 'to'], ['make', 'make'], ["''", "''"], ['Professor', 'Professor'], ['?', '?'], ['excursion', 'excursion'], ['to-day', 'today'], ['submarine', 'underwater'], ['a', 'an']]
+
+167
+29-24 20-16 21-17 22-18 23-19 24-20 11-5 12-6 13-7 14-8 0-0 1-1 2-10 3-11 6-14 7-15 5-12 15-9 28-25 10-3 
+[['.', '!'], ['if', 'if'], ['Ned', 'Ned'], ['Land', 'Land'], ['does', 'does'], ['not', 'not'], ['time', 'time'], ['to', 'to'], ['finish', 'finish'], ['our', 'our'], ["''", "''"], ['then', 'then'], ["''", "''"], [',', ','], [',', ','], ["''", "''"], ['Conseil', 'Conseil'], ['journey', 'voyage'], ["''", "''"], ['have', 'have']]
+
+168
+9-10 7-8 8-9 2-3 0-2 
+[['.', '.'], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ['question', 'question'], ['one', 'one']]
+
+169
+30-28 10-8 11-9 12-10 13-11 17-15 18-16 19-17 20-18 7-6 8-7 22-20 23-21 1-1 4-3 0-0 3-2 6-4 29-26 26-24 21-19 
+[['.', '.'], ['not', 'not'], ['knowing', 'knowing'], ['what', 'what'], ['he', 'he'], [',', ','], ['I', 'I'], ['waited', 'waited'], ['for', 'for'], ['.', '.'], ['but', 'but'], ['questions', 'questions'], [',', ','], ['answer', 'reply'], ['satisfied', 'pleased'], ['my', 'my'], ['evidently', 'obviously'], ['captain', 'Captain'], ['circumstances', 'circumstances'], ['answers', 'reply'], ['other', 'further']]
+
+170
+23-20 4-4 5-5 6-6 7-7 0-0 1-1 2-2 16-14 17-15 18-16 3-3 19-11 
+[['.', '.'], ['to', 'to'], ['the', 'the'], ['Captain', 'captain'], ["'s", "'s"], ['I', 'I'], ['wanted', 'wanted'], ['to', 'to'], ['with', 'with'], ['horror', 'horror'], [',', ','], ['go', 'run'], ['I', 'I']]
+
+171
+38-37 22-21 23-22 24-23 4-1 5-2 25-7 26-8 9-9 10-12 11-13 27-28 33-33 34-34 2-4 31-36 0-0 
+[['.', '.'], ['half', 'half'], ['an', 'an'], ['hour', 'hour'], ['the', 'the'], ['Captain', 'captain'], ['to', 'to'], ['the', 'the'], ['bank', 'bank'], [',', ','], ['and', 'and'], ['anchor', 'anchor'], ['the', 'the'], ['Nautilus', 'Nautilus'], ['sign', 'signal'], ['canoe', 'skiff'], ['at', 'at']]
+
+172
+6-6 0-0 1-1 2-2 3-3 4-4 5-5 
+[['.', '.'], ["''", "''"], ['precisely', 'precisely'], ["''", "''"], [',', ','], ['I', 'I'], ['replied', 'replied']]
+
+173
+15-23 10-18 11-19 12-20 13-21 14-22 6-14 7-15 8-16 5-13 1-2 0-0 3-1 
+[["''", "''"], ['a', 'a'], ['happy', 'happy'], ['New', 'new'], ['Year', 'year'], ['?', '?'], ['me', 'me'], ['to', 'to'], ['wish', 'wish'], ['permit', 'allow'], ['Master', 'Master'], ["''", "''"], ['will', 'will']]
+
+174
+7-9 6-8 1-5 0-0 
+[['.', '.'], ["''", "''"], ['I', 'me'], ["''", "''"]]
+
+175
+18-16 12-11 13-12 14-13 15-14 0-0 1-1 2-2 8-7 9-8 10-9 17-15 7-5 3-3 4-4 
+[['.', '.'], ['violent', 'violent'], ['shock', 'shock'], ['I', 'I'], ['lost', 'lost'], ['my', 'my'], ['head', 'head'], ['struck', 'struck'], [',', ','], ['and', 'and'], ['with', 'with'], ['consciousness', 'consciousness'], ['iron', 'iron'], ['on', 'against'], ['a', 'an']]
+
+176
+13-19 0-0 1-1 2-2 3-3 5-12 6-13 7-14 9-16 10-17 11-18 8-15 12-20 
+[['.', '!'], ["''", "''"], ['ah', 'ah'], [',', ','], ['Commander', 'Commander'], ['your', 'your'], ['Nautilus', 'Nautilus'], ['is', 'is'], ['a', 'a'], ['marvelous', 'marvelous'], ['boat', 'boat'], ['certainly', 'truly'], ["''", "''"]]
+
+177
+41-41 8-7 9-8 10-9 11-10 12-11 0-0 1-1 5-5 6-6 29-27 30-28 37-36 38-37 39-38 19-16 33-35 32-40 14-13 
+[['.', '.'], ['.', '.'], ['I', 'I'], ['swam', 'swam'], ['more', 'more'], ['vigorously', 'vigorously'], ['Conseil', 'Conseil'], ["'s", "'s"], ['me', 'me'], ['up', 'up'], [',', ','], ['I', 'I'], ['.', '.'], ['Conseil', 'Conseil'], ['saw', 'noticed'], ['clothes', 'clothes'], ['difficulty', 'difficulty'], ['great', 'much'], ['but', 'but']]
+
+178
+28-25 23-20 24-21 25-22 26-23 27-24 8-6 9-7 10-8 11-9 13-12 14-13 15-14 16-15 5-4 6-5 18-16 19-17 21-18 12-11 4-3 3-2 
+[['.', '.'], ['the', 'the'], ['waves', 'waves'], ['of', 'of'], ['the', 'the'], ['Atlantic', 'Atlantic'], ['told', 'told'], ['me', 'me'], ['that', 'that'], ['the', 'the'], ['were', 'were'], ['filling', 'filling'], [',', ','], ['and', 'and'], ['loud', 'loud'], ['hissing', 'hissing'], ['the', 'the'], ['Nautilus', 'Nautilus'], ['sinking', 'sank'], ['reservoirs', 'tanks'], ['rather', 'fairly'], ['a', 'a']]
+
+179
+24-23 2-3 3-4 4-5 5-6 6-7 12-13 13-14 14-15 15-16 8-9 9-10 10-11 22-21 23-22 11-12 7-8 18-19 17-17 0-0 
+[["''", "''"], [',', ','], ['sir', 'sir'], ["''", "''"], [',', ','], ['I', 'I'], ['this', 'this'], ['condition', 'condition'], ['is', 'is'], ['one', 'one'], ['.', '.'], ["''", "''"], ['I', 'I'], ['accept', 'accept'], ['?', '?'], ['suppose', 'assume'], ['answered', 'replied'], ['man', 'man'], ['a', 'an'], ["''", "''"]]
+
+180
+13-12 3-3 4-4 9-7 10-8 11-11 0-0 1-1 
+[['.', '.'], ['fish', 'fish'], ['for', 'for'], ['?', '?'], ["''", "''"], ['asked', 'asked'], ["''", "''"], ['do', 'does']]
+
+181
+14-13 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 13-12 12-11 11-10 
+[["''", "''"], ["''", "''"], ['and', 'and'], ['you', 'you'], ['attribute', 'attribute'], ['this', 'this'], ['color', 'color'], ['to', 'to'], ['the', 'the'], ['presence', 'presence'], ['of', 'of'], ['?', '?'], ['seaweed', 'algae'], ['microscopic', 'microscopic']]
+
+182
+11-12 0-0 1-1 2-2 3-3 4-4 6-7 7-8 9-9 10-10 
+[['.', '.'], ["''", "''"], ['it', 'it'], ['will', 'will'], ['not', 'not'], ['take', 'take'], ["''", "''"], [',', ','], ['the', 'the'], ['Canadian', 'Canadian']]
+
+183
+7-9 3-5 4-6 5-7 0-0 1-1 6-8 2-2 
+[['.', '.'], ["''", "''"], [',', ','], ['I', 'I'], ["''", "''"], ['very', 'very'], ['answered', 'replied'], ['slightly', 'little']]
+
+184
+49-48 11-8 12-9 13-10 14-11 15-12 16-13 29-23 30-24 31-25 32-26 33-27 38-37 39-38 40-39 41-40 42-41 46-45 47-46 48-47 17-15 18-16 19-17 36-33 37-34 26-35 27-36 5-2 6-3 24-21 25-22 2-1 7-5 8-4 10-6 35-31 0-0 21-20 23-18 34-30 
+[["''", "''"], ['and', 'and'], ['steam', 'steam'], ['seems', 'seems'], ['to', 'to'], ['have', 'have'], ['killed', 'killed'], ['since', 'since'], ['you', 'you'], ['seem', 'seem'], ['to', 'to'], ['have', 'have'], [',', ','], ['can', 'can'], ['you', 'you'], ['tell', 'tell'], ['me', 'me'], ['its', 'its'], ['name', 'name'], ['?', '?'], ['all', 'all'], ['gratitude', 'gratitude'], ['in', 'in'], ['this', 'this'], ['sea', 'sea'], [',', ','], ['Captain', 'Captain'], ["''", "''"], [',', ','], ['.', '.'], ['but', 'but'], ['agree', 'agreed'], ['said', 'said'], ['I', 'I'], ["''", "''"], ['studied', 'study'], ["''", "''"], ['hearts', 'hearts'], ['sailors', 'seamen'], ['especially', 'special']]
+
+185
+11-13 3-4 4-5 6-8 7-9 9-10 10-11 8-12 0-0 2-3 1-2 
+[['.', '.'], ['is', 'is'], ['it', 'it'], ['?', '?'], ["''", "''"], ['the', 'the'], ['Canadian', 'Canadian'], ['asked', 'asked'], ["''", "''"], ['time', 'hour'], ['what', 'what']]
+
+186
+43-37 9-10 10-11 11-12 12-13 13-14 14-15 33-30 34-31 35-32 36-33 22-20 23-21 24-22 3-4 4-5 6-6 7-7 19-17 20-18 42-36 38-35 41-34 2-3 5-8 0-0 32-29 28-26 
+[['.', '.'], ["''", "''"], ['I', 'I'], ['accept', 'accept'], ['the', 'the'], ['explanation', 'explanation'], [',', ','], ['was', 'was'], ['not', 'not'], ['made', 'made'], ['above', 'above'], ['interests', 'interests'], [',', ','], ['I', 'I'], ["''", "''"], [',', ','], ['Ned', 'Ned'], ['Land', 'Land'], ['in', 'in'], ['our', 'our'], ["''", "''"], ['level', 'level'], ['sea', 'sea'], ['well', 'fine'], ['replied', 'answered'], ["''", "''"], ['speak', 'mentions'], ['opening', 'opening']]
+
+187
+10-10 0-0 1-1 2-2 4-4 5-5 7-6 7-7 6-8 9-9 3-3 
+[['.', '.'], ["''", "''"], ['in', 'in'], ['the', 'the'], ['?', '?'], ["''", "''"], ['Ned', 'Ned'], ['Ned', 'Land'], ['said', 'said'], ['ironically', 'sarcastically'], ['port', 'harbor']]
+
+188
+28-25 17-13 18-14 19-15 20-16 21-17 8-7 9-8 10-9 11-10 22-21 23-22 24-23 27-24 14-12 0-0 7-1 
+[['.', '.'], ['light', 'light'], ['up', 'up'], ['the', 'the'], ['sea', 'sea'], ['for', 'for'], ['a', 'a'], ['powerful', 'powerful'], ['electric', 'electric'], ['reflector', 'reflector'], ['half', 'half'], ['a', 'a'], ['mile', 'mile'], ["''", "''"], ['rays', 'rays'], ["''", "''"], ['placed', 'set']]
+
+189
+15-13 12-10 13-11 14-12 0-0 1-1 2-3 3-4 7-6 8-7 6-5 10-8 4-2 
+[["''", "''"], ['coral', 'coral'], ['cemetery', 'cemetery'], ['?', '?'], ["''", "''"], ['and', 'and'], ['he', 'he'], ['rests', 'rests'], ['his', 'his'], ['companions', 'companions'], ['near', 'beside'], ['in', 'in'], ['now', 'now']]
+
+190
+9-10 5-6 6-7 7-8 8-9 0-0 1-1 4-5 
+[['.', '.'], [',', ','], ['my', 'my'], ['friend', 'friend'], ["''", "''"], ["''", "''"], ['I', 'I'], ['tell', 'say']]
+
+191
+9-9 5-5 6-6 7-7 8-8 3-3 2-2 0-0 
+[['.', '.'], ['?', '?'], ["''", "''"], ['I', 'I'], ['asked', 'asked'], ['struck', 'strike'], ['we', 'we'], ["''", "''"]]
+
+192
+13-29 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 12-28 11-11 10-10 9-9 
+[['.', '.'], ["''", "''"], ['no', 'no'], ["''", "''"], [',', ','], ['I', 'I'], ['said', 'said'], [',', ','], ["''", "''"], ["''", "''"], ['dimensions', 'dimensions'], ['huge', 'large'], ['of', 'of']]
+
+193
+11-17 2-2 3-3 5-8 6-9 9-11 10-12 4-1 0-0 
+[['.', '.'], ['your', 'your'], ['eyes', 'eyes'], ['!', '!'], ["''", "''"], ['the', 'the'], ['sailors', 'sailors'], ['open', 'open'], ["''", "''"]]
+
+194
+28-30 7-10 8-11 9-12 10-13 11-14 0-5 1-6 2-7 15-16 16-17 17-18 4-3 18-21 3-9 6-2 5-0 21-23 20-22 
+[['.', '.'], [',', ','], ['and', 'and'], ['I', 'I'], ['felt', 'felt'], ['myself', 'myself'], ['Ned', 'Ned'], ['Land', 'Land'], ["'s", "'s"], ['ground', 'ground'], ['.', '.'], ['I', 'I'], ['pressed', 'pressed'], ['knew', 'knew'], ['logic', 'sense'], ['hard', 'hard'], ['me', 'I'], ['argument', 'arguments'], ['what', 'what']]
+
+195
+14-14 0-0 1-1 2-2 3-3 4-4 5-5 10-10 11-11 13-12 12-13 
+[['.', '.'], ["''", "''"], ['perhaps', 'perhaps'], ['this', 'this'], ['is', 'is'], ['the', 'the'], ['same', 'same'], ["''", "''"], [',', ','], ['Conseil', 'Conseil'], ['said', 'said']]
+
+196
+30-29 24-23 25-24 26-25 27-26 28-27 29-28 5-5 6-6 7-7 8-8 0-0 1-1 2-2 18-17 19-18 20-19 12-12 13-13 21-20 15-15 14-14 3-3 22-21 
+[['.', '.'], ['of', 'of'], ['a', 'a'], ['large', 'large'], ['number', 'number'], ['of', 'of'], ['birds', 'birds'], ['prairie', 'prairie'], [',', ','], ['we', 'we'], ['arrived', 'arrived'], ['after', 'after'], ['crossing', 'crossing'], ['a', 'a'], ['enlivened', 'enlivened'], ['by', 'by'], ['the', 'the'], ['of', 'of'], ['a', 'a'], ['songs', 'singing'], ['wood', 'wood'], ['little', 'small'], ['rather', 'pretty'], ['and', 'and']]
+
+197
+16-16 9-9 10-10 11-11 12-12 13-13 14-14 15-15 3-2 6-1 0-8 
+[['.', '.'], [',', ','], ['Conseil', 'Conseil'], ['joined', 'joined'], ['me', 'me'], ['on', 'on'], ['the', 'the'], ['platform', 'platform'], ['1', '1'], ['January', 'January'], ['early', 'early']]
+
+198
+5-6 2-3 3-4 4-5 0-0 
+[["''", "''"], ['the', 'the'], ['Papuans', 'Papuans'], ['?', '?'], ["''", "''"]]
+
+199
+22-24 14-16 15-17 16-18 17-19 18-20 19-21 20-22 21-23 0-0 1-1 5-4 6-5 11-13 12-14 10-12 9-11 4-6 2-3 8-9 
+[["''", "''"], ['do', 'do'], ['you', 'you'], ['know', 'know'], ['the', 'the'], ['history', 'history'], ['of', 'of'], ['Spain', 'Spain'], ['?', '?'], ["''", "''"], ['well', 'well'], ['Captain', 'Captain'], ['Nemo', 'Nemo'], ['my', 'my'], ['question', 'question'], ['heard', 'hear'], ['you', 'you'], ['continued', 'went'], ["''", "''"], ["''", "''"]]
+
+200
+8-8 0-0 1-1 2-2 3-3 4-4 5-5 6-7 7-6 
+[['.', '.'], ["''", "''"], ['to', 'to'], ['the', 'the'], ['Nautilus', 'Nautilus'], ["''", "''"], [',', ','], ['said', 'said'], ['he', 'he']]
+
+201
+42-36 6-7 7-8 8-9 9-10 10-11 11-12 0-0 1-1 2-2 29-28 30-29 31-30 39-16 40-17 21-23 22-24 14-35 4-4 3-3 5-5 16-19 41-37 13-15 38-34 18-21 34-31 17-20 
+[['.', '.'], ['whales', 'whales'], [',', ','], ['sir', 'sir'], [',', ','], ['whales', 'whales'], ['measuring', 'measuring'], ["''", "''"], ['because', 'because'], ['I', 'I'], ['the', 'the'], ['Aleutian', 'Aleutian'], ['Islands', 'Islands'], ['feet', 'feet'], ['long', 'long'], ['that', 'that'], ['those', 'those'], ['feet', 'feet'], ['seen', 'seen'], ['have', "'ve"], ['large', 'big'], ['I', 'I'], ["''", "''"], ['hundred', '100'], ['fifty', '150'], ['even', 'even'], ['sometimes', 'sometimes'], ['have', "'ve"]]
+
+202
+7-6 0-0 1-1 2-2 6-5 3-3 
+[["''", "''"], ["''", "''"], ['we', 'we'], ['are', 'are'], ['?', '?'], ['blocked', 'boxed']]
+
+203
+8-4 9-5 10-6 12-8 13-9 14-10 0-0 1-1 4-12 5-13 15-14 3-11 6-2 18-18 19-20 7-3 16-16 17-17 
+[['no', 'no'], ['idea', 'idea'], ['what', 'what'], ['it', 'it'], ['is', 'is'], [',', ','], ["''", "''"], ['only', 'only'], ['Aronnax', 'Aronnax'], [',', ','], ['unless', 'unless'], ['Mr.', 'Professor'], ['I', 'I'], ['dinner-time', 'dinnertime'], ["''", "''"], ['have', "'ve"], ['it', 'it'], ['is', "'s"]]
+
+204
+41-40 35-34 36-35 37-36 38-37 39-38 40-39 7-5 8-6 9-7 22-23 23-24 24-25 28-26 29-27 30-28 5-8 6-9 11-10 12-11 33-33 32-32 3-4 2-3 26-30 25-29 15-13 14-15 20-20 0-0 21-21 34-31 
+[['.', '.'], [',', ','], ['my', 'my'], ['companions', 'companions'], ['and', 'and'], ['I', 'I'], ["''", "''"], ['to', 'to'], ['come', 'come'], [',', ','], ['rare', 'rare'], ['circumstances', 'circumstances'], ['--', '--'], ['in', 'in'], ['short', 'short'], [',', ','], ['go', 'go'], [',', ','], ['see', 'see'], [',', ','], ['enjoy', 'enjoy'], ['we', 'ourselves'], ['liberty', 'freedom'], ['the', 'the'], ['liberty', 'freedom'], ['the', 'the'], ['even', 'even'], ['observe', 'observe'], ['save', 'except'], ["''", "''"], ['under', 'under'], ['ourselves', 'we']]
+
+205
+44-41 39-19 40-20 41-21 42-22 43-23 35-27 36-28 37-29 18-36 19-37 20-38 14-7 15-8 16-13 17-14 26-31 27-32 28-34 38-18 21-39 0-0 45-40 7-6 23-16 24-17 
+[['!', '.'], ['the', 'the'], ['Cape', 'Cape'], ['of', 'of'], ['Good', 'Good'], ['Hope', 'Hope'], ['Africa', 'Africa'], [',', ','], ['and', 'and'], ['the', 'the'], ['day', 'day'], ['after', 'after'], ['the', 'the'], ['Nautilus', 'Nautilus'], [',', ','], ['if', 'if'], ['in', 'in'], ['the', 'the'], ['Mediterranean', 'Mediterranean'], ['doubled', 'double'], ['to-morrow', 'tomorrow'], ["''", "''"], ["''", "''"], ['speed', 'fast'], ['is', "'s"], ['to', 'to']]
+
+206
+9-7 0-0 1-1 2-2 3-3 4-4 8-6 
+[['.', '.'], ["''", "''"], ['I', 'I'], ['do', 'do'], ['not', 'not'], ['say', 'say'], ["''", "''"]]
+
+207
+14-21 5-8 6-9 7-10 2-5 13-17 3-6 
+[['.', '.'], ['two', 'two'], ['men', 'men'], ['became', 'became'], ['expected', 'expectation'], ['jail', 'imprisoned'], ['that', 'that']]
+
+208
+6-6 7-7 4-5 3-1 1-3 2-4 0-9 
+[['in', 'in'], ['Beijing', 'Beijing'], ['starts', 'started'], ['project', 'project'], ['insurance', 'insurance'], ['control', 'supervision'], ['Chinese', 'China']]
+
+209
+36-36 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 30-30 31-31 32-32 33-33 34-34 35-35 
+[['.', '.'], ['therefore', 'therefore'], [',', ','], ['the', 'the'], ['Hopewell', 'Hopewell'], ['Group', 'Group'], ['claimed', 'claimed'], ['that', 'that'], ['Thailand', 'Thailand'], ["'s", "'s"], ['government', 'government'], ['should', 'should'], ['refund', 'refund'], ['the', 'the'], ['company', 'company'], ['100', '100'], ['billion', 'billion'], ['Thai', 'Thai'], ['baht', 'baht'], ['-LRB-', '-LRB-'], ['about', 'about'], ['S$', 'S$'], ['4.2', '4.2'], ['billion', 'billion'], ['-RRB-', '-RRB-'], [',', ','], ['to', 'to'], ['compensate', 'compensate'], ['them', 'them'], ['for', 'for'], ['funds', 'funds'], ['invested', 'invested'], ['and', 'and'], ['the', 'the'], ['partial', 'partial'], ['project', 'project'], ['completion', 'completion']]
+
+210
+41-39 19-17 20-18 21-19 27-26 28-27 29-28 39-37 40-38 6-8 7-9 3-6 18-16 15-13 22-21 34-32 36-35 32-31 24-24 30-34 14-12 11-15 12-11 25-1 35-33 23-0 23-22 26-2 4-7 
+[['.', '.'], ['in', 'in'], ['Indonesia', 'Indonesia'], [',', ','], ['Peru', 'Peru'], [',', ','], ['and', 'and'], ['the', 'the'], ['world', 'world'], ['El', 'El'], ['Nino', 'Nino'], ['known', 'know'], ['fires', 'fire'], ['the', 'the'], ['flooding', 'flood'], ['changes', 'climate'], ['regions', 'parts'], ['unusual', 'abnormal'], ['desert', 'desert'], ['many', 'many'], ['including', 'include'], ['serious', 'big'], ['results', 'consequences'], ['areas', 'respect'], ['in', 'in'], ['in', 'in'], ['in', 'in'], ['of', 'of'], ['that', 'that']]
+
+211
+31-31 7-10 8-11 9-12 10-13 11-14 16-20 17-21 18-22 0-3 1-4 22-25 23-26 26-29 27-30 29-0 30-1 13-16 25-27 5-8 21-24 24-28 
+[['.', '.'], ['invest', 'invest'], ['in', 'in'], ['Malaysia', 'Malaysia'], [',', ','], ['we', 'we'], ['if', 'if'], ['they', 'they'], ['pay', 'pay'], ["''", "''"], ['if', 'if'], [',', ','], ['we', 'we'], ['protest', 'protest'], ["''", "''"], ['he', 'he'], ['said', 'said'], ['welcome', 'welcome'], ['certainly', 'certainly'], ['come', 'comes'], ['demonstrators', 'demonstrator'], ['will', 'will']]
+
+212
+17-19 0-0 1-1 7-18 3-14 2-13 14-5 11-3 12-4 5-16 13-7 10-8 
+[['.', '.'], ['Yunnan', 'Yunnan'], ['Gardens', 'Gardens'], ['Hall', 'Hall'], ['developed', 'developed'], ['is', 'was'], ['units', 'units'], ['has', 'having'], ['313', '313'], ['Fujian', 'Fujian'], ['residential', 'residential'], ['project', 'project']]
+
+213
+17-17 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 
+[['.', '.'], ['this', 'this'], ['is', 'is'], ['the', 'the'], ['first', 'first'], ['representative', 'representative'], ['office', 'office'], ['of', 'of'], ['Netherland', 'Netherland'], ['Council', 'Council'], ['for', 'for'], ['Promotion', 'Promotion'], ['of', 'of'], ['Trade', 'Trade'], ['set', 'set'], ['up', 'up'], ['in', 'in'], ['China', 'China']]
+
+214
+44-48 0-0 1-1 2-2 4-4 5-5 10-9 11-10 26-30 27-31 41-46 42-47 21-21 21-22 21-23 43-45 18-28 17-27 6-7 39-43 13-14 22-25 24-19 31-34 33-35 35-39 28-32 
+[['.', '.'], ['Xinhua', 'Xinhua'], ['news', 'news'], ['agency', 'agency'], ['Wenzhou', 'Wenzhou'], [',', ','], ['Hu', 'Hu'], ['Hongwei', 'Hongwei'], ['the', 'the'], ['city', 'city'], ['No.', 'No.'], ['17', '17'], ['flood-and-drought-control', 'flood'], ['flood-and-drought-control', 'and'], ['flood-and-drought-control', 'drought'], ['typhoon', 'typhoon'], ['news', 'report'], ['the', 'the'], ['1', '1'], ['damaged', 'damaged'], ['Xie', 'Xie'], ['headquarters', 'headquarters'], ['Wenzhou', 'Wenzhou'], ['best', 'great'], ['step', 'effort'], ['repairing', 'repairs'], ['were', 'is']]
+
+215
+19-21 0-1 1-2 2-3 3-4 4-5 14-14 15-15 18-19 18-20 10-10 9-9 13-12 12-13 17-17 16-18 7-6 11-11 
+[['.', '.'], ['El', 'El'], ['Nino', 'Nino'], ['and', 'and'], ['La', 'La'], ['Nina', 'Nina'], ['temperature', 'temperature'], ['in', 'in'], ['Pacific', 'Pacific'], ['Pacific', 'Ocean'], ['changes', 'change'], ['significant', 'substantial'], ['surface', 'surface'], ['sea', 'water'], ['tropical', 'tropical'], ['East', 'eastern'], ['results', 'resulted'], ['in', 'in']]
+
+216
+15-18 0-0 1-1 5-7 6-8 13-13 12-11 14-12 7-17 9-9 4-4 4-6 
+[['.', '.'], ['he', 'he'], ['said', 'said'], ['woman', 'woman'], ['was', 'was'], ['hospital', 'hospital'], ['a', 'a'], ['nearby', 'nearby'], ['frightened', 'frightening'], ['received', 'sent'], ['83-year-old', '83'], ['83-year-old', 'old']]
+
+217
+15-21 0-12 1-13 2-14 3-15 8-4 9-5 13-6 14-7 4-16 10-0 7-20 5-17 
+[['.', '.'], ['172', '172'], ['individuals', 'individuals'], ['and', 'and'], ['14', '14'], ['the', 'the'], ['prize', 'prize'], ['in', 'in'], ['1958', '1958'], ['institutes', 'institutions'], ['since', 'since'], ['awarded', 'prize'], ['have', 'have']]
+
+218
+24-21 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 16-15 6-2 20-19 21-20 19-18 18-17 1-1 0-0 
+[['.', '.'], ['the', 'the'], ['House', 'House'], ['of', 'of'], ['Representatives', 'Representatives'], ['hoped', 'hoped'], ['to', 'to'], ['summon', 'summon'], ['15', '15'], ['people', 'people'], ['including', 'including'], ['of', 'of'], ['in', 'in'], ['court', 'court'], ['appear', 'testify'], ['to', 'to'], ['prosecutor', 'plaintiff'], ['the', 'the']]
+
+219
+31-33 5-6 6-7 7-8 8-9 9-10 10-11 11-12 12-13 26-26 27-27 28-28 29-29 0-0 1-1 2-2 13-16 14-17 16-18 17-19 3-3 15-20 30-31 4-4 
+[['.', '.'], ['notice', 'notice'], [',', ','], ['I', 'I'], ['really', 'really'], ['wanted', 'wanted'], ['to', 'to'], ['jump', 'jump'], ['up', 'up'], ['express', 'express'], ['his', 'his'], ['excitement', 'excitement'], ['by', 'by'], ["''", "''"], ['when', 'when'], ['I', 'I'], ["''", "''"], [',', ','], ['Ding', 'Ding'], ['Hao', 'Hao'], ['got', 'received'], ['said', 'said'], ['jumping', 'jumping'], ['the', 'the']]
+
+220
+28-33 10-15 11-16 12-17 0-0 1-1 15-2 16-3 21-30 22-31 9-8 26-5 24-4 25-23 19-20 20-21 2-22 4-14 
+[['.', '.'], ['.', '.'], ['last', 'last'], ['month', 'month'], ['the', 'the'], ['three', 'three'], ['dead', 'dead'], ['bodies', 'bodies'], ['killed', 'killed'], ['in', 'in'], ['Iran', 'Iran'], ['shipped', 'sent'], ['were', 'were'], ['also', 'also'], ['six', 'six'], ['Iranians', 'Iranian'], ['corpses', 'bodies'], ['air', 'airplane']]
+
+221
+11-15 3-6 4-7 5-8 6-9 7-10 8-12 9-13 10-14 2-1 0-0 
+[['.', '.'], ['will', 'will'], ['be', 'be'], ['produced', 'produced'], ['and', 'and'], ['installed', 'installed'], ['within', 'within'], ['this', 'this'], ['year', 'year'], ['equipments', 'equipment'], ['all', 'all']]
+
+222
+39-34 17-24 18-25 19-26 20-27 21-28 22-29 23-18 24-19 36-31 37-32 7-0 5-13 3-12 10-21 38-33 0-4 1-5 33-8 35-9 13-20 2-6 2-10 
+[['.', '.'], [',', ','], ['Yu', 'Yu'], ['Yongbo', 'Yongbo'], [',', ','], ['Fu', 'Fu'], ['Quanyou', 'Quanyou'], ['and', 'and'], ['other', 'other'], ['attended', 'attended'], ['the', 'the'], ['Liu', 'Liu'], ['Commission', 'Committee'], ['Central', 'Central'], ['members', 'members'], ['meeting', 'event'], ['vice', 'vice'], ['president', 'chairman'], ['Military', 'Military'], ['office', 'Bureau'], ['commission', 'committee'], ['of', 'of'], ['of', 'of']]
+
+223
+25-31 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 21-25 22-26 23-27 13-13 11-11 12-12 20-18 19-17 
+[[':', ':'], ['at', 'at'], ['the', 'the'], ['press', 'press'], ['conference', 'conference'], [',', ','], ['a', 'a'], ['reporter', 'reporter'], ['asked', 'asked'], ['Tang', 'Tang'], ['Jiaxuan', 'Jiaxuan'], ['.', '.'], ['Tang', 'Tang'], ['Jiaxuan', 'Jiaxuan'], ['barriers', 'impediment'], ['the', 'the'], ['biggest', 'greatest'], ['partners', 'partnership'], ['strategic', 'strategic']]
+
+224
+36-34 27-25 28-26 29-27 30-28 31-29 32-30 33-31 34-32 35-33 2-2 3-3 4-4 5-5 6-6 14-13 15-14 16-15 17-16 21-20 22-21 13-12 1-1 0-0 25-23 
+[['.', '.'], ['through', 'through'], ['two', 'two'], ['walls', 'walls'], ['of', 'of'], ['an', 'an'], ['old', 'old'], ['woman', 'woman'], ["'s", "'s"], ['house', 'house'], ['said', 'said'], ['that', 'that'], ['the', 'the'], ['latest', 'latest'], ['accident', 'accident'], ['wrong', 'wrong'], ['at', 'at'], ['dawn', 'dawn'], ['yesterday', 'yesterday'], ['of', 'of'], ['a', 'a'], ['gone', 'went'], ['officers', 'officials'], ['Korean', 'Korean'], ['shell', 'shell']]
+
+225
+26-27 1-4 2-5 3-6 10-12 11-13 12-14 22-23 23-24 24-25 6-8 7-9 13-10 25-26 8-11 14-15 15-17 
+[['.', '.'], [',', ','], ['in', 'in'], ['Chinatown', 'Chinatown'], ['of', 'of'], ['Indonesia', 'Indonesia'], [',', ','], ['to', 'to'], ['protect', 'protect'], ['their', 'their'], ['Jakarta', 'Jakarta'], [',', ','], ['the', 'the'], ['houses', 'homes'], ['capital', 'capital'], ['Chinese', 'Chinese'], ['and', 'and']]
+
+226
+38-30 8-6 9-7 10-8 11-9 25-23 26-24 27-25 0-0 1-1 37-29 29-26 30-26 6-5 7-4 3-2 31-27 32-28 12-15 22-19 13-16 21-21 15-10 
+[['.', '.'], ['last', 'last'], ['week', 'week'], ['that', 'that'], ['the', 'the'], ['troops', 'troops'], ['and', 'and'], ['all', 'all'], ['French', 'French'], ['Foreign', 'Foreign'], ["''", "''"], ['United', 'UN'], ['Nations', 'UN'], ['indicated', 'indicated'], ['clearly', 'explicitly'], ['Minister', 'Minister'], ['peace-keeping', 'peace-keeping'], ['troops', 'army'], ["''", "''"], ['withdraws', 'withdrawal'], ['prerequisite', 'conditioned'], ['France', 'French'], ['lifting', 'lifting']]
+
+227
+17-19 4-7 5-8 6-9 9-16 10-17 11-18 8-15 7-10 16-13 14-12 3-2 1-1 
+[['.', '.'], [',', ','], ['the', 'the'], ['local', 'local'], ['groups', 'groups'], ['of', 'of'], ['strangers', 'strangers'], ['dispelled', 'disperse'], ['dwellers', 'residents'], ['sticks', 'sticks'], ['big', 'big'], ['area', 'places'], ['some', 'some']]
+
+228
+19-31 0-2 1-3 2-4 3-5 14-17 15-18 16-19 4-7 5-8 6-9 7-12 13-16 10-14 17-20 12-15 8-13 
+[['.', '.'], ['President', 'president'], ['Ramos', 'Ramos'], ['attended', 'attended'], ['the', 'the'], ['to', 'to'], ['the', 'the'], ['six', 'six'], ['ceremony', 'ceremony'], ['and', 'and'], ['awarded', 'gave'], ['medals', 'medal'], ['certificates', 'certificate'], ['awards', 'bonus'], ['outstanding', 'distinguished'], ['and', 'and'], [',', ',']]
+
+229
+35-44 13-13 14-14 15-15 16-16 17-17 18-18 19-19 26-31 27-32 28-33 29-34 30-35 31-40 32-41 33-42 34-43 6-5 7-6 8-7 22-26 23-27 24-28 11-10 12-11 5-1 1-3 2-3 3-3 20-21 4-4 10-8 
+[['.', '.'], ['reported', 'reported'], ['yesterday', 'yesterday'], ['that', 'that'], ['China', 'China'], ['plans', 'plans'], ['to', 'to'], ['reclaim', 'reclaim'], ['20', '20'], ['to', 'to'], ['30', '30'], ['million', 'million'], ['people', 'people'], ['in', 'in'], ['the', 'the'], ['next', 'next'], ['century', 'century'], ['-rrb-', '-rrb-'], ['the', 'the'], ['English', 'English'], ['the', 'the'], ['coastal', 'coastal'], ['region', 'region'], ['China', 'China'], ['Daily', 'Daily'], ['Beijing', 'Beijing'], ['Agence', 'AFP'], ['France', 'AFP'], ['Presse', 'AFP'], ['land', 'land'], ['wire', 'wire'], ['newspaper', 'newspaper']]
+
+230
+4-6 5-7 6-8 7-9 0-0 1-2 3-5 9-11 11-12 2-3 
+[['to', 'to'], ['East', 'East'], ['Timor', 'Timor'], ['to', 'to'], ['Australia', 'Australia'], ['sent', 'send'], ['official', 'officer'], ['Indonesia', 'Indonesian'], ['force', 'troops'], ['an', 'a']]
+
+231
+35-35 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 30-30 31-31 32-32 33-33 34-34 
+[['.', '.'], ['due', 'due'], ['to', 'to'], ['the', 'the'], ['drop', 'drop'], ['of', 'of'], ['the', 'the'], ['present', 'present'], ['market', 'market'], ['interest', 'interest'], ['rate', 'rate'], [',', ','], ['Lien', 'Lien'], ['Hoe', 'Hoe'], ['planned', 'planned'], ['to', 'to'], ['redeem', 'redeem'], ['the', 'the'], ['rest', 'rest'], ['bonds', 'bonds'], ['by', 'by'], ['bank', 'bank'], ['loans', 'loans'], [',', ','], ['without', 'without'], ['paying', 'paying'], ['the', 'the'], ['bondholders', 'bondholders'], ['at', 'at'], ['a', 'a'], ['higher', 'higher'], ['annual', 'annual'], ['rate', 'rate'], ['of', 'of'], ['15', '15'], ['%', '%']]
+
+232
+42-39 6-6 7-7 8-8 9-9 21-20 22-21 23-22 11-11 12-12 26-24 27-25 39-30 40-31 1-3 20-16 18-15 25-23 30-28 41-33 2-0 28-26 31-29 29-27 
+[['.', '.'], ['Australian', 'Australian'], ['newspaper', 'newspaper'], ['yesterday', 'yesterday'], [',', ','], ["''", "''"], [',', ','], ['and', 'and'], ['said', 'said'], ['that', 'that'], ['that', 'that'], ['it', 'it'], ['all', 'all'], ['the', 'the'], ['talking', 'interviewed'], ['well', 'well'], ["''", "''"], ['believes', 'believed'], ['likely', 'probably'], ['charges', 'accused'], ['during', 'when'], ['is', 'was'], ['that', 'that'], ['very', 'most']]
+
+233
+13-14 6-2 7-3 8-4 9-5 10-6 11-7 3-12 3-13 1-1 12-9 
+[['.', '.'], ['is', 'is'], ['one', 'one'], ['of', 'of'], ['the', 'the'], ['hottest', 'hottest'], ['in', 'in'], ['US', 'United'], ['US', 'States'], ['summer', 'summer'], ['history', 'history']]
+
+234
+40-47 0-12 1-13 2-14 16-7 17-8 25-20 26-21 28-23 29-24 32-31 33-32 34-41 35-42 36-45 37-46 39-22 38-19 9-3 18-10 3-16 6-2 10-43 13-0 
+[['.', '.'], ['by', 'by'], ['the', 'the'], ['year', 'year'], ['to', 'to'], ['reach', 'reach'], ['no', 'no'], ['doubt', 'doubt'], ['the', 'the'], ['demands', 'demands'], ['Hong', 'Hong'], ['Kong', 'Kong'], ['as', 'as'], ['a', 'a'], ['shipping', 'shipping'], ['center', 'center'], ['increase', 'increase'], ['will', 'will'], ['foreign', 'foreign'], ['800', '800'], ['2010', '2010'], ['total', 'total'], ['trade', 'trading'], ['mainland', 'China']]
+
+235
+8-13 3-4 5-8 7-10 
+[['development', 'development'], ['Fujian', 'Fujian'], ['continue', 'continue'], ['lead', 'lead']]
+
+236
+16-16 3-4 4-5 5-6 6-7 7-8 8-9 9-10 10-11 0-2 1-3 2-0 15-15 
+[['.', '.'], ['warned', 'warned'], ['in', 'in'], ['his', 'his'], ['speech', 'speech'], ['that', 'that'], ['Thailand', 'Thailand'], ['has', 'has'], ['not', 'not'], ['Chuan', 'Chuan'], ['Leekpai', 'Leekpai'], ['also', 'moreover'], ['crisis', 'crises']]
+
+237
+14-14 6-8 7-9 8-10 3-4 4-5 0-0 9-13 12-11 13-12 
+[['.', '.'], ['talking', 'talking'], ['to', 'to'], ['a', 'a'], ['in', 'in'], ['Paris', 'Paris'], ['Leotard', 'Leotard'], ['correspondent', 'journalist'], ['radio', 'broadcast'], ['station', 'station']]
+
+238
+35-35 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 30-30 31-31 32-32 33-33 34-34 
+[['.', '.'], ['Xinhua', 'Xinhua'], ['news', 'news'], ['agency', 'agency'], [',', ','], ['Shantou', 'Shantou'], [',', ','], ['Dec.', 'Dec.'], ['20', '20'], ['.', '.'], ['owing', 'owing'], ['to', 'to'], ['the', 'the'], ['betterment', 'betterment'], ['of', 'of'], ['investment', 'investment'], ['environment', 'environment'], ['and', 'and'], ['the', 'the'], ['good', 'good'], ['development', 'development'], ['drive', 'drive'], [',', ','], ['Shantou', 'Shantou'], ['high-tech', 'high-tech'], ['development', 'development'], ['zone', 'zone'], ['has', 'has'], ['drawn', 'drawn'], ['attention', 'attention'], ['from', 'from'], ['investors', 'investors'], ['at', 'at'], ['home', 'home'], ['and', 'and'], ['abroad', 'abroad']]
+
+239
+20-23 5-7 6-8 7-9 8-10 9-11 10-12 11-13 12-14 4-6 2-3 19-20 15-17 17-19 18-22 0-1 
+[['.', '.'], ['that', 'that'], ['Taiwan', 'Taiwan'], ['is', 'is'], ['a', 'a'], ['province', 'province'], ['of', 'of'], ['China', 'China'], ['and', 'and'], ['indicated', 'signifying'], ['have', 'has'], ['issue', 'issue'], ['is', 'is'], ['domestic', 'internal'], ['Chinese', 'China'], ['Chinese', 'Chinese']]
+
+240
+47-33 0-0 1-1 2-2 3-3 4-4 24-14 25-15 38-27 39-28 32-31 33-32 5-5 26-16 44-24 45-25 19-10 22-13 21-12 17-8 34-29 41-21 30-30 36-19 46-17 42-22 
+[['.', '.'], ['the', 'the'], ['Government', 'government'], ['of', 'of'], ['Qinghai', 'Qinghai'], ['Province', 'Province'], [',', ','], ['and', 'and'], ['Xining', 'Xining'], ['City', 'City'], ['this', 'this'], ['year', 'year'], ['made', 'put'], ['ratified', 'approved'], ['Foreign', 'Foreign'], ['Investments', 'Investment'], ['commercialize', 'commercialization'], ['infrastructure', 'infrastructure'], ['urban', 'city'], ['idea', 'idea'], ["''", "''"], ['Encourage', 'Encouraging'], ['beginning', 'early'], ['Provisions', 'Regulations'], ["''", "''"], ['and', 'and']]
+
+241
+29-42 2-3 3-4 4-5 5-7 6-8 9-17 10-18 18-23 19-24 8-14 12-15 11-35 16-38 14-16 25-36 0-1 
+[['.', '.'], ['of', 'of'], ['the', 'the'], ['Henan', 'Henan'], ['Government', 'government'], ['released', 'released'], ['cooperation', 'cooperation'], ['projects', 'projects'], ['the', 'the'], ['meeting', 'meeting'], ['foreign', 'foreign'], ['economy', 'economic'], ['concerning', 'related'], ['representatives', 'representatives'], ['technology', 'technological'], ['projects', 'projects'], ['relevant', 'competent']]
+
+242
+31-33 15-16 16-17 17-18 18-19 19-20 29-31 30-32 0-1 1-2 6-4 7-5 9-8 10-9 12-14 13-15 20-22 21-23 8-6 8-7 27-29 24-28 14-13 22-24 
+[['.', '.'], [',', ','], ['and', 'and'], ['that', 'that'], ['France', 'France'], ['and', 'and'], ['that', 'that'], ['war', 'war'], ['Foreign', 'foreign'], ['Minister', 'minister'], ['that', 'that'], ['the', 'the'], ['was', 'was'], ['born', 'born'], ['World', 'World'], ['War', 'War'], ['other', 'other'], ['permanent', 'permanent'], ['UN', 'United'], ['UN', 'Nations'], ['victors', 'victors'], ['were', 'were'], ['II', 'Second'], ['member', 'members']]
+
+243
+19-24 2-4 3-5 4-6 5-7 6-8 7-9 14-10 15-11 16-12 17-13 18-14 0-0 1-1 9-18 11-19 10-20 12-3 
+[['.', '.'], ['the', 'the'], ['Australian', 'Australian'], ['military', 'military'], ['attache', 'attache'], ['to', 'to'], ['Jakarta', 'Jakarta'], ['arrives', 'arrives'], ['in', 'in'], ['East', 'East'], ['Timor', 'Timor'], ['tomorrow', 'tomorrow'], ['Moore', 'Moore'], ['said', 'said'], ['conduct', 'conduct'], ['investigations', 'investigations'], ['free', 'freely'], ['after', 'after']]
+
+244
+35-31 7-6 8-7 9-8 10-9 11-10 12-11 13-12 14-13 15-14 0-3 1-4 2-5 27-22 28-23 29-30 26-25 4-0 5-1 8-28 
+[['.', '.'], ['that', 'that'], ['China', 'China'], ['would', 'would'], ['consider', 'consider'], ['joining', 'joining'], ['the', 'the'], ['Missile', 'missile'], ['Technology', 'technology'], ['Control', 'control'], ['at', 'at'], ['that', 'that'], ['time', 'time'], ['of', 'of'], ['the', 'the'], ['meeting', 'meeting'], ['result', 'achievements'], ['Jiang', 'Jiang'], ['Zeming', 'Zemin'], ['China', 'China-US']]
+
+245
+15-16 0-0 1-1 2-2 14-15 10-10 11-10 3-3 7-6 4-4 12-11 
+[['.', '.'], ['more', 'more'], ['than', 'than'], ['90', '90'], ['territory', 'territory'], ['one', 'one-third'], ['third', 'one-third'], ['%', 'percent'], ['people', 'population'], ['of', 'of'], ['of', 'of']]
+
+246
+16-19 6-1 7-2 8-3 14-17 15-18 4-9 5-10 
+[['.', '.'], ['La', 'La'], ['Nina', 'Nina'], ['will', 'will'], ['El', 'El'], ['Nino', 'Nino'], ['next', 'next'], ['year', 'year']]
+
+247
+0-0 1-1 2-2 5-6 
+[['Russian', 'Russian'], ['prime', 'prime'], ['minister', 'minister'], ['economy', 'economic']]
+
+248
+15-15 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 
+[['.', '.'], ['nowadays', 'nowadays'], [',', ','], ['there', 'there'], ['appeared', 'appeared'], ['a', 'a'], ['lot', 'lot'], ['of', 'of'], ['enterprise', 'enterprise'], ['groups', 'groups'], ['with', 'with'], ['high', 'high'], ['technology', 'technology'], ['and', 'and'], ['strong', 'strong'], ['stamina', 'stamina']]
+
+249
+19-20 11-13 12-14 13-15 17-18 18-19 1-16 2-11 5-8 8-6 7-10 14-1 6-9 4-5 
+[['.', '.'], ['1/3', '1/3'], ['of', 'of'], ['the', 'the'], ['Fujian', 'Fujian'], ['Province', 'Province'], ['GNP', 'GNP'], ['created', 'made'], ['village', 'villages'], ['enterprises', 'industry'], ['township', 'towns'], ['total', 'gross'], ['and', 'and'], ['the', 'the']]
+
+250
+17-17 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 
+[['.', '.'], ['both', 'both'], ['parties', 'parties'], ['expressed', 'expressed'], ['satisfaction', 'satisfaction'], ['for', 'for'], ['the', 'the'], ['friendly', 'friendly'], ['cooperation', 'cooperation'], ['between', 'between'], ['the', 'the'], ['two', 'two'], ['armies', 'armies'], ['in', 'in'], ['the', 'the'], ['past', 'past'], ['30', '30'], ['years', 'years']]
+
+251
+41-33 26-20 27-21 28-22 29-23 10-5 11-6 12-7 17-8 18-9 20-11 21-12 33-24 34-25 7-15 8-14 24-18 22-17 0-2 35-29 36-30 
+[['.', '.'], ['to', 'to'], ['Shanghai', 'Shanghai'], [',', ','], ['and', 'and'], ['Vice', 'Vice'], ['Minister', 'Minister'], ['of', 'of'], ['Foreign', 'Foreign'], ['Trade', 'Trade'], ['Economic', 'Economic'], ['Cooperation', 'Cooperation'], ['former', 'former'], ['chief', 'chief'], ['Long', 'Long'], ['Yongtu', 'Yongtu'], ['accompany', 'accompanied'], ['who', 'who'], ['also', 'also'], ['negotiator', 'negotiations'], ['of', 'of']]
+
+252
+21-29 0-0 1-1 2-2 3-3 4-4 5-5 14-20 15-21 19-28 12-18 6-7 17-26 20-15 
+[['.', '.'], ['Xinhua', 'Xinhua'], ['news', 'news'], ['agency', 'agency'], [',', ','], ['Nanjing', 'Nanjing'], [',', ','], ['foreign', 'foreign'], ['capital', 'capital'], ['Jiangsu', 'Jiangsu'], ['investment', 'investments'], ['16', '16'], ['agriculture', 'agriculture'], ['increased', 'increasing']]
+
+253
+23-19 5-4 6-5 18-15 19-16 14-14 15-14 3-2 1-3 0-2 2-2 4-2 10-9 7-8 12-11 9-7 11-10 13-12 
+[['.', '.'], ['said', 'said'], ['that', 'that'], ['caused', 'caused'], ['this', 'this'], ['United', 'UN'], ['Nations', 'UN'], ['Foreign', 'Foreign'], ['Ministry', 'Ministry'], ['France', 'Foreign'], ['of', 'Foreign'], ['Affairs', 'Foreign'], ['refused', 'refuses'], ['leaders', 'leader'], ['co-operate', 'cooperate'], ['Iraq', 'Iraqi'], ['to', 'to'], ['with', 'with']]
+
+254
+20-23 4-5 5-6 13-8 2-2 1-1 15-20 18-16 0-0 3-3 
+[['.', '.'], ['Lan', 'Lan'], ['Wei', 'Wei'], ['Guangdong', 'Guangdong'], ['preliminaries', 'qualifiers'], ['the', 'the'], ['scored', 'score'], ['first', '1'], ['during', 'in'], [',', ',']]
+
+255
+0-4 1-5 3-7 4-8 11-17 12-18 5-0 13-19 7-14 16-23 
+[['Nanjing', 'Nanjing'], [',', ','], ['16', '16'], ['-lrb-', '-lrb-'], ['Jiangsu', 'Jiangsu'], ["'s", "'s"], ['Xinhua', 'Xinhua'], ['agricultural', 'agriculture'], ['foreign', 'foreign'], ['increasing', 'rise']]
+
+256
+10-7 8-5 9-6 2-2 3-3 1-1 
+[['.', '.'], ['El', 'El'], ['Nino', 'Nino'], ['global', 'global'], ['warming', 'warming'], ['connected', 'linked']]
+
+257
+38-41 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 20-26 21-27 22-28 23-29 16-21 17-22 18-23 26-30 27-31 29-32 30-33 37-40 13-15 14-14 20-24 20-25 21-24 21-25 22-24 22-25 24-19 25-18 31-34 34-39 35-38 11-11 
+[['.', '.'], ['Xinhua', 'Xinhua'], ['News', 'news'], ['agency', 'agency'], [',', ','], ['Beijing', 'Beijing'], [',', ','], ['January', 'January'], ['16th', '16th'], ['Bank', 'Bank'], ['of', 'of'], ['China', 'China'], [',', ','], ['the', 'the'], ['president', 'president'], ['of', 'of'], ['said', 'said'], ['that', 'that'], ['China', 'China'], ['will', 'will'], ['policy', 'policy'], ['Yuhong', 'Yuhong'], ['Qian', 'Qian'], ['Bank', 'People'], ['Bank', "'s"], ['of', 'People'], ['of', "'s"], ['China', 'People'], ['China', "'s"], ['Xianglong', 'Xianglong'], ['Dai', 'Dai'], ['continue', 'carry'], ['financial', 'financial'], ['opening', 'open'], ['Xu', 'Xu']]
+
+258
+15-10 6-3 7-4 9-6 12-9 14-7 3-1 
+[['.', '.'], ['economic', 'economic'], ['growth', 'growth'], ['leading', 'caused'], ['rise', 'rise'], ['unemployment', 'unemployment'], ['measure', 'measures']]
+
+259
+21-20 5-8 6-9 7-10 2-4 3-5 4-6 12-12 18-19 9-11 17-17 1-1 
+[['.', '.'], ['with', 'with'], ['a', 'a'], ['local', 'local'], ['is', 'is'], ['currently', 'currently'], ['cooperating', 'working'], ['constructing', 'constructing'], ['project', 'project'], ['company', 'company'], ['railway', 'train'], ['Germany', 'German']]
+
+260
+15-15 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 
+[['.', '.'], ['he', 'he'], ['said', 'said'], ['that', 'that'], ['the', 'the'], ['same', 'same'], ['resolve', 'resolve'], ['would', 'would'], ['lead', 'lead'], ['to', 'to'], ['the', 'the'], ['success', 'success'], ['of', 'of'], ['the', 'the'], ['Kyoto', 'Kyoto'], ['Protocol', 'Protocol']]
+
+261
+29-28 11-9 12-10 13-11 14-12 15-13 0-0 1-1 2-2 3-3 25-17 26-18 27-19 28-20 21-15 22-16 19-22 20-23 10-8 9-7 24-25 23-24 
+[['.', '.'], ['what', 'what'], ['kind', 'kind'], ['of', 'of'], ['missile', 'missile'], ['technology', 'technology'], ['however', 'however'], [',', ','], ['the', 'the'], ['official', 'official'], ['to', 'to'], ['Pakistan', 'Pakistan'], ['and', 'and'], ['Iran', 'Iran'], ['China', 'China'], ['provided', 'provided'], ['and', 'and'], ['when', 'when'], ['elaborate', 'explain'], ['to', 'to'], ['technology', 'technology'], ['such', 'this']]
+
+262
+16-16 0-1 1-2 3-4 4-5 5-7 6-8 15-13 14-12 10-11 
+[['.', '.'], ['Yunnan', 'Yunnan'], ['Gardens', 'Gardens'], ['developed', 'developed'], ['by', 'by'], ['Fujian', 'Fujian'], ['company', 'society'], ['project', 'project'], ['residential', 'housing'], ['313', '313-unit']]
+
+263
+18-25 3-3 4-4 5-5 7-9 8-10 9-11 17-20 14-21 2-2 11-16 0-0 1-1 12-17 10-12 
+[['.', '.'], ['two', 'two'], ['years', 'years'], [',', ','], ['foreign', 'foreign'], ['businessmen', 'businessmen'], ['showed', 'expressed'], ['City', 'city'], ['construction', 'construction'], ['last', 'past'], ['interest', 'involved'], ['in', 'during'], ['the', 'the'], ['in', 'in'], ['their', 'their']]
+
+264
+23-23 7-6 8-7 16-11 17-12 18-17 19-18 5-4 6-5 21-14 1-0 9-21 14-8 
+[['.', '.'], ['said', 'said'], ['that', 'that'], ['characteristic', 'characteristic'], ['of', 'of'], ['Yunnan', 'Yunnan'], ['Gardens', 'Gardens'], ['consulting', 'consulting'], ['company', 'firm'], ['land', 'landed'], ['Dai', 'Dai'], ['spacious', 'spacious'], ['the', 'the']]
+
+265
+11-8 3-2 4-3 5-4 6-5 8-7 10-6 2-1 
+[['.', '.'], ['economic', 'economic'], ['growth', 'growth'], ['and', 'and'], ['raised', 'increases'], ['rate', 'rates'], ['unemployment', 'unemployment'], ['restrained', 'curbs']]
+
+266
+42-43 0-0 1-1 2-2 3-3 37-38 38-39 39-40 40-41 8-7 9-8 16-33 17-34 33-35 34-36 32-31 32-32 6-6 12-16 28-28 27-26 20-19 36-37 13-14 22-18 30-29 23-4 31-30 
+[['.', '.'], ['according', 'according'], ['to', 'to'], ['Xinhua', 'Xinhua'], ['news', 'news'], ['bomber', 'bomber'], ['was', 'was'], ['a', 'a'], ['military', 'military'], ['on', 'on'], ['February', 'February'], ['in', 'in'], ['Baghdad', 'Baghdad'], ['destroyed', 'destroyed'], ['by', 'by'], ['bomb-shelter', 'bomb'], ['bomb-shelter', 'shelter'], ['London', 'London'], ['BBC', 'BBC'], ['evidence', 'sign'], ['no', 'no'], ['capital', 'capital'], ['US', 'American'], ['reporter', 'reporter'], ['Iraq', 'Iraqi'], ['indicate', 'showed'], ['stated', 'report'], ['the', 'the']]
+
+267
+36-29 16-10 17-11 18-12 19-13 22-15 23-16 24-17 1-0 2-1 4-3 5-4 35-28 8-5 33-26 21-14 9-6 
+[['.', '.'], ['before', 'before'], ['?', '?'], ['when', 'when'], ['we', 'we'], ['to', 'to'], ['accept', 'accept'], ['them', 'them'], ['Siazon', 'Siazon'], ['said', 'said'], ["''", "''"], ['someone', 'someone'], ["''", "''"], ['say', 'says'], ['fought', 'fight'], ['ready', 'prepared'], [',', ',']]
+
+268
+19-14 3-8 4-9 5-10 7-12 8-13 2-7 1-6 18-3 17-0 0-5 13-2 
+[['.', '.'], ['the', 'the'], ['bus', 'bus'], ['passengers', 'passengers'], ['the', 'the'], ['accident', 'accident'], ['blamed', 'charged'], ['officials', 'official'], ['said', 'said'], ['report', 'report'], ['railroad', 'railway'], ['agency', 'PTI']]
+
+269
+21-30 16-25 17-26 18-27 19-28 20-29 0-0 1-1 2-2 3-3 8-10 9-11 10-12 4-7 14-23 15-24 6-9 12-15 
+[['.', '.'], ['officers', 'officers'], ['to', 'to'], ['East', 'East'], ['Timor', 'Timor'], ["''", "''"], ['we', 'we'], ['mentioned', 'mentioned'], ['the', 'the'], ['problems', 'problems'], [',', ','], ['such', 'such'], ['as', 'as'], ['Australia', 'Australia'], ['dispatching', 'sending'], ['army', 'military'], ['concerned', 'attention'], ['rights', 'rights']]
+
+270
+21-27 0-0 1-1 2-2 3-3 9-13 10-14 11-15 12-16 13-19 14-20 15-21 16-22 18-24 19-25 20-26 7-9 7-10 4-6 8-12 6-8 17-23 
+[['.', '.'], ['the', 'the'], ['two', 'two'], ['prime', 'prime'], ['ministers', 'ministers'], ['the', 'the'], ['UN', 'UN'], ['representative', 'representative'], ["'s", "'s"], ['stay', 'stay'], ['in', 'in'], ['Cambodia', 'Cambodia'], ['to', 'to'], ['months', 'months'], ['or', 'or'], ['longer', 'longer'], ['Secretary-General', 'Secretary'], ['Secretary-General', 'General'], ['requested', 'asked'], ['prolong', 'extend'], ['UN', 'UN'], ['6', 'six']]
+
+271
+9-8 4-3 5-4 6-5 7-6 8-7 1-1 2-2 0-0 
+[['.', '.'], ['what', 'what'], ['we', 'we'], ['can', 'can'], ['do', 'do'], ['now', 'now'], ['question', 'issue'], ['is', 'is'], ['the', 'the']]
+
+272
+24-28 19-23 20-24 21-25 22-26 23-27 3-3 4-4 5-5 6-6 7-7 11-14 12-15 13-16 16-20 17-21 15-19 9-8 
+[['.', '.'], ['residents', 'residents'], ['that', 'that'], ['they', 'they'], ['are', 'are'], ['Chinese', 'Chinese'], ['15', '15'], ['months', 'months'], ['since', 'since'], ['Hong', 'Hong'], ['Kong', 'Kong'], ['Hong', 'Hong'], ['Kong', 'Kong'], ['government', 'government'], ['to', 'to'], ['remind', 'remind'], ['tries', 'trying'], ['return', 'returned']]
+
+273
+12-18 1-3 2-4 3-9 4-10 8-14 9-15 11-17 0-1 6-7 
+[['.', '.'], ['Iran', 'Iran'], ['has', 'has'], ['more', 'more'], ['than', 'than'], ['the', 'the'], ['border', 'border'], ['Afghanistan', 'Afghanistan'], ['currently', 'present'], ['troops', 'army']]
+
+274
+26-20 8-8 9-9 10-10 12-11 22-15 21-14 19-17 15-12 2-3 4-1 
+[['.', '.'], ['with', 'with'], ['a', 'a'], ['local', 'local'], ['company', 'company'], ['kilometers', 'kilometer'], ['23', '23'], ['railway', 'train'], ['construction', 'constructing'], ['company', 'Company'], ['Germany', 'German']]
+
+275
+16-16 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 
+[['.', '.'], ['he', 'he'], ['added', 'added'], ['that', 'that'], ['the', 'the'], ['83-year', '83-year'], ['old', 'old'], ['woman', 'woman'], ['is', 'is'], ['being', 'being'], ['treated', 'treated'], ['for', 'for'], ['shock', 'shock'], ['in', 'in'], ['a', 'a'], ['nearby', 'nearby'], ['hospital', 'hospital']]
+
+276
+40-35 5-7 6-8 7-9 2-4 3-5 16-16 17-17 36-20 39-34 11-11 27-23 28-22 21-19 9-10 13-18 19-18 37-32 12-12 
+[['.', '.'], ['between', 'between'], ['the', 'the'], ['military', 'military'], ['strengthen', 'strengthen'], ['the', 'the'], ['the', 'the'], ['military', 'military'], ['people', 'people'], ['nationality', 'nationalities'], ['governments', 'government'], ['units', 'share'], ['really', 'truly'], ['civilians', 'civil'], ['and', 'and'], ['and', 'and'], ['and', 'and'], ['of', 'of'], [',', ',']]
+
+277
+16-15 5-7 6-8 7-9 14-13 15-14 9-11 3-6 
+[['.', '.'], ['pieces', 'pieces'], ['due', 'due'], ['to', 'to'], ['the', 'the'], ['ground', 'ground'], ['exposure', 'exposure'], ['broken', 'broken']]
+
+278
+7-8 3-5 4-6 6-7 5-3 1-4 
+[['Shanghai', 'Shanghai'], ['cooperation', 'cooperation'], ['agreements', 'agreements'], ['in', 'in'], ['signed', 'sign'], ['high', 'high-tech']]
+
+279
+18-27 1-3 2-4 3-5 4-6 5-7 6-8 11-14 12-15 13-16 14-17 15-18 7-0 8-1 16-22 17-23 
+[['.', '.'], ['Executive', 'executive'], ['Deputy', 'deputy'], ['Governor', 'governor'], ['of', 'of'], ['Henan', 'Henan'], ['Province', 'Province'], ['Henan', 'Henan'], ["'s", "'s"], ['natural', 'natural'], ['resources', 'resources'], ['and', 'and'], ['Li', 'Li'], ['Chengyu', 'Chengyu'], ['economic', 'economic'], ['development', 'development']]
+
+280
+0-1 1-2 3-4 4-5 2-3 
+[['Liu', 'Liu'], ['Zhenting', 'Zhenting'], ['from', 'from'], ['Bangkok', 'Bangkok'], ['reports', 'reporting']]
+
+281
+23-33 0-1 1-2 2-3 3-4 14-11 15-12 20-26 19-30 22-29 8-9 5-7 7-8 21-27 16-13 
+[['.', '.'], ['I', 'I'], ['think', 'think'], ['we', 'we'], ['have', 'have'], ['in', 'in'], ['this', 'this'], ['Taiwan', 'Taiwan'], ['handle', 'dealt'], ['appropriately', 'properly'], ['times', 'times'], ['this', 'this'], ['several', 'many'], ['question', 'problem'], ['regard', 'area']]
+
+282
+25-21 21-17 22-18 23-19 24-20 0-0 1-1 2-2 8-13 7-12 11-16 19-8 20-9 16-7 15-11 9-14 5-5 
+[['.', '.'], ['the', 'the'], ['day', 'day'], ['before', 'before'], ['yesterday', 'yesterday'], ['Huang', 'Huang'], ['Sihua', 'Sihua'], ['made', 'gave'], ['report', 'reporting'], ['economic', 'economic'], ['meeting', 'meeting'], ['Commerce', 'Business'], ['Union', 'Association'], ['Chinese', 'Chinese'], ['Malaysian', 'Malaysia'], ['and', 'and'], ['at', 'at']]
+
+283
+28-29 0-0 1-1 2-2 13-15 14-16 15-17 6-5 7-6 8-9 9-10 19-19 20-20 25-27 26-28 4-8 11-13 23-25 27-24 18-18 22-23 10-12 
+[['.', '.'], ['Xinhua', 'Xinhua'], ['news', 'news'], ['agency', 'agency'], ['-rrb-', '-rrb-'], ['-', '-'], ['two', 'two'], ['January', 'January'], ['16', '16'], ['-lrb-', '-lrb-'], ['by', 'by'], ['named', 'named'], ["''", "''"], ['business', 'business'], ['here', 'here'], ['Xiamen', 'Xiamen'], ['Yu', 'Yu'], ['opened', 'opened'], ['today', 'today'], ['stores', 'supermarkets'], ["''", "''"], ['journalist', 'reporter']]
+
+284
+11-12 1-2 2-3 7-7 3-5 10-11 8-9 5-4 6-6 
+[['.', '.'], ['discussed', 'discussed'], ['the', 'the'], ['reached', 'arrived'], ['aspects', 'issues'], ['agreement', 'consensus'], ['an', 'a'], ['detail', 'specific'], ['and', 'and']]
+
+285
+5-1 6-2 16-14 17-15 22-6 23-7 18-17 19-16 24-8 1-4 
+[['Computer', 'Computer'], ['Company', 'Company'], ['computer', 'computer'], ['specialist', 'specialist'], ['the', 'the'], ['Chinese', 'Chinese'], ['Yongmin', 'Yongmin'], ['Wang', 'Wang'], ['characters', 'character'], ['name', 'named']]
+
+286
+43-30 4-0 5-1 6-2 7-3 8-4 0-5 1-6 2-7 40-23 41-24 34-27 35-28 42-29 22-19 19-16 30-9 32-10 38-22 18-15 
+[['.', '.'], ['Hangzhou', 'Hangzhou'], [',', ','], ['September', 'September'], ['2', '2'], ['-lrb-', '-lrb-'], ['Xinhua', 'Xinhua'], ['news', 'news'], ['agency', 'agency'], ['and', 'and'], ['facilities', 'facilities'], ['1,500', '1,500'], ['schools', 'schools'], ['damaged', 'damaged'], ['Zhejiang', 'Zhejiang'], ['educational', 'education'], ['typhoon', 'typhoon'], ['17', '17th'], ['premises', 'buildings'], ['the', 'the']]
+
+287
+23-27 5-7 6-8 7-9 8-10 1-3 2-4 15-21 16-22 20-26 3-1 1-2 2-2 3-2 13-18 10-14 12-16 4-5 18-24 22-17 14-19 0-0 
+[['.', '.'], ['the', 'the'], ['government', 'government'], ['to', 'to'], ['face', 'face'], ['British', 'British'], ['Immigrants', 'Immigrants'], ['local', 'local'], ['immigrants', 'immigrants'], ['Australia', 'Australia'], ['Association', 'Association'], ['British', 'of'], ['Immigrants', 'of'], ['Association', 'of'], ['benefit', 'interests'], ['problem', 'problem'], ['the', 'the'], ['urged', 'appeals'], ['also', 'well'], ['economy', 'economic'], ['of', 'of'], ['the', 'the']]
+
+288
+9-11 0-0 1-1 7-4 
+[['.', '.'], ['Asia', 'Asia'], ["'s", "'s"], ['beginning', 'beginning']]
+
+289
+26-30 6-11 7-12 8-13 9-14 11-7 12-8 13-9 16-19 17-20 18-21 23-26 24-27 25-28 2-4 3-5 0-1 1-3 21-23 22-24 
+[['.', '.'], ['political', 'political'], ['and', 'and'], ['economic', 'economic'], ['cooperation', 'cooperation'], ['Russia', 'Russia'], ['and', 'and'], ['Iraq', 'Iraq'], ['the', 'the'], ['United', 'United'], ['Nations', 'Nations'], ['sanctions', 'sanctions'], ['against', 'against'], ['Iraq', 'Iraq'], ['to', 'to'], ['consider', 'consider'], ['Duma', 'Duma'], ['prepared', 'preparing'], ['8', 'eight'], ['years', 'years']]
+
+290
+13-10 10-7 11-8 12-9 5-4 9-6 8-5 
+[['.', '.'], ['in', 'in'], ['the', 'the'], ['project', 'project'], ['Hopewell', 'Hopewell'], ['participate', 'join'], ['to', 'to']]
+
+291
+27-27 2-2 3-3 2-1 2-4 2-5 3-1 3-4 3-5 23-20 22-18 8-12 17-24 6-9 19-26 26-19 18-25 14-23 
+[['.', '.'], ['High', 'High'], ['Court', 'Court'], ['High', 'UK'], ['High', 'of'], ['High', 'Justice'], ['Court', 'UK'], ['Court', 'of'], ['Court', 'Justice'], ['leader', 'leader'], ['former', 'former'], ['Pinochet', 'Pinochet'], ['immunity', 'immunity'], ['detention', 'arrest'], ['prosecution', 'lawsuits'], ['country', 'national'], ['from', 'against'], ['to', 'to']]
+
+292
+39-40 22-21 23-22 24-23 12-4 13-5 37-35 38-36 0-6 27-26 3-7 14-15 18-18 17-17 10-3 16-16 36-34 30-30 31-38 32-31 34-39 5-13 2-0 8-2 
+[['.', '.'], [',', ','], ['Ningguo', 'Ningguo'], [',', ','], ['years', 'years'], [',', ','], ['million', 'million'], ['tons', 'tons'], ['China', 'China'], ['Liuzhou', 'Liuzhou'], ['adopted', 'introduced'], ['establishing', 'built'], ['companies', 'enterprises'], ['cement', 'cement'], ['last', 'recent'], ['large-scale', 'large'], ['22', '2.2'], ['annual', 'annual'], ['cement', 'cement'], ['production', 'production'], ['increased', 'increase'], ['kiln', 'kiln'], ['also', 'besides'], ['in', 'in']]
+
+293
+31-31 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 30-30 
+[['.', '.'], ['the', 'the'], ['lower', 'lower'], ['Divisional', 'Divisional'], ['Court', 'Court'], ['believes', 'believes'], ['the', 'the'], ['retired', 'retired'], ['Pinochet', 'Pinochet'], ['had', 'had'], ['diplomatic', 'diplomatic'], ['immunity', 'immunity'], [',', ','], ['while', 'while'], ['the', 'the'], ['Law', 'Law'], ['Lords', 'Lords'], ['said', 'said'], ['diplomatic', 'diplomatic'], ['immunity', 'immunity'], ['was', 'was'], ['not', 'not'], ['applicable', 'applicable'], ['to', 'to'], ['such', 'such'], ['actions', 'actions'], ['as', 'as'], ['genocide', 'genocide'], [',', ','], ['torture', 'torture'], ['and', 'and'], ['terrorism', 'terrorism']]
+
+294
+21-18 2-8 3-9 4-10 5-11 6-12 16-5 17-6 13-2 9-14 20-4 7-15 19-3 0-7 10-17 
+[['.', '.'], ['the', 'the'], ['Chinese', 'Chinese'], ['government', 'government'], ['has', 'has'], ['issued', 'issued'], ['this', 'this'], ['time', 'time'], ['appears', 'seems'], ['orders', 'orders'], ['stronger', 'firmer'], ['several', 'several'], ['much', 'much'], ['notwithstanding', 'though'], ['before', 'before']]
+
+295
+16-14 7-7 8-8 9-9 1-1 2-2 15-13 14-10 5-5 4-4 3-3 
+[['.', '.'], ['people', 'people'], ['is', 'is'], ['not', 'not'], ['government', 'government'], ['that', 'that'], ["''", "''"], ['people', 'people'], ['fear', 'afraid'], ['not', 'not'], ['does', 'is']]
+
+296
+15-18 0-2 1-3 2-4 4-8 10-17 12-5 14-6 8-16 
+[['.', '.'], ['obviously', 'obviously'], ['referring', 'referring'], ['to', 'to'], ['Cambodia', 'Cambodia'], ['ASEAN', 'ASEAN'], ['April', 'April'], ['1997', '1997'], ['accession', 'join']]
+
+297
+30-20 23-13 24-14 25-15 26-16 27-17 28-18 29-19 22-12 21-11 16-8 17-9 2-3 9-6 
+[['.', '.'], ['that', 'that'], ['it', 'it'], ['was', 'was'], ['a', 'a'], ['military', 'military'], ['target', 'target'], ["''", "''"], ['shows', 'indicated'], ['evidence', 'evidence'], ['avoid', 'avoid'], ['detection', 'reconnaissance'], ["''", "''"], ['disguise', 'disguised']]
+
+298
+20-22 4-6 5-7 6-8 7-9 8-10 15-1 16-2 19-21 13-15 12-14 17-19 
+[['.', '.'], ['rejected', 'rejected'], ['the', 'the'], ['territory', 'territory'], ['division', 'division'], ['proposal', 'proposal'], ['the', 'the'], ['whole', 'whole'], ["''", "''"], ['end', 'termination'], ['the', 'the'], ['peace', 'peace']]
+
+299
+31-31 0-0 1-1 2-2 3-3 4-4 5-5 6-6 7-7 8-8 9-9 10-10 11-11 12-12 13-13 14-14 15-15 16-16 17-17 18-18 19-19 20-20 21-21 22-22 23-23 24-24 25-25 26-26 27-27 28-28 29-29 30-30 
+[['.', '.'], ['according', 'according'], ['to', 'to'], ['the', 'the'], ['statement', 'statement'], [',', ','], ['in', 'in'], ['the', 'the'], ['referendum', 'referendum'], ['held', 'held'], ['on', 'on'], ['August', 'August'], ['27', '27'], ['and', 'and'], ['28', '28'], ['more', 'more'], ['than', 'than'], ['90', '90'], ['percent', 'percent'], ['of', 'of'], ['the', 'the'], ['voters', 'voters'], ['opposed', 'opposed'], ['the', 'the'], ['territorial', 'territorial'], ['divisions', 'divisions'], ['proposed', 'proposed'], ['by', 'by'], ['the', 'the'], ['International', 'International'], ['Contact', 'Contact'], ['Group', 'Group']]
+
+300
+11-10 3-2 4-3 6-4 7-5 10-9 2-1 9-8 8-7 0-0 
+[['.', '.'], ['ceremony', 'ceremony'], ['was', 'was'], ['held', 'held'], ['at', 'at'], ['Center', 'Center'], ['issuing', 'awarding'], ['Culture', 'Cultural'], ['Philippines', 'Philippine'], ['the', 'the']]
+
+301
+30-37 16-20 17-21 18-22 19-23 20-24 21-25 3-12 4-13 8-7 9-8 14-9 24-14 23-30 26-33 27-34 29-36 12-11 1-1 0-0 25-32 6-5 2-3 5-18 22-28 
+[['.', '.'], ['but', 'but'], ['if', 'if'], ['they', 'they'], ['give', 'give'], ['money', 'money'], ['to', 'to'], [',', ','], ['we', 'we'], ['want', 'want'], ['to', 'to'], ['invest', 'invest'], ['will', 'will'], ['we', 'we'], ['protest', 'protest'], ['against', 'against'], ["''", "''"], ['Malaysia', 'Malaysia'], ['said', 'indicated'], ['he', 'he'], ['definitely', 'surely'], ['foreigners', 'foreign'], ["''", "''"], ['welcome', 'welcome'], ['demonstrators', 'demonstrators']]
+
+302
+21-17 2-2 3-3 4-4 5-5 6-6 7-7 12-8 13-9 15-12 16-12 11-10 1-1 
+[['.', '.'], ['also', 'also'], ['one', 'one'], ['of', 'of'], ['the', 'the'], ['important', 'important'], ['orders', 'orders'], ['of', 'of'], ['the', 'the'], ['program', 'program-controlled'], ['controlled', 'program-controlled'], ['production', 'products'], ['is', "'s"]]
+
+303
+25-28 21-24 22-25 23-26 7-5 8-6 12-9 13-10 19-20 20-21 4-12 9-7 6-4 24-27 18-18 10-8 
+[['.', '.'], ['170', '170'], ['countries', 'countries'], ['and', 'and'], ['of', 'of'], ['foreign', 'foreign'], ['taking', 'taking'], ['shape', 'shape'], ['come', 'come'], ['from', 'from'], ['China', 'China'], ['investment', 'capital'], ['use', 'utilization'], ['territories', 'regions'], ['capital', 'capitals'], ['is', 'is']]
+
+304
+19-26 10-16 11-17 12-18 13-19 0-0 1-1 4-6 5-7 7-12 8-13 14-20 14-21 2-4 3-2 2-3 2-5 3-3 3-5 9-15 17-24 15-9 16-23 
+[['.', '.'], ['to', 'to'], ['cooperate', 'cooperate'], ['with', 'with'], ['the', 'the'], ['the', 'the'], ['French', 'French'], ['said', 'said'], ['that', 'that'], ['Iraqi', 'Iraqi'], ['leader', 'leader'], ['UN', 'United'], ['UN', 'Nations'], ['Foreign', 'Foreign'], ['Ministry', 'Ministry'], ['Foreign', 'of'], ['Foreign', 'Affairs'], ['Ministry', 'of'], ['Ministry', 'Affairs'], ['refuses', 'refusal'], ['sad', 'regrettable'], ['caused', 'result'], ['this', 'this']]
+
+305
+25-24 0-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 20-15 21-16 22-17 23-18 10-20 11-21 12-22 24-23 14-9 15-10 17-11 18-12 19-13 
+[['.', '.'], ['if', 'if'], ['we', 'we'], ['accept', 'accept'], ['them', 'them'], ['as', 'as'], ['a', 'a'], ['new', 'new'], ['member', 'member'], ['the', 'the'], ['problem', 'problem'], ['once', 'once'], ['again', 'again'], ['they', 'they'], ['fight', 'fight'], ['again', 'again'], ["''", "''"], [',', ','], ['we', 'we'], ['have', 'have'], ['to', 'to'], ['solve', 'deal']]
+
+306
+26-20 3-0 4-1 5-2 6-3 7-4 8-5 9-6 24-18 25-19 0-10 1-11 14-12 15-13 18-15 19-16 10-8 12-7 
+[['.', '.'], ['Indonesia', 'Indonesia'], ['invaded', 'invaded'], ['East', 'East'], ['Timor', 'Timor'], [',', ','], ['the', 'the'], ['former', 'former'], ['weeks', 'weeks'], ['later', 'later'], ['in', 'in'], ['1975', '1975'], ['and', 'and'], ['annexed', 'annexed'], ['into', 'into'], ['Indonesia', 'Indonesia'], ['colony', 'colony'], ['Portugal', 'Portuguese']]
+
+TOTAL TIME ELAPSED: 24.198862

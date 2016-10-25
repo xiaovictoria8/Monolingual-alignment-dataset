@@ -1,0 +1,1 @@
+pairID,documentID,segmentID,hitType,source,target,sourceLemmatized,targetLemmatized,jaccardDistance,lengthDifference,sureAlignments,possAlignments,sourceHighlights,targetHighlights,answerSureAlignments,answerPossAlignments,answerSourceHighlights,answerTargetHighlights

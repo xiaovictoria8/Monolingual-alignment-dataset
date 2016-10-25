@@ -1,0 +1,4 @@
+batch_type,filename
+passed,QA_HITs_output/passed_batch_results.csv
+participated,QA_HITs_output/participated_batch_results.csv
+all,QA_HITs_output/all_batch_results.csv
