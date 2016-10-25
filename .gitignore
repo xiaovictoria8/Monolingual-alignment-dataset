@@ -1,2 +1,2 @@
 # Ignore AWS credential files
-aws_credentials.py
+aws_credentials.*
