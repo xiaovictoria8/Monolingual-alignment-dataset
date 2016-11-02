@@ -154,3 +154,28 @@ class BatchResults(object):
     
     def __repr__(self):
         return self.__str__()
+    
+class Worker(object):
+    def __init__(self, worker_id, total_count, precision, recall, f1):
+        self.worker_id = worker_id
+        self.total_count = total_count
+        self.precision = precision,
+        self.recall = recall,
+        self.f1 = f1
+
+    def __hash__(self):
+        return hash(self.worker_id)
+
+    def __str__(self):
+        return self.__dict__.__str__()
+    
+    def __repr__(self):
+        return self.__str__()
+        
+        
+        
+        
+        
+        
+        
+        
