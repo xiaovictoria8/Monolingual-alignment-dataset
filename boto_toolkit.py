@@ -21,14 +21,18 @@ Will prompt for commands in terminal
 def main():
     command = raw_input("Command: ")
     while not command == "exit":
-        if command == "upload_external_question":
-            upload_external_question()
+        if command == "upload_training_hits":
+            upload_training_hits()
         else:
             print "No command " + command + " exists"
             
         command = raw_input("Command: ")
     
-def upload_external_question():
+def upload_training_hits():
+    """
+    Uploads a batch of training HITs to MT
+    """
+    
     url = "https://mono-align-training.herokuapp.com/"
     title = "Monolingual alignment training"
     description = "Select the words in paraphrase that correspond to each other. Completing all \
