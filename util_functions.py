@@ -16,6 +16,13 @@ def get_jaccard_dist(src, tgt):
       return 1.0 - float(intersection)/union
     else:
       return 1
+  
+""" Returns length difference of two string inputs """
+def get_length_difference(src, tgt):
+    src_list = src.split()
+    tgt_list = tgt.split()
+    return abs(len(src_list) - len(tgt_list))
+    
 
 """Returns a lowercased, tokenized and lemmatized version of string s"""
 def get_lemmatized_version(s):
@@ -28,6 +35,7 @@ def get_lemmatized_version(s):
     
     # return a string with spaces between each token
     return " ".join(s_list)
+
 
 """Converts a Penn Treebank part-of-speech tag to a WordNet part-of-speech tag"""
 def get_wordnet_tag(treebank_tag):

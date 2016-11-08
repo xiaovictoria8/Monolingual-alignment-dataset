@@ -2,9 +2,18 @@
 The class definitions for HITResults and HITInput, as well as their subclasses.
 """
 
-class HITInput(object):
+class HITUnalignedInput(object):
+    def __init__(self, pair_id, doc_id, segment_id, source, target):
+        self.pair_id = pair_id
+        self.doc_id = doc_id
+        self.segment_id = segment_id
+        self.source = source
+        self.target = target
+
+class HITInput(HITUnalignedInput):
     def __init__(self, pair_id, doc_id, segment_id, source, target, sure_align, poss_align, source_hl, 
                  target_hl):
+        HITUnalignedInput.__init__(self, pair_id, doc_id, segment_id, source, target)
         
         self.pair_id = pair_id
         self.doc_id = doc_id

@@ -17,12 +17,13 @@ def worker_list_from_batch_results(br):
     # maps name of worker -> Worker object representing the worker
     worker_dict = {}
     
-    # scan through all HITTestResults in br and grade themeBadCursorIndexErr
+    # scan through all HITTestResults in br and grade them
     for result in br.test_results:
         print "hi"
         worker_all_align = result.worker_sure_align | result.worker_poss_align
         answer_all_align = result.ans_sure_align | result.ans_poss_align
         
+        # calculate precision, recall and f1 stats
         precision = util.precision(result.worker_sure_align, answer_all_align)
         recall = util.recall(worker_all_align, result.ans_sure_align)
         f1 = util.f1(precision, recall)
