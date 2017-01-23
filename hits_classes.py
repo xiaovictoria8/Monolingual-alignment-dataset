@@ -15,11 +15,6 @@ class HITInput(HITUnalignedInput):
                  target_hl):
         HITUnalignedInput.__init__(self, pair_id, doc_id, segment_id, source, target)
         
-        self.pair_id = pair_id
-        self.doc_id = doc_id
-        self.segment_id = segment_id
-        self.source = source
-        self.target = target
         self.sure_align = sure_align
         self.poss_align = poss_align
         self.source_hl = source_hl
