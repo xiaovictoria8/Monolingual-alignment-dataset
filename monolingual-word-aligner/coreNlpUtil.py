@@ -181,54 +181,29 @@ def dependencyParseAndPutOffsets(parseResult):
 
     result = []
 
-
-#     print "dParse: " + str(dParse) + "\n"
     for item in dParse:
         newItem = []
 
         # copy 'rel'
         newItem.append(item[0])
-        
-        try:
-            # construct and append entry for 'left'
-            left = item[1][0:item[1].rindex("-")]
-            wordNumber = item[1][item[1].rindex("-")+1:]
-            if wordNumber.isdigit() == False:
-                continue
-        
-#             print "item: " + str(item) + "\n"
-#             print "item[2]: " + item[2] + "\n"
-#             
-#             print "words: " + str(words)
-#             print "int(wordNumber): " + str(wordNumber)
-#             print "words[int(wordNumber)-1]: " + str(words[int(wordNumber)-1])
-#             print "words[int(wordNumber)-1][1]: " + str(words[int(wordNumber)-1][1])
-#             print "words[int(wordNumber)-1][1]['CharacterOffsetBegin']: " + str(words[int(wordNumber)-1][1]['CharacterOffsetBegin'])
-#             print ""
-#             
-            left += '{' + words[int(wordNumber)-1][1]['CharacterOffsetBegin'] + ' ' + words[int(wordNumber)-1][1]['CharacterOffsetEnd'] + ' ' +  wordNumber + '}'
-            newItem.append(left)
-            
 
-            # construct and append entry for 'right'
-            right = item[2][0:item[2].rindex("-")]
-            wordNumber = item[2][item[2].rindex("-")+1:]
-            if wordNumber.isdigit() ==  False:
-                continue
-            
-#             print "words: " + str(words)
-#             print "int(wordNumber): " + str(wordNumber)
-#             print "words[int(wordNumber)-1]: " + str(words[int(wordNumber)-1])
-#             print "words[int(wordNumber)-1][1]: " + str(words[int(wordNumber)-1][1])
-#             print "words[int(wordNumber)-1][1]['CharacterOffsetBegin']" + str(words[int(wordNumber)-1][1]['CharacterOffsetBegin'])
-#             
-            right += '{' + words[int(wordNumber)-1][1]['CharacterOffsetBegin'] + ' ' + words[int(wordNumber)-1][1]['CharacterOffsetEnd'] + ' ' + wordNumber  + '}'
-            newItem.append(right)
-            result.append(newItem)
-            
-            
-        except IndexError as e:
-            print e
+        # construct and append entry for 'left'
+        left = item[1][0:item[1].rindex("-")]
+        wordNumber = item[1][item[1].rindex("-")+1:]
+        if wordNumber.isdigit() == False:
+            continue
+        left += '{' + words[int(wordNumber)-1][1]['CharacterOffsetBegin'] + ' ' + words[int(wordNumber)-1][1]['CharacterOffsetEnd'] + ' ' + wordNumber + '}'
+        newItem.append(left)
+
+        # construct and append entry for 'right'
+        right = item[2][0:item[2].rindex("-")]
+        wordNumber = item[2][item[2].rindex("-")+1:]
+        if wordNumber.isdigit() == False:
+            continue
+        right += '{' + words[int(wordNumber)-1][1]['CharacterOffsetBegin'] + ' ' + words[int(wordNumber)-1][1]['CharacterOffsetEnd'] + ' ' + wordNumber  + '}'
+        newItem.append(right)
+
+        result.append(newItem)
 
     return result
 ##############################################################################################################################

@@ -132,8 +132,8 @@ class StanfordCoreNLP(object):
         Checks the location of the jar files.
         Spawns the server as a process.
         """
-        jars = ["stanford-corenlp-3.7.0.jar",
-                "stanford-corenlp-3.7.0-models.jar",
+        jars = ["stanford-corenlp-3.4.1.jar",
+                "stanford-corenlp-3.4.1-models.jar",
                 "joda-time.jar",
                 "xom.jar",
                 "jollyday.jar"]
@@ -141,7 +141,7 @@ class StanfordCoreNLP(object):
         # if CoreNLP libraries are in a different directory,
         # change the corenlp_path variable to point to them
         if not corenlp_path:
-            corenlp_path = "./stanford-corenlp-full-2016-10-31/"
+            corenlp_path = "./stanford-corenlp-full-2014-08-27/"
         
         java_path = "java"
         classname = "edu.stanford.nlp.pipeline.StanfordCoreNLP"
