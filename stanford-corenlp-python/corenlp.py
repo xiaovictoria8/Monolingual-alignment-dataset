@@ -72,6 +72,7 @@ def parse_parser_results(text):
     """
     results = {"sentences": []}
     state = STATE_START
+    text = unicode(text,"utf-8")
     for line in text.encode('utf-8').split("\n"):
         line = line.strip()
         

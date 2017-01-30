@@ -1,5 +1,5 @@
 import util_functions as util
-import csv_conversion as convert
+import batch_results_io as brio
 import hits_classes as hits
 
 import csv
@@ -60,7 +60,7 @@ def worker_list_from_batch_results(br):
         
 
 def main():
-    br = convert.csv_to_batch_results("batch_results.csv")
+    br = brio.csv_to_batch_results("batch_results.csv")
     print br
     l = worker_list_from_batch_results(br)
     

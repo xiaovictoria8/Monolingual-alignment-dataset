@@ -1,2 +1,0 @@
-qual_type,num_workers,num_HITs_completed,precision (by HITs),recall (by HITs),f1 (by HITs),precision (by worker),recall (by worker),f1 (by worker)
-ldc,13,439,0.940857673760373,0.9423442881988303,0.9365727403761284,0.9309550147649612,0.9506286180378183,0.9365902085921027

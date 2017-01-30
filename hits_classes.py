@@ -9,6 +9,12 @@ class HITUnalignedInput(object):
         self.segment_id = segment_id
         self.source = source
         self.target = target
+        
+    def __str__(self):
+        return self.__dict__.__str__()
+    
+    def __repr__(self):
+        return self.__str__()
 
 class HITInput(HITUnalignedInput):
     def __init__(self, pair_id, doc_id, segment_id, source, target, sure_align, poss_align, source_hl, 

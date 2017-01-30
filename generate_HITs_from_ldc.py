@@ -7,7 +7,8 @@ import heapq
 import hits_classes as hits
 import util_functions as util
 import stanford_corenlp_functions as sc
-    
+import progress.bar as pgb
+
 def top_pairs_by_function(n, ldc_file, f, max_val = None):
     """
     Args:
@@ -23,33 +24,29 @@ def top_pairs_by_function(n, ldc_file, f, max_val = None):
         Each sentence pair is represented as a HITUnalignedInput.
         All sentence pairs must have a f(x) value of strictly less than max_val
     """
+
+    # setup progress bar
+    bar = pgb.Bar("Finding top pairs", max = 25495)
+
     
     pq = Queue.PriorityQueue(); # queue of the top n sentence pairs encountered so far
     
     # open data file
     ldc = csv.reader(open(sys.argv[1], 'rb'), delimiter = '\t', quotechar=None)
-    ijk = 0
     
     for row in ldc:
+        bar.next()
         try:
-            print "\n", ijk
-            print "row", row
-            ijk = ijk + 1
             pair_count = -1
              
             # scan through all possible sentence pairs in each row of the ldc
             for i in range(8, len(row)):
                 for j in range(i + 1, len(row)):
-                    
-                    print "\nrow[i]", row[i]
-                    print "row[j]", row[j]
+                
                     pair_count += 1
                     src_token = nltk.word_tokenize(row[i])
                     tgt_token = nltk.word_tokenize(row[j])
                     
-                     
-                    print "src_token", src_token    
-                    print "tgt_token", tgt_token   
                 
                     # only select sentences that have between 5 and 30 words and end in punctuation
                     if (len(tgt_token) < 30 and len(tgt_token) > 5 and 
@@ -57,7 +54,6 @@ def top_pairs_by_function(n, ldc_file, f, max_val = None):
                                     and not row[i][0].islower() and not row[j][0].islower()
                                     and row[i][len(row[i]) - 1] in "!\".?"
                                     and row[j][len(row[j]) - 1] in "!\".?"):
-                        print "valid"
                          
                         # create the appriopriate HIT representation for the sentence pairs
                         pair_id = row[2] + "-" + row[3] + "-" + str(pair_count)
@@ -67,16 +63,12 @@ def top_pairs_by_function(n, ldc_file, f, max_val = None):
                         tgt_lemma = util.get_lemmatized_version(row[j])
                          
                         f_val = f(src_lemma, tgt_lemma)
-                        print "f_val", f_val
-                        print "hello"
-                         
-#                         # ignore if jaccard distance exceed max_val
-#                         if f_val >= max_val:
-#                             "f_val >= max_val"
-#                             continue
+
+                        # ignore if jaccard distance exceed max_val
+                        if max_val and f_val >= max_val:
+                            "f_val >= max_val"
+                            continue
                         
-                        print "starting to convert to hit"
-                         
                         # create new HITUnalignedInput object
                         hit = hits.HITUnalignedInput(
                                 pair_id = pair_id,
@@ -86,26 +78,26 @@ def top_pairs_by_function(n, ldc_file, f, max_val = None):
                                 target = tgt
                             )
                         
-                        print "hit", hit
-                        print "pq.queue", pq.queue
-                        print "n", n
-                         
                         # insert pair into heap and then discard min 
                         if pq.qsize() < n:
-                            pq.put((f_val, hit));
+                            pq.put((f_val, hit))
+
                         elif f_val > pq.queue[0][0]:
                             pq.get()
                             pq.put((f_val, hit))
+                        
         except:
             pass
+        
+    bar.finish()
              
     # reconstruct and return list of HITs
     ret_list = []
-    print "pq", pq.queue
     while pq.qsize() > 0:
-        print "ret_list", ret_list
+#         print "ret_list", ret_list
         ret_list.append(pq.get()[1])
-        return ret_list[::-1]
+        
+    return ret_list[::-1]
 
     
 def align_list_of_hits(l):
@@ -119,22 +111,51 @@ def align_list_of_hits(l):
         A list of the sentence pairs in l, with each sentence pair represented as a HITInput object.
     """
     
+    print "starting align_list_of_hits"
+    
+    # setup bar
+    bar = pgb.Bar("Aligning top pairs", max=len(l))
+    
     hit_input_list = []
     for unalgn_hit in l:
-        hit_input = hits.HITInput(
-            pair_id = unalgn_hit.pair_id,
-            doc_id = unalgn_hit.doc_id,
-            segment_id = unalgn_hit.segment_id,
-            source = unalgn_hit.source,
-            target = unalgn_hit.target,
-            sure_align = sc.mono_align(util.get_lemmatized_version(unalgn_hit.source), util.get_lemmatized_version(unalgn_hit.target)),
-            poss_align = set(),
-            source_hl = set(),
-            target_hl = set()
-            )
-        hit_input_list.append(hit_input)
+        bar.next()
+        try:
+            hit_input = hits.HITInput(
+                pair_id = unalgn_hit.pair_id,
+                doc_id = unalgn_hit.doc_id,
+                segment_id = unalgn_hit.segment_id,
+                source = unalgn_hit.source,
+                target = unalgn_hit.target,
+                sure_align = sc.mono_align(util.get_lemmatized_version(unalgn_hit.source), util.get_lemmatized_version(unalgn_hit.target)),
+                poss_align = set(),
+                source_hl = set(),
+                target_hl = set()
+                )
+            hit_input_list.append(hit_input)
+        except:
+            pass
+    
+    print "done align_list_of_hits"
+    print "hit_input_list: ", hit_input_list 
+    
+    bar.finish()
     
     return hit_input_list
+
+
+def alignments_to_string(align_set):
+    """
+    Converts a set of alignments to the alignments format for the Mechanical Turk HITs Input CSV file.
+    
+    Args:
+        alignments : A set of alignments in Pharoah format.
+    
+    Returns:
+        A single string containing a space-seperated list of all alignments in the set.
+    """
+
+    return ' '.join([s for s in list(align_set)])
+    
 
 def print_hit_input_list_to_csv(l, csv_file):
     """
@@ -144,8 +165,13 @@ def print_hit_input_list_to_csv(l, csv_file):
         csv_file : The string filename of the csv file to print to
     """
     
+    # setup bar
+    print "starting print_hit_input_list_to_csv"
+    bar = pgb.Bar("Printing top pairs", max=len(l))
+    
     # open csv writer and print out first row
-    csv_writer = csv.writer(open(csv_file, 'w'), delimiter = '\t')
+    print "creating csv_writer"
+    csv_writer = csv.writer(open(csv_file, 'w'), delimiter = ',')
     csv_writer.writerow(["pairID", "documentID", "segmentID", "hitType", "source",
                          "target", "sourceLemmatized", "targetLemmatized",
                          "jaccardDistance", "lengthDifference", "sureAlignments", 
@@ -154,14 +180,22 @@ def print_hit_input_list_to_csv(l, csv_file):
                          "answerSourceHighlights", "answerTargetHighlights"])
     
     # print each HITInput object to the CSV file
+    print "printing each HITInput object to CSV"
     for hit in l:
+        bar.next()
         lemma_src = util.get_lemmatized_version(hit.source)
         lemma_tgt = util.get_lemmatized_version(hit.target)
         csv_writer.writerow([hit.pair_id, hit.doc_id, hit.segment_id, "HITInput", hit.source, 
                              hit.target, lemma_src, lemma_tgt, 
                              util.get_jaccard_dist(lemma_src, lemma_tgt),
-                             util.get_length_difference(lemma_src, lemma_tgt), hit.sure_align, 
-                             hit.poss_align, hit.source_hl, hit.target_hl, "", "", "", ""])
+                             util.get_length_difference(lemma_src, lemma_tgt), 
+                             alignments_to_string(hit.sure_align), alignments_to_string(hit.poss_align), 
+                             alignments_to_string(hit.source_hl), alignments_to_string(hit.target_hl), 
+                             "", "", "", ""])
+    
+    print "done"
+        
+    bar.finish()
     
 def main():
     """
@@ -170,7 +204,7 @@ def main():
     
     Args:
         sys.argv[1] : the filename of the input LDC corpus CSV file
-        sys.argv[2] : the filename of the output TSV file
+        sys.argv[2] : the filename of the output CSV file
         sys.argv[3] : n, the number of sentence pairs to generate
         sys.argv[4] : "jd" if rank by jaccard distance, "ld" if rank by length difference 
         sys.argv[5] : the maximum bound in terms of jd/ld to be printed in the output file
@@ -180,14 +214,16 @@ def main():
      
     if sys.argv[4] == "jd":
         hits_list = top_pairs_by_function(int(sys.argv[3]), sys.argv[1], util.get_jaccard_dist, max_bound)
-         
+          
     elif sys.argv[4] == "ld":
         hits_list = top_pairs_by_function(int(sys.argv[3]), sys.argv[1], util.get_length_difference, max_bound)
-         
+          
     else:
         raise ValueError("Error: Invalid argument for sorting metric (must input 'jd' or 'ld')")
         return
          
+    print "finished finding top pairs"
+    print "hits_list: ", hits_list
     print_hit_input_list_to_csv(align_list_of_hits(hits_list), sys.argv[2])
 
 
