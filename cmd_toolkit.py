@@ -57,6 +57,7 @@ def upload_training_hits():
     
     print "Created HIT, url=", url, "reward=", reward , "hitID=", hit.HITId, "\n"
     
-    
+
+
 if __name__ == "__main__":
     main()

@@ -42,7 +42,24 @@ def random_csv_embed(f1, f2, outfile):
             out_writer.write(f2_l[f2_index])    
 
 def main():
-    random_csv_embed(sys.argv[0], sys.argv[1])
+#     random_csv_embed(sys.argv[0], sys.argv[1])
+
+    filee1 = csv.reader(open(sys.argv[3], 'rb'), delimiter = ',', quotechar=None)
+    sett = set([])
+    for row in filee1:
+        if tuple(row[31:32]) not in sett:
+            sett.add(tuple(row[31:32]))
+    
+    filee = csv.reader(open(sys.argv[1], 'rb'), delimiter = ',', quotechar=None)
+    sentence_d = {}
+    for row in filee:
+        if tuple(row[4:5]) not in sentence_d and tuple(row[4:5]) not in sett:
+            sentence_d[tuple(row[4:5])] = row
+        
+    csv_writer = csv.writer(open(sys.argv[2], 'w'), delimiter = ',', quotechar=None)
+    for key in sentence_d:
+        csv_writer.writerow(sentence_d[key])
+    
 
 if __name__ == "__main__":
     main()
