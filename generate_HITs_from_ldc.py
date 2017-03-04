@@ -7,6 +7,7 @@ import heapq
 import hits_classes as hits
 import util_functions as util
 import stanford_corenlp_functions as sc
+import hits_io as io
 import progress.bar as pgb
 
 def top_pairs_by_function(n, ldc_file, f, max_val = None):
@@ -141,61 +142,6 @@ def align_list_of_hits(l):
     bar.finish()
     
     return hit_input_list
-
-
-def alignments_to_string(align_set):
-    """
-    Converts a set of alignments to the alignments format for the Mechanical Turk HITs Input CSV file.
-    
-    Args:
-        alignments : A set of alignments in Pharoah format.
-    
-    Returns:
-        A single string containing a space-seperated list of all alignments in the set.
-    """
-
-    return ' '.join([s for s in list(align_set)])
-    
-
-def print_hit_input_list_to_csv(l, csv_file):
-    """
-    Prints a list of HITInput objects to csv_file in the Mechanical Turk HITs Input format.
-    Args:
-        l : The list of HITInput objects
-        csv_file : The string filename of the csv file to print to
-    """
-    
-    # setup bar
-    print "starting print_hit_input_list_to_csv"
-    bar = pgb.Bar("Printing top pairs", max=len(l))
-    
-    # open csv writer and print out first row
-    print "creating csv_writer"
-    csv_writer = csv.writer(open(csv_file, 'w'), delimiter = ',')
-    csv_writer.writerow(["pairID", "documentID", "segmentID", "hitType", "source",
-                         "target", "sourceLemmatized", "targetLemmatized",
-                         "jaccardDistance", "lengthDifference", "sureAlignments", 
-                         "possAlignments", "sourceHighlights", "targetHighlights", 
-                         "answerSureAlignments", "answerPossAlignments",
-                         "answerSourceHighlights", "answerTargetHighlights"])
-    
-    # print each HITInput object to the CSV file
-    print "printing each HITInput object to CSV"
-    for hit in l:
-        bar.next()
-        lemma_src = util.get_lemmatized_version(hit.source)
-        lemma_tgt = util.get_lemmatized_version(hit.target)
-        csv_writer.writerow([hit.pair_id, hit.doc_id, hit.segment_id, "HITInput", hit.source, 
-                             hit.target, lemma_src, lemma_tgt, 
-                             util.get_jaccard_dist(lemma_src, lemma_tgt),
-                             util.get_length_difference(lemma_src, lemma_tgt), 
-                             alignments_to_string(hit.sure_align), alignments_to_string(hit.poss_align), 
-                             alignments_to_string(hit.source_hl), alignments_to_string(hit.target_hl), 
-                             "", "", "", ""])
-    
-    print "done"
-        
-    bar.finish()
     
 def main():
     """
@@ -224,7 +170,7 @@ def main():
          
     print "finished finding top pairs"
     print "hits_list: ", hits_list
-    print_hit_input_list_to_csv(align_list_of_hits(hits_list), sys.argv[2])
+    io.hit_input_list_to_csv(align_list_of_hits(hits_list), sys.argv[2])
 
 
 if __name__ == "__main__":

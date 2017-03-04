@@ -1,5 +1,5 @@
 import util_functions as util
-import batch_results_io as brio
+import hits_io as brio
 import hits_classes as hits
 
 import csv
