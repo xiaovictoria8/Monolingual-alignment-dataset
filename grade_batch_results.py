@@ -3,6 +3,7 @@ import hits_io as brio
 import hits_classes as hits
 
 import csv
+import sys
 
 def worker_list_from_batch_results(br):
     """
@@ -60,11 +61,20 @@ def worker_list_from_batch_results(br):
         
 
 def main():
-    br = brio.csv_to_batch_results("batch_results.csv")
+    """
+    Opens batch results file containing results to test HITs, grades it, and outputs a CSV containing
+    the grades of each worker.
+    
+    Args:
+        sys.argv[1] : the filename of the input batch results file
+        sys.argv[2] : the filename of the output worker grades CSV file
+    """
+    
+    br = brio.csv_to_batch_results(sys.argv[1])
     print br
     l = worker_list_from_batch_results(br)
     
-    workers_writer = csv.writer(open("worker_results.csv", 'wb'), delimiter = ",")
+    workers_writer = csv.writer(open(sys.argv[2] , 'wb'), delimiter = ",")
     workers_writer.writerow(["WorkerID", "# HITs completed", "Precision", "Recall", "F1"])
     
     for worker in l:
